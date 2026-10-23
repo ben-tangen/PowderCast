@@ -13,6 +13,11 @@ When putting together data for a model to train/test on, each season of a ski re
 |---|---|
 | Resort  | Alta  |
 | Season  | 2024-2025  |
+| Latitude | 50.05 |
+| Longitude | 50.05 |
+| Base Elevation | 6000 ft |
+| Top Elevation | 8000 ft |
+| Elevation Difference | 2000 ft |
 | **PRE-SEASON DATA**  |   |
 | Pre-season ONI/PDO/PNA/AO/NAO data from May-November | TBD  |
 | **SEASON DATA**| |
