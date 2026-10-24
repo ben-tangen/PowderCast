@@ -1,0 +1,115 @@
+resort,state_or_province,country,hemisphere,status,onthesnow_path,match_method,match_score,closest_listing,n_snowfall_seasons,latitude,longitude,coord_source,coord_state_match,coord_display_name
+Afton Alps Ski Resort,Minnesota,United States,N,matched,minnesota/afton-alps,exact,1.0,,13,44.8576,-92.7879,nominatim,True,"Afton Alps, 6600, Peller Avenue South, Hastings, Washington County, Minnesota, 55033, United States"
+Alpine Valley Ski Resort,Wisconsin,United States,N,matched,wisconsin/alpine-valley-resort,exact,1.0,,13,42.7382,-88.434,nominatim,True,"Alpine Valley Music Theatre, County Hwy D, Town of Spring Prairie, Town of Lafayette, Walworth County, Wisconsin, 53121, United States"
+Alta Ski Area,Utah,United States,N,matched,utah/alta-ski-area,exact,1.0,,13,40.5882,-111.6384,nominatim,True,"Alta Ski Area, Peruvian Acre Road, Alta, Salt Lake County, Utah, 85092, United States"
+Alyeska Resort,Alaska,United States,N,matched,alaska/alyeska-resort,exact,1.0,,13,60.9619,-149.0809,nominatim,True,"Alyeska Resort, Girdwood, Anchorage, Alaska, United States"
+Andermatt-Sedrun-Disentis Ski Resort,Canton of Uri and Grisons,Switzerland,N,no_match,,none,0.421,graubunden/disentis-3000 (0.42),0,,,,,
+Arai Ski Resort,Niigata,Japan,N,no_match,,none,0.4,hokkaido/furano-ski-resort (0.40),0,,,,,
+Arapahoe Basin Ski Area,Colorado,United States,N,matched,colorado/arapahoe-basin-ski-area,exact,1.0,,13,39.6419,-105.8721,nominatim,True,"Arapahoe Basin Ski Area, 28194, US 6, Keystone, Summit County, Colorado, 80435, United States"
+Aspen Snowmass,Colorado,United States,N,matched,colorado/aspen-snowmass,exact,1.0,,13,39.1857,-106.9449,nominatim,True,"Aspen Snowmass, Snowmass Village, Pitkin County, Colorado, United States"
+Attitash Mountain Resort,New Hampshire,United States,N,matched,new-hampshire/attitash,exact,1.0,,13,44.0742,-71.2447,nominatim,True,"Attitash Mountain Resort, Top Notch Road, Cooks Crossing, Bartlett, Carroll County, New Hampshire, 03938, United States"
+Beaver Creek Ski Resort,Colorado,United States,N,matched,colorado/beaver-creek,exact,1.0,,13,39.5947,-106.5254,nominatim,True,"Beaver Creek, Bachelor Gulch, Eagle County, Colorado, United States"
+Big Bear Mountain Resort,California,United States,N,matched,california/big-bear,guess,0.5,california/bear-mountain (0.67),13,34.2198,-116.8601,nominatim,True,"Big Bear Mountain Resort, Moonridge, Big Bear Lake, San Bernardino County, California, United States"
+Big Boulder Ski Resort,Pennsylvania,United States,N,matched,pennsylvania/big-boulder,exact,1.0,,13,41.0467,-75.5998,nominatim,True,"Big Boulder, Cardinal Lane, Lake Harmony, Kidder Township, Carbon County, Pennsylvania, 18624, United States"
+Big Sky Resort,Montana,United States,N,matched,montana/big-sky-resort,exact,1.0,,13,45.2812,-111.4112,nominatim,True,"Big Sky Resort, Big Sky, Madison County, Montana, United States"
+Blue Mountain Resort,Pennsylvania,United States,N,matched,pennsylvania/blue-mountain-ski-area,exact,1.0,,13,40.8167,-75.5098,nominatim,True,"Blue Mountain Resort, 1660, Little Gap, Palmerton, Carbon County, Pennsylvania, 18071, United States"
+Blue Mountain Ski Resort,Ontario,Canada,N,matched,ontario/blue-mountain,exact,1.0,,13,44.5008,-80.3179,nominatim,True,"Blue Mountain Ski Resort, The Blue Mountains, Grey County, Southwestern Ontario, Ontario, Canada"
+Boston Mills Ski Resort,Ohio,United States,N,matched,ohio/boston-mills,exact,1.0,,13,41.2641,-81.5639,nominatim,True,"Boston Mills Ski Resort, 7100, Boston, Peninsula, Boston Township, Summit County, Ohio, 44264, United States"
+Boyne Mountain Ski Resort,Michigan,United States,N,matched,michigan/boyne-mountain-resort,exact,1.0,,13,45.1652,-84.9392,nominatim,True,"Boyne Mountain, Boyne Valley Township, Charlevoix County, Michigan, United States"
+Brandywine Ski Resort,Ohio,United States,N,matched,ohio/brandywine,exact,1.0,,13,41.2847,-81.5553,nominatim,True,"Brandywine Ski Resort, 1146, Sagamore Hills, Sagamore Hills Township, Summit County, Ohio, 44067, United States"
+Breckenridge Ski Resort,Colorado,United States,N,matched,colorado/breckenridge,exact,1.0,,13,39.4749,-106.0783,nominatim,True,"Breckenridge, Summit County, Colorado, 80242, United States"
+Brighton Ski Resort,Utah,United States,N,matched,utah/brighton-resort,exact,1.0,,13,40.598,-111.5837,nominatim,True,"Brighton Ski Resort, 12601, Brighton Lakes Trail, Brighton, Salt Lake County, Utah, 84121, United States"
+Camelback Mountain Resort,Pennsylvania,United States,N,matched,pennsylvania/camelback-mountain-resort,exact,1.0,,13,41.0492,-75.3504,nominatim,True,"Camelback Mountain Resort, Pocono Township, Monroe County, Pennsylvania, United States"
+Chamonix Mont-Blanc Valley Ski Resort,Auvergne-Rhône-Alpes,France,N,no_match,,none,0.844,northern-alps/chamonix-mont-blanc (0.84),0,,,,,
+Copper Mountain Ski Resort,Colorado,United States,N,matched,colorado/copper-mountain-resort,exact,1.0,,13,39.4994,-106.1563,nominatim,True,"Copper Mountain Resort, New Old Road, Copper Mountain, Summit County, Colorado, United States"
+Coronet Peak Ski Resort,Otago,New Zealand,S,excluded_southern_hemisphere,,,,,0,,,,,
+Crans-Montana Ski Resort,Valais,Switzerland,N,matched,valais/crans-montana,exact,1.0,,13,46.3069,7.469,nominatim,,"Crans-Montana, Sierre, Valais central, Valais/Wallis, Schweiz/Suisse/Svizzera/Svizra"
+Crested Butte Ski Resort,Colorado,United States,N,matched,colorado/crested-butte-mountain-resort,exact,1.0,,13,38.8698,-106.984,nominatim,True,"Crested Butte, Gunnison County, Colorado, United States"
+Crotched Mountain Ski Resort,New Hampshire,United States,N,matched,new-hampshire/crotched-mountain,exact,1.0,,13,42.9983,-71.8739,nominatim,True,"Crotched Mountain, Francestown, Hillsborough County, New Hampshire, 03403, United States"
+Crystal Mountain Resort,Washington,United States,N,matched,washington/crystal-mountain-wa,exact,1.0,,13,46.9327,-121.4877,nominatim,True,"Crystal Mountain, Pierce County, Washington, United States"
+Cypress Mountain Ski Resort,British Columbia,Canada,N,matched,british-columbia/cypress-mountain,exact,1.0,,13,49.3977,-123.2011,nominatim,True,"Cypress Mountain, West Vancouver, Metro Vancouver Regional District, British Columbia, Canada"
+Deer Valley Resort,Utah,United States,N,matched,utah/deer-valley-resort,exact,1.0,,13,40.6122,-111.4823,nominatim,True,"Deer Valley Resort, Wasatch County, Utah, 84055, United States"
+Dolomiti Superski,Trentino-Alto Adige,Italy,N,no_match,,none,0.48,veneto/misurina (0.48),0,,,,,
+Eldora Mountain Resort,Colorado,United States,N,matched,colorado/eldora-mountain-resort,exact,1.0,,13,39.9373,-105.584,nominatim,True,"Eldora Mountain Resort, Eldora Ski Road, Boulder County, Colorado, 80474, United States"
+Falls Creek Ski Resort,Victoria,Australia,S,excluded_southern_hemisphere,,,,,0,,,,,
+Fernie Alpine Resort,British Columbia,Canada,N,matched,british-columbia/fernie-alpine,exact,1.0,,13,49.4555,-115.1016,nominatim,True,"Fernie Alpine Resort, Area A (Upper Flathead/Elk Valley), Regional District of East Kootenay, British Columbia, Canada"
+Grandvalira,Andorra la Vella,Andorra,N,matched,andorra/grandvalira,exact,1.0,,13,,,not_found,,
+Hakuba Valley Ski Resort,Nagano,Japan,N,no_snowfall_table,nagano/hakuba-valley,exact,1.0,,0,,,,,
+Heavenly Mountain Resort,California/Nevada,United States,N,matched,california/heavenly-mountain-resort,exact,1.0,,13,38.9405,-119.8974,nominatim,True,"Heavenly Mountain Resort, Kingsbury, Douglas County, Nevada, United States"
+Hidden Valley Ski Resort (MO),Missouri,United States,N,matched,missouri/hidden-valley-ski-area,exact,1.0,,13,38.5359,-90.6538,nominatim,True,"Hidden Valley, Wildwood, Saint Louis County, Missouri, United States"
+Hidden Valley Ski Resort (PA),Pennsylvania,United States,N,matched,pennsylvania/hidden-valley-resort,exact,1.0,,13,40.1068,-75.378,nominatim,True,"Hidden Valley, King of Prussia, Upper Merion Township, Montgomery County, Pennsylvania, 19406, United States"
+Hotham Ski Resort,Victoria,Australia,S,excluded_southern_hemisphere,,,,,0,,,,,
+Hunter Mountain Ski Resort,New York,United States,N,matched,new-york/hunter-mountain,exact,1.0,,13,42.1779,-74.2304,nominatim,True,"Hunter Mountain, Town of Hunter, Greene County, New York, 12450, United States"
+Jack Frost Big Boulder Ski Area,Pennsylvania,United States,N,no_match,,none,0.667,pennsylvania/big-boulder (0.67),0,,,,,
+Jackson Hole Mountain Resort,Wyoming,United States,N,matched,wyoming/jackson-hole,exact,1.0,,13,43.5882,-110.8288,nominatim,True,"Jackson Hole Mountain Resort, Teton Village, Teton County, Wyoming, United States"
+June Mountain Ski Resort,California,United States,N,matched,california/june-mountain,exact,1.0,,12,37.7614,-119.084,nominatim,True,"June Mountain Ski Area, Yost Creek Trail, Mono County, California, 93529, United States"
+Keystone Resort,Colorado,United States,N,matched,colorado/keystone,exact,1.0,,13,39.6046,-105.9538,nominatim,True,"Keystone Resort, West Keystone Road, Keystone, Summit County, Colorado, 80435, United States"
+Kicking Horse Mountain Resort,British Columbia,Canada,N,matched,british-columbia/kicking-horse,exact,1.0,,13,51.2982,-117.0499,nominatim,True,"Kicking Horse Mountain Resort, Area A (Kicking Horse/Kinbasket Lake), Columbia-Shuswap Regional District, British Columbia, V0A 1H2, Canada"
+Killington/Pico Ski Resort,Vermont,United States,N,no_match,,none,0.8,vermont/killington-resort (0.80),0,,,,,
+Kimberley Alpine Resort,British Columbia,Canada,N,no_match,,none,0.72,british-columbia/kimberley (0.72),0,,,,,
+Kirkwood Mountain Resort,California,United States,N,matched,california/kirkwood,exact,1.0,,13,38.6758,-120.0616,nominatim,True,"Kirkwood Mountain Resort, Alpine County, California, United States"
+Kitzbühel Ski Resort,Tyrol,Austria,N,no_match,,none,0.444,carinthia/gerlitzen (0.44),0,,,,,
+Laurel Mountain Ski Resort,Pennsylvania,United States,N,no_match,,none,0.6,pennsylvania/blue-mountain-ski-area (0.60),0,,,,,
+Les 3 Vallées,Savoie,France,N,no_match,,none,0.5,northern-alps/lans-en-vercors (0.50),0,,,,,
+Liberty Mountain Resort,Pennsylvania,United States,N,matched,pennsylvania/liberty,exact,1.0,,13,39.7606,-77.3685,nominatim,True,"Liberty Mountain Resort, 78, Country Club Trail, Carroll Valley, Adams County, Pennsylvania, 17320, United States"
+Loon Mountain Ski Resort,New Hampshire,United States,N,matched,new-hampshire/loon-mountain,exact,1.0,,13,44.0349,-71.6207,nominatim,True,"Loon Mountain, Lincoln, Grafton County, New Hampshire, 03251, United States"
+Mad River Mountain,Ohio,United States,N,matched,ohio/mad-river-mountain,exact,1.0,,13,40.3172,-83.6753,nominatim,True,"Mad River Mountain, Valley Hi, Jefferson Township, Logan County, Ohio, United States"
+Mammoth Mountain Ski Resort,California,United States,N,matched,california/mammoth-mountain-ski-area,exact,1.0,,13,37.6502,-119.0376,nominatim,True,"Mammoth Mountain Ski Area, Velocity DH, Mammoth Lakes, Mono County, California, 93564, United States"
+Mont Tremblant Ski Resort,Quebec,Canada,N,no_match,,none,0.783,quebec/tremblant (0.78),0,,,,,
+Mont-Sainte-Anne Ski Resort,Quebec,Canada,N,matched,quebec/mont-sainte-anne,exact,1.0,,13,47.0877,-70.9261,nominatim,True,"Mont-Sainte-Anne, Boulevard du Beau-Pré, Beaupré, La Côte-de-Beaupré, Capitale-Nationale, Québec, G0A 1E0, Canada"
+Mount Snow Ski Resort,Vermont,United States,N,matched,vermont/mount-snow,exact,1.0,,13,42.9614,-72.9067,nominatim,True,"Mount Snow, Windham County, Vermont, United States"
+Mount Sunapee Resort,New Hampshire,United States,N,matched,new-hampshire/mount-sunapee,exact,1.0,,13,43.3258,-72.0753,nominatim,True,"Mount Sunapee, Newbury, Merrimack County, New Hampshire, United States"
+Mt Buller Ski Resort,Victoria,Australia,S,excluded_southern_hemisphere,,,,,0,,,,,
+Mt. Bachelor Ski Resort,Oregon,United States,N,matched,oregon/mt-bachelor,exact,1.0,,13,43.9794,-121.6885,nominatim,True,"Mount Bachelor, Deschutes County, Oregon, United States"
+Mt. Brighton Ski Resort,Michigan,United States,N,matched,michigan/mount-brighton,exact,1.0,,13,42.539,-83.8092,nominatim,True,"Mt Brighton, Genoa Charter Township, Livingston County, Michigan, United States"
+Nakiska Ski Area,Alberta,Canada,N,matched,alberta/nakiska-ski-area,exact,1.0,,13,50.9419,-115.1513,nominatim,True,"Nakiska Ski Area, Mount Allan Drive, Kananaskis Village, Kananaskis Improvement District, Alberta, Canada"
+Niseko United Ski Resort,Hokkaido,Japan,N,no_snowfall_table,hokkaido/niseko-united,exact,1.0,,0,,,,,
+Northstar California Resort,California,United States,N,matched,california/northstar-california,exact,1.0,,13,33.6561,-117.6695,nominatim,True,"Northstar, Whispering Hills, Lake Forest, Orange County, California, 92630, United States"
+Okemo Mountain Resort,Vermont,United States,N,matched,vermont/okemo-mountain-resort,exact,1.0,,13,43.4018,-72.717,nominatim,True,"Okemo Mountain Resort, 77, Okemo Ridge Road, Ludlow, Windsor County, Vermont, 05140, United States"
+Palisades Tahoe Ski Resort,California,United States,N,matched,california/palisades-tahoe,exact,1.0,,13,39.1926,-120.2471,nominatim,True,"Palisades Tahoe Olympic Valley, 1960, Olympic Valley, Placer County, California, 96146, United States"
+Panorama Mountain Resort,British Columbia,Canada,N,matched,british-columbia/panorama-mountain,exact,1.0,,13,50.442,-116.2124,nominatim,True,"Panorama Mountain Resort, 2000, Panorama Mountain Village, Area F (Columbia Lake/Windermere Lake), Regional District of East Kootenay, British Columbia, V0A 1T0, Canada"
+Paoli Peaks,Indiana,United States,N,matched,indiana/paoli-peaks,exact,1.0,,12,38.5559,-86.5122,nominatim,True,"Paoli Peaks, West County Road 25 South, Braxtons Siding, Orange County, Indiana, 47454, United States"
+Park City Mountain Resort,Utah,United States,N,matched,utah/park-city-mountain-resort,exact,1.0,,13,40.6541,-111.5624,nominatim,True,"Park City Mountain Resort, Summit County, Utah, 84068, United States"
+Perisher Ski Resort,New South Wales,Australia,S,excluded_southern_hemisphere,,,,,0,,,,,
+RED Mountain Resort,British Columbia,Canada,N,matched,british-columbia/red-resort,exact,1.0,,13,49.1056,-117.8463,nominatim,True,"Red Mountain Resort, 4300, Rossland, Regional District of Kootenay Boundary, British Columbia, V0G 1Y0, Canada"
+Revelstoke Mountain Resort,British Columbia,Canada,N,matched,british-columbia/revelstoke-mountain,exact,1.0,,13,50.9693,-118.1092,nominatim,True,"Revelstoke Mountain Resort, Area B (Shelter Bay/Mica Creek), Columbia-Shuswap Regional District, British Columbia, Canada"
+Roundtop Mountain Resort,Pennsylvania,United States,N,matched,pennsylvania/roundtop-mountain-resort,exact,1.0,,13,40.1084,-76.9287,nominatim,True,"Roundtop Mountain Resort, 925, Roundtop Road, Warrington Township, York County, Pennsylvania, 17339, United States"
+Rusutsu Resort,Hokkaido,Japan,N,no_snowfall_table,hokkaido/rusutsu,exact,1.0,,0,,,,,
+Schweitzer Mountain Resort,Idaho,United States,N,matched,idaho/schweitzer,exact,1.0,,13,48.3787,-116.6131,nominatim,True,"Schweitzer Mountain Resort, Bonner County, Idaho, United States"
+Seven Springs Mountain Resort,Pennsylvania,United States,N,matched,pennsylvania/seven-springs,exact,1.0,,13,40.0235,-79.2982,nominatim,True,"Seven Springs Mountain Resort, 777, Waterwheel Drive, Seven Springs, Somerset County, Pennsylvania, 15622, United States"
+Sierra-at-Tahoe Ski Resort,California,United States,N,matched,california/sierra-at-tahoe,exact,1.0,,12,38.7961,-120.0769,nominatim,True,"Sierra-at-Tahoe Ski Resort, Firs Tract Road, El Dorado County, California, 96155, United States"
+Ski Arlberg,Tyrol,Austria,N,no_match,,none,0.667,lower-austria/annaberg (0.67),0,,,,,
+SkiBig3,Alberta,Canada,N,no_match,,none,0.4,british-columbia/kicking-horse (0.40),0,,,,,
+Skirama Dolomiti Adamello-Brenta,Trentino-Alto Adige,Italy,N,no_match,,none,0.49,suedtirol/pampeago-predazzo-obereggen (0.49),0,,,,,
+Snow Creek Ski Resort,Missouri,United States,N,matched,missouri/snow-creek,exact,1.0,,12,39.4656,-94.9688,nominatim,True,"Snow Creek, Platte County, Missouri, United States"
+Snow Valley Ski Resort,California,United States,N,matched,california/snow-valley,exact,1.0,,13,34.2131,-117.0363,nominatim,True,"Snow Valley, San Bernardino County, California, United States"
+Snowbasin Resort,Utah,United States,N,matched,utah/snowbasin,exact,1.0,,13,41.2004,-111.8653,nominatim,True,"Snowbasin Resort, Snowbasin Trail, Weber County, Utah, 84403, United States"
+Snowbird Ski Resort,Utah,United States,N,matched,utah/snowbird,exact,1.0,,13,40.6331,-111.8038,nominatim,True,"Snowbird Ski & Summer Resort, 3165, Millrock Drive, Holladay, Salt Lake County, Utah, 84121, United States"
+Snowshoe Mountain Ski Resort,West Virginia,United States,N,matched,west-virginia/snowshoe-mountain-resort,exact,1.0,,13,38.4109,-79.9908,nominatim,True,"Snowshoe Mountain, Snowshoe, Pocahontas County, West Virginia, 26209, United States"
+Solitude Mountain Resort,Utah,United States,N,matched,utah/solitude-mountain-resort,exact,1.0,,13,40.6231,-111.5976,nominatim,True,"Solitude Mountain Resort, Up & Away, Solitude, Brighton, Salt Lake County, Utah, 85092, United States"
+St. Moritz Ski Resort,Grisons,Switzerland,N,matched,graubunden/st-moritz,exact,1.0,,13,46.4979,9.8392,nominatim,,"St. Moritz, Maloja, Graubünden/Grischun/Grigioni, 7500, Schweiz/Suisse/Svizzera/Svizra"
+Steamboat Ski Resort,Colorado,United States,N,matched,colorado/steamboat,exact,1.0,,13,40.4561,-106.7663,nominatim,True,"Steamboat Ski Resort, Why Not Lower, Routt County, Colorado, 80477, United States"
+Stevens Pass Ski Resort,Washington,United States,N,matched,washington/stevens-pass-resort,exact,1.0,,13,47.7456,-121.0892,nominatim,True,"Stevens Pass, King County, Washington, United States"
+Stoneham Ski Resort,Quebec,Canada,N,matched,quebec/stoneham,exact,1.0,,13,46.9996,-71.3695,nominatim,True,"Stoneham-et-Tewkesbury, La Jacques-Cartier, Capitale-Nationale, Québec, Canada"
+Stowe Mountain Resort,Vermont,United States,N,matched,vermont/stowe-mountain-resort,exact,1.0,,13,44.5298,-72.7937,nominatim,True,"Stowe Mountain Resort, Liftline Drive, Stowe, Lamoille County, Vermont, United States"
+Stratton Mountain Resort,Vermont,United States,N,matched,vermont/stratton-mountain,exact,1.0,,13,43.1027,-72.9048,nominatim,True,"Stratton Mountain Resort, Stratton, Windham County, Vermont, United States"
+Sugarbush Resort,Vermont,United States,N,matched,vermont/sugarbush,exact,1.0,,13,44.1515,-72.9085,nominatim,True,"Sugarbush Resort, Warren, Washington County, Vermont, United States"
+Sugarloaf Ski Resort,Maine,United States,N,matched,maine/sugarloaf,exact,1.0,,13,45.0495,-70.315,nominatim,True,"Sugarloaf, 5092, Carrabassett Valley, Franklin County, Maine, 04947, United States"
+Sun Peaks Resort,British Columbia,Canada,N,matched,british-columbia/sun-peaks,exact,1.0,,13,50.8781,-119.8798,nominatim,True,"Sun Peaks Resort, Sun Peaks Mountain Resort Municipality, Thompson-Nicola Regional District, British Columbia, Canada"
+Sun Valley Resort,Idaho,United States,N,matched,idaho/sun-valley,exact,1.0,,13,43.6962,-114.3531,nominatim,True,"Sun Valley, Blaine County, Idaho, United States"
+Sunday River Ski Resort,Maine,United States,N,matched,maine/sunday-river,exact,1.0,,13,44.4718,-70.8673,nominatim,True,"Sunday River, 15, Newry, Oxford County, Maine, 04261, United States"
+Taos Ski Valley,New Mexico,United States,N,matched,new-mexico/taos-ski-valley,exact,1.0,,13,36.596,-105.4545,nominatim,True,"Taos Ski Valley, Taos County, New Mexico, United States"
+Telluride Ski Resort,Colorado,United States,N,matched,colorado/telluride,exact,1.0,,13,37.9362,-107.8451,nominatim,True,"Telluride Ski Resort, No Brainer, Mountain Village, San Miguel County, Colorado, 81435, United States"
+The Highlands Ski Resort,Michigan,United States,N,matched,michigan/boyne-highlands,exact,1.0,,13,42.9912,-85.7325,nominatim,True,"The Highlands, 2715, Grand Rapids, Kent County, Michigan, 49504, United States"
+The Summit at Snoqualmie,Washington,United States,N,matched,washington/the-summit-at-snoqualmie,exact,1.0,,13,,,not_found,,
+Thredbo Ski Resort,New South Wales,Australia,S,excluded_southern_hemisphere,,,,,0,,,,,
+Vail Ski Resort,Colorado,United States,N,matched,colorado/vail,exact,1.0,,13,39.5995,-106.3395,nominatim,True,"Vail, Eagle County, Colorado, 81657, United States"
+Valle Nevado Ski Resort,Santiago,Chile,S,excluded_southern_hemisphere,,,,,0,,,,,
+Verbier 4 Vallées,Valais,Switzerland,N,no_match,,none,0.417,eastern-switzerland/ebenalp (0.42),0,,,,,
+Whistler Blackcomb Ski Resort,British Columbia,Canada,N,matched,british-columbia/whistler-blackcomb,exact,1.0,,13,50.0814,-122.9635,nominatim,True,"Whistler Blackcomb, Whistler Village, Whistler Resort Municipality, Squamish-Lillooet Regional District, British Columbia, V8E 0X9, Canada"
+Whitetail Resort,Pennsylvania,United States,N,matched,pennsylvania/whitetail-resort,exact,1.0,,13,39.7432,-77.9375,nominatim,True,"Whitetail Resort, 13805, Blairs Valley Road, Mercersburg, Franklin County, Pennsylvania, 17236, United States"
+Wildcat Mountain Ski Resort,New Hampshire,United States,N,matched,new-hampshire/wildcat-mountain,exact,1.0,,13,44.2569,-71.2325,nominatim,True,"Wildcat Mountain, Bean's Purchase, Coös County, New Hampshire, United States"
+Wilmot Mountain,Wisconsin,United States,N,matched,wisconsin/wilmot-mountain,exact,1.0,,13,42.4998,-88.1904,nominatim,True,"Wilmot Mountain, Fox River Road, Town of Randall, Kenosha County, Wisconsin, 53192, United States"
+Windham Mountain Resort,New York,United States,N,matched,new-york/windham-mountain,exact,1.0,,13,42.3012,-74.2559,nominatim,True,"Alpine Spa At Windham Mountain Resort, 11, Resort Drive, Town of Windham, Greene County, New York, 12496, United States"
+Winter Park Resort,Colorado,United States,N,matched,colorado/winter-park-resort,exact,1.0,,13,39.8716,-105.7827,nominatim,True,"Winter Park Resort, Winter Park, Grand County, Colorado, United States"
+Zermatt Matterhorn Ski Resort,Valais,Switzerland,N,no_match,,none,0.56,valais/zermatt (0.56),0,,,,,

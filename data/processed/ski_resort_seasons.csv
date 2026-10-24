@@ -1,0 +1,1142 @@
+resort,season,latitude,longitude,base_elevation_ft,top_elevation_ft,elevation_difference_ft,opening_date,closing_date,season_length,season_snowfall_in,season_start_year,state_or_province,country,hemisphere,has_dates,has_snowfall,coord_source
+Afton Alps Ski Resort,2012-2013,44.8576,-92.7879,350,700,350,,,,58.0,2012,Minnesota,United States,N,False,True,nominatim
+Afton Alps Ski Resort,2013-2014,44.8576,-92.7879,350,700,350,,,,83.0,2013,Minnesota,United States,N,False,True,nominatim
+Afton Alps Ski Resort,2014-2015,44.8576,-92.7879,350,700,350,,,,35.0,2014,Minnesota,United States,N,False,True,nominatim
+Afton Alps Ski Resort,2015-2016,44.8576,-92.7879,350,700,350,,,,27.0,2015,Minnesota,United States,N,False,True,nominatim
+Afton Alps Ski Resort,2016-2017,44.8576,-92.7879,350,700,350,,,,29.0,2016,Minnesota,United States,N,False,True,nominatim
+Afton Alps Ski Resort,2017-2018,44.8576,-92.7879,350,700,350,,,,42.0,2017,Minnesota,United States,N,False,True,nominatim
+Afton Alps Ski Resort,2018-2019,44.8576,-92.7879,350,700,350,,,,56.0,2018,Minnesota,United States,N,False,True,nominatim
+Afton Alps Ski Resort,2019-2020,44.8576,-92.7879,350,700,350,,,,34.0,2019,Minnesota,United States,N,False,True,nominatim
+Afton Alps Ski Resort,2020-2021,44.8576,-92.7879,350,700,350,,,,38.0,2020,Minnesota,United States,N,False,True,nominatim
+Afton Alps Ski Resort,2021-2022,44.8576,-92.7879,350,700,350,2021-11-24,2022-03-20,116,19.0,2021,Minnesota,United States,N,True,True,nominatim
+Afton Alps Ski Resort,2022-2023,44.8576,-92.7879,350,700,350,2022-11-18,2023-03-19,121,69.0,2022,Minnesota,United States,N,True,True,nominatim
+Afton Alps Ski Resort,2023-2024,44.8576,-92.7879,350,700,350,2023-12-02,2024-03-24,113,9.0,2023,Minnesota,United States,N,True,True,nominatim
+Afton Alps Ski Resort,2024-2025,44.8576,-92.7879,350,700,350,,,,22.0,2024,Minnesota,United States,N,False,True,nominatim
+Alpine Valley Ski Resort,2012-2013,42.7382,-88.434,1260,1500,240,,,,7.0,2012,Wisconsin,United States,N,False,True,nominatim
+Alpine Valley Ski Resort,2013-2014,42.7382,-88.434,1260,1500,240,,,,38.0,2013,Wisconsin,United States,N,False,True,nominatim
+Alpine Valley Ski Resort,2014-2015,42.7382,-88.434,1260,1500,240,,,,6.0,2014,Wisconsin,United States,N,False,True,nominatim
+Alpine Valley Ski Resort,2015-2016,42.7382,-88.434,1260,1500,240,,,,3.0,2015,Wisconsin,United States,N,False,True,nominatim
+Alpine Valley Ski Resort,2016-2017,42.7382,-88.434,1260,1500,240,,,,0.0,2016,Wisconsin,United States,N,False,True,nominatim
+Alpine Valley Ski Resort,2017-2018,42.7382,-88.434,1260,1500,240,,,,3.0,2017,Wisconsin,United States,N,False,True,nominatim
+Alpine Valley Ski Resort,2018-2019,42.7382,-88.434,1260,1500,240,,,,22.0,2018,Wisconsin,United States,N,False,True,nominatim
+Alpine Valley Ski Resort,2019-2020,42.7382,-88.434,1260,1500,240,,,,3.0,2019,Wisconsin,United States,N,False,True,nominatim
+Alpine Valley Ski Resort,2020-2021,42.7382,-88.434,1260,1500,240,,,,17.0,2020,Wisconsin,United States,N,False,True,nominatim
+Alpine Valley Ski Resort,2021-2022,42.7382,-88.434,1260,1500,240,2021-10-12,2022-03-18,157,42.0,2021,Wisconsin,United States,N,True,True,nominatim
+Alpine Valley Ski Resort,2022-2023,42.7382,-88.434,1260,1500,240,2022-11-19,2023-03-24,125,53.0,2022,Wisconsin,United States,N,True,True,nominatim
+Alpine Valley Ski Resort,2023-2024,42.7382,-88.434,1260,1500,240,2023-11-26,2024-05-03,159,63.0,2023,Wisconsin,United States,N,True,True,nominatim
+Alpine Valley Ski Resort,2024-2025,42.7382,-88.434,1260,1500,240,,,,0.0,2024,Wisconsin,United States,N,False,True,nominatim
+Alta Ski Area,2012-2013,40.5882,-111.6384,8530,11068,2538,,,,366.0,2012,Utah,United States,N,False,True,nominatim
+Alta Ski Area,2013-2014,40.5882,-111.6384,8530,11068,2538,,,,353.0,2013,Utah,United States,N,False,True,nominatim
+Alta Ski Area,2014-2015,40.5882,-111.6384,8530,11068,2538,,,,278.0,2014,Utah,United States,N,False,True,nominatim
+Alta Ski Area,2015-2016,40.5882,-111.6384,8530,11068,2538,,,,286.0,2015,Utah,United States,N,False,True,nominatim
+Alta Ski Area,2016-2017,40.5882,-111.6384,8530,11068,2538,,,,304.0,2016,Utah,United States,N,False,True,nominatim
+Alta Ski Area,2017-2018,40.5882,-111.6384,8530,11068,2538,,,,190.0,2017,Utah,United States,N,False,True,nominatim
+Alta Ski Area,2018-2019,40.5882,-111.6384,8530,11068,2538,,,,656.0,2018,Utah,United States,N,False,True,nominatim
+Alta Ski Area,2019-2020,40.5882,-111.6384,8530,11068,2538,,,,326.0,2019,Utah,United States,N,False,True,nominatim
+Alta Ski Area,2020-2021,40.5882,-111.6384,8530,11068,2538,,,,330.0,2020,Utah,United States,N,False,True,nominatim
+Alta Ski Area,2021-2022,40.5882,-111.6384,8530,11068,2538,2021-11-25,2022-04-17,143,307.0,2021,Utah,United States,N,True,True,nominatim
+Alta Ski Area,2022-2023,40.5882,-111.6384,8530,11068,2538,2022-11-18,2023-04-23,156,743.0,2022,Utah,United States,N,True,True,nominatim
+Alta Ski Area,2023-2024,40.5882,-111.6384,8530,11068,2538,2023-11-25,2024-04-21,148,650.0,2023,Utah,United States,N,True,True,nominatim
+Alta Ski Area,2024-2025,40.5882,-111.6384,8530,11068,2538,,,,469.0,2024,Utah,United States,N,False,True,nominatim
+Alyeska Resort,2012-2013,60.9619,-149.0809,250,2750,2500,,,,498.0,2012,Alaska,United States,N,False,True,nominatim
+Alyeska Resort,2013-2014,60.9619,-149.0809,250,2750,2500,,,,310.0,2013,Alaska,United States,N,False,True,nominatim
+Alyeska Resort,2014-2015,60.9619,-149.0809,250,2750,2500,,,,212.0,2014,Alaska,United States,N,False,True,nominatim
+Alyeska Resort,2015-2016,60.9619,-149.0809,250,2750,2500,,,,794.0,2015,Alaska,United States,N,False,True,nominatim
+Alyeska Resort,2016-2017,60.9619,-149.0809,250,2750,2500,,,,385.0,2016,Alaska,United States,N,False,True,nominatim
+Alyeska Resort,2017-2018,60.9619,-149.0809,250,2750,2500,,,,355.0,2017,Alaska,United States,N,False,True,nominatim
+Alyeska Resort,2018-2019,60.9619,-149.0809,250,2750,2500,,,,445.0,2018,Alaska,United States,N,False,True,nominatim
+Alyeska Resort,2019-2020,60.9619,-149.0809,250,2750,2500,,,,266.0,2019,Alaska,United States,N,False,True,nominatim
+Alyeska Resort,2020-2021,60.9619,-149.0809,250,2750,2500,,,,243.0,2020,Alaska,United States,N,False,True,nominatim
+Alyeska Resort,2021-2022,60.9619,-149.0809,250,2750,2500,2021-12-10,2022-04-24,135,510.0,2021,Alaska,United States,N,True,True,nominatim
+Alyeska Resort,2022-2023,60.9619,-149.0809,250,2750,2500,2022-12-09,2023-04-30,142,478.0,2022,Alaska,United States,N,True,True,nominatim
+Alyeska Resort,2023-2024,60.9619,-149.0809,250,2750,2500,2023-11-25,2024-04-28,155,641.0,2023,Alaska,United States,N,True,True,nominatim
+Alyeska Resort,2024-2025,60.9619,-149.0809,250,2750,2500,,,,582.0,2024,Alaska,United States,N,False,True,nominatim
+Arapahoe Basin Ski Area,2012-2013,39.6419,-105.8721,10520,13050,2530,,,,281.0,2012,Colorado,United States,N,False,True,nominatim
+Arapahoe Basin Ski Area,2013-2014,39.6419,-105.8721,10520,13050,2530,,,,418.0,2013,Colorado,United States,N,False,True,nominatim
+Arapahoe Basin Ski Area,2014-2015,39.6419,-105.8721,10520,13050,2530,,,,314.0,2014,Colorado,United States,N,False,True,nominatim
+Arapahoe Basin Ski Area,2015-2016,39.6419,-105.8721,10520,13050,2530,,,,290.0,2015,Colorado,United States,N,False,True,nominatim
+Arapahoe Basin Ski Area,2016-2017,39.6419,-105.8721,10520,13050,2530,,,,345.0,2016,Colorado,United States,N,False,True,nominatim
+Arapahoe Basin Ski Area,2017-2018,39.6419,-105.8721,10520,13050,2530,,,,247.0,2017,Colorado,United States,N,False,True,nominatim
+Arapahoe Basin Ski Area,2018-2019,39.6419,-105.8721,10520,13050,2530,,,,329.0,2018,Colorado,United States,N,False,True,nominatim
+Arapahoe Basin Ski Area,2019-2020,39.6419,-105.8721,10520,13050,2530,,,,173.0,2019,Colorado,United States,N,False,True,nominatim
+Arapahoe Basin Ski Area,2020-2021,39.6419,-105.8721,10520,13050,2530,,,,236.0,2020,Colorado,United States,N,False,True,nominatim
+Arapahoe Basin Ski Area,2021-2022,39.6419,-105.8721,10520,13050,2530,2021-10-17,2022-06-05,231,185.0,2021,Colorado,United States,N,True,True,nominatim
+Arapahoe Basin Ski Area,2022-2023,39.6419,-105.8721,10520,13050,2530,2022-10-23,2023-06-04,224,231.0,2022,Colorado,United States,N,True,True,nominatim
+Arapahoe Basin Ski Area,2023-2024,39.6419,-105.8721,10520,13050,2530,2023-10-29,2024-06-16,231,256.0,2023,Colorado,United States,N,True,True,nominatim
+Arapahoe Basin Ski Area,2024-2025,39.6419,-105.8721,10520,13050,2530,,,,272.0,2024,Colorado,United States,N,False,True,nominatim
+Aspen Snowmass,2012-2013,39.1857,-106.9449,8040,12510,4470,,,,309.0,2012,Colorado,United States,N,False,True,nominatim
+Aspen Snowmass,2013-2014,39.1857,-106.9449,8040,12510,4470,,,,326.0,2013,Colorado,United States,N,False,True,nominatim
+Aspen Snowmass,2014-2015,39.1857,-106.9449,8040,12510,4470,,,,220.0,2014,Colorado,United States,N,False,True,nominatim
+Aspen Snowmass,2015-2016,39.1857,-106.9449,8040,12510,4470,,,,305.0,2015,Colorado,United States,N,False,True,nominatim
+Aspen Snowmass,2016-2017,39.1857,-106.9449,8040,12510,4470,,,,319.0,2016,Colorado,United States,N,False,True,nominatim
+Aspen Snowmass,2017-2018,39.1857,-106.9449,8040,12510,4470,,,,233.0,2017,Colorado,United States,N,False,True,nominatim
+Aspen Snowmass,2018-2019,39.1857,-106.9449,8040,12510,4470,,,,396.0,2018,Colorado,United States,N,False,True,nominatim
+Aspen Snowmass,2019-2020,39.1857,-106.9449,8040,12510,4470,,,,233.0,2019,Colorado,United States,N,False,True,nominatim
+Aspen Snowmass,2020-2021,39.1857,-106.9449,8040,12510,4470,,,,257.0,2020,Colorado,United States,N,False,True,nominatim
+Aspen Snowmass,2021-2022,39.1857,-106.9449,8040,12510,4470,2021-11-25,2022-04-24,150,350.0,2021,Colorado,United States,N,True,True,nominatim
+Aspen Snowmass,2022-2023,39.1857,-106.9449,8040,12510,4470,2022-11-19,2023-04-16,148,425.0,2022,Colorado,United States,N,True,True,nominatim
+Aspen Snowmass,2023-2024,39.1857,-106.9449,8040,12510,4470,2023-11-23,2024-04-14,143,332.0,2023,Colorado,United States,N,True,True,nominatim
+Aspen Snowmass,2024-2025,39.1857,-106.9449,8040,12510,4470,,,,281.0,2024,Colorado,United States,N,False,True,nominatim
+Attitash Mountain Resort,2012-2013,44.0742,-71.2447,600,2350,1750,,,,101.0,2012,New Hampshire,United States,N,False,True,nominatim
+Attitash Mountain Resort,2013-2014,44.0742,-71.2447,600,2350,1750,,,,124.0,2013,New Hampshire,United States,N,False,True,nominatim
+Attitash Mountain Resort,2014-2015,44.0742,-71.2447,600,2350,1750,,,,101.0,2014,New Hampshire,United States,N,False,True,nominatim
+Attitash Mountain Resort,2015-2016,44.0742,-71.2447,600,2350,1750,,,,47.0,2015,New Hampshire,United States,N,False,True,nominatim
+Attitash Mountain Resort,2016-2017,44.0742,-71.2447,600,2350,1750,,,,129.0,2016,New Hampshire,United States,N,False,True,nominatim
+Attitash Mountain Resort,2017-2018,44.0742,-71.2447,600,2350,1750,,,,97.0,2017,New Hampshire,United States,N,False,True,nominatim
+Attitash Mountain Resort,2018-2019,44.0742,-71.2447,600,2350,1750,,,,95.0,2018,New Hampshire,United States,N,False,True,nominatim
+Attitash Mountain Resort,2019-2020,44.0742,-71.2447,600,2350,1750,,,,67.0,2019,New Hampshire,United States,N,False,True,nominatim
+Attitash Mountain Resort,2020-2021,44.0742,-71.2447,600,2350,1750,,,,36.0,2020,New Hampshire,United States,N,False,True,nominatim
+Attitash Mountain Resort,2021-2022,44.0742,-71.2447,600,2350,1750,2021-12-10,2022-04-03,114,50.0,2021,New Hampshire,United States,N,True,True,nominatim
+Attitash Mountain Resort,2022-2023,44.0742,-71.2447,600,2350,1750,2022-12-02,2023-04-09,128,133.0,2022,New Hampshire,United States,N,True,True,nominatim
+Attitash Mountain Resort,2023-2024,44.0742,-71.2447,600,2350,1750,2023-12-01,2024-04-07,128,108.0,2023,New Hampshire,United States,N,True,True,nominatim
+Attitash Mountain Resort,2024-2025,44.0742,-71.2447,600,2350,1750,,,,74.0,2024,New Hampshire,United States,N,False,True,nominatim
+Beaver Creek Ski Resort,2012-2013,39.5947,-106.5254,8100,11440,3340,,,,204.0,2012,Colorado,United States,N,False,True,nominatim
+Beaver Creek Ski Resort,2013-2014,39.5947,-106.5254,8100,11440,3340,,,,227.0,2013,Colorado,United States,N,False,True,nominatim
+Beaver Creek Ski Resort,2014-2015,39.5947,-106.5254,8100,11440,3340,,,,210.0,2014,Colorado,United States,N,False,True,nominatim
+Beaver Creek Ski Resort,2015-2016,39.5947,-106.5254,8100,11440,3340,,,,298.0,2015,Colorado,United States,N,False,True,nominatim
+Beaver Creek Ski Resort,2016-2017,39.5947,-106.5254,8100,11440,3340,,,,247.0,2016,Colorado,United States,N,False,True,nominatim
+Beaver Creek Ski Resort,2017-2018,39.5947,-106.5254,8100,11440,3340,,,,193.0,2017,Colorado,United States,N,False,True,nominatim
+Beaver Creek Ski Resort,2018-2019,39.5947,-106.5254,8100,11440,3340,,,,276.0,2018,Colorado,United States,N,False,True,nominatim
+Beaver Creek Ski Resort,2019-2020,39.5947,-106.5254,8100,11440,3340,,,,216.0,2019,Colorado,United States,N,False,True,nominatim
+Beaver Creek Ski Resort,2020-2021,39.5947,-106.5254,8100,11440,3340,,,,202.0,2020,Colorado,United States,N,False,True,nominatim
+Beaver Creek Ski Resort,2021-2022,39.5947,-106.5254,8100,11440,3340,2021-11-29,2022-04-17,139,223.0,2021,Colorado,United States,N,True,True,nominatim
+Beaver Creek Ski Resort,2022-2023,39.5947,-106.5254,8100,11440,3340,2022-11-21,2023-04-16,146,301.0,2022,Colorado,United States,N,True,True,nominatim
+Beaver Creek Ski Resort,2023-2024,39.5947,-106.5254,8100,11440,3340,2023-11-20,2024-04-14,146,261.0,2023,Colorado,United States,N,True,True,nominatim
+Beaver Creek Ski Resort,2024-2025,39.5947,-106.5254,8100,11440,3340,,,,192.0,2024,Colorado,United States,N,False,True,nominatim
+Big Bear Mountain Resort,2012-2013,34.2198,-116.8601,7140,8805,1665,,,,13.0,2012,California,United States,N,False,True,nominatim
+Big Bear Mountain Resort,2013-2014,34.2198,-116.8601,7140,8805,1665,,,,48.0,2013,California,United States,N,False,True,nominatim
+Big Bear Mountain Resort,2014-2015,34.2198,-116.8601,7140,8805,1665,,,,33.0,2014,California,United States,N,False,True,nominatim
+Big Bear Mountain Resort,2015-2016,34.2198,-116.8601,7140,8805,1665,,,,20.0,2015,California,United States,N,False,True,nominatim
+Big Bear Mountain Resort,2016-2017,34.2198,-116.8601,7140,8805,1665,,,,27.0,2016,California,United States,N,False,True,nominatim
+Big Bear Mountain Resort,2017-2018,34.2198,-116.8601,7140,8805,1665,,,,33.0,2017,California,United States,N,False,True,nominatim
+Big Bear Mountain Resort,2018-2019,34.2198,-116.8601,7140,8805,1665,,,,24.0,2018,California,United States,N,False,True,nominatim
+Big Bear Mountain Resort,2019-2020,34.2198,-116.8601,7140,8805,1665,,,,9.0,2019,California,United States,N,False,True,nominatim
+Big Bear Mountain Resort,2020-2021,34.2198,-116.8601,7140,8805,1665,,,,18.0,2020,California,United States,N,False,True,nominatim
+Big Bear Mountain Resort,2021-2022,34.2198,-116.8601,7140,8805,1665,2021-12-03,2022-04-10,128,29.0,2021,California,United States,N,True,True,nominatim
+Big Bear Mountain Resort,2022-2023,34.2198,-116.8601,7140,8805,1665,2022-11-18,2023-04-23,156,21.0,2022,California,United States,N,True,True,nominatim
+Big Bear Mountain Resort,2023-2024,34.2198,-116.8601,7140,8805,1665,2023-11-25,2024-04-14,141,43.0,2023,California,United States,N,True,True,nominatim
+Big Bear Mountain Resort,2024-2025,34.2198,-116.8601,7140,8805,1665,,,,8.0,2024,California,United States,N,False,True,nominatim
+Big Boulder Ski Resort,2012-2013,41.0467,-75.5998,1700,2175,475,,,,28.0,2012,Pennsylvania,United States,N,False,True,nominatim
+Big Boulder Ski Resort,2013-2014,41.0467,-75.5998,1700,2175,475,,,,70.0,2013,Pennsylvania,United States,N,False,True,nominatim
+Big Boulder Ski Resort,2014-2015,41.0467,-75.5998,1700,2175,475,,,,6.0,2014,Pennsylvania,United States,N,False,True,nominatim
+Big Boulder Ski Resort,2015-2016,41.0467,-75.5998,1700,2175,475,,,,20.0,2015,Pennsylvania,United States,N,False,True,nominatim
+Big Boulder Ski Resort,2016-2017,41.0467,-75.5998,1700,2175,475,,,,70.0,2016,Pennsylvania,United States,N,False,True,nominatim
+Big Boulder Ski Resort,2017-2018,41.0467,-75.5998,1700,2175,475,,,,97.0,2017,Pennsylvania,United States,N,False,True,nominatim
+Big Boulder Ski Resort,2018-2019,41.0467,-75.5998,1700,2175,475,,,,18.0,2018,Pennsylvania,United States,N,False,True,nominatim
+Big Boulder Ski Resort,2019-2020,41.0467,-75.5998,1700,2175,475,,,,8.0,2019,Pennsylvania,United States,N,False,True,nominatim
+Big Boulder Ski Resort,2020-2021,41.0467,-75.5998,1700,2175,475,,,,31.0,2020,Pennsylvania,United States,N,False,True,nominatim
+Big Boulder Ski Resort,2021-2022,41.0467,-75.5998,1700,2175,475,2021-12-04,2022-03-27,113,18.0,2021,Pennsylvania,United States,N,True,True,nominatim
+Big Boulder Ski Resort,2022-2023,41.0467,-75.5998,1700,2175,475,2022-12-02,2023-04-02,121,20.0,2022,Pennsylvania,United States,N,True,True,nominatim
+Big Boulder Ski Resort,2023-2024,41.0467,-75.5998,1700,2175,475,2023-12-01,2024-03-17,107,43.0,2023,Pennsylvania,United States,N,True,True,nominatim
+Big Boulder Ski Resort,2024-2025,41.0467,-75.5998,1700,2175,475,,,,26.0,2024,Pennsylvania,United States,N,False,True,nominatim
+Big Sky Resort,2012-2013,45.2812,-111.4112,7500,11166,3666,,,,395.0,2012,Montana,United States,N,False,True,nominatim
+Big Sky Resort,2013-2014,45.2812,-111.4112,7500,11166,3666,,,,466.0,2013,Montana,United States,N,False,True,nominatim
+Big Sky Resort,2014-2015,45.2812,-111.4112,7500,11166,3666,,,,236.0,2014,Montana,United States,N,False,True,nominatim
+Big Sky Resort,2015-2016,45.2812,-111.4112,7500,11166,3666,,,,294.0,2015,Montana,United States,N,False,True,nominatim
+Big Sky Resort,2016-2017,45.2812,-111.4112,7500,11166,3666,,,,277.0,2016,Montana,United States,N,False,True,nominatim
+Big Sky Resort,2017-2018,45.2812,-111.4112,7500,11166,3666,,,,325.0,2017,Montana,United States,N,False,True,nominatim
+Big Sky Resort,2018-2019,45.2812,-111.4112,7500,11166,3666,,,,266.0,2018,Montana,United States,N,False,True,nominatim
+Big Sky Resort,2019-2020,45.2812,-111.4112,7500,11166,3666,,,,72.0,2019,Montana,United States,N,False,True,nominatim
+Big Sky Resort,2020-2021,45.2812,-111.4112,7500,11166,3666,,,,162.0,2020,Montana,United States,N,False,True,nominatim
+Big Sky Resort,2021-2022,45.2812,-111.4112,7500,11166,3666,2021-11-25,2022-04-24,150,208.0,2021,Montana,United States,N,True,True,nominatim
+Big Sky Resort,2022-2023,45.2812,-111.4112,7500,11166,3666,2022-11-23,2023-04-23,151,294.0,2022,Montana,United States,N,True,True,nominatim
+Big Sky Resort,2023-2024,45.2812,-111.4112,7500,11166,3666,2023-11-22,2024-04-28,158,212.0,2023,Montana,United States,N,True,True,nominatim
+Big Sky Resort,2024-2025,45.2812,-111.4112,7500,11166,3666,,,,237.0,2024,Montana,United States,N,False,True,nominatim
+Blue Mountain Resort,2012-2013,40.8167,-75.5098,458,1540,1082,,,,31.0,2012,Pennsylvania,United States,N,False,True,nominatim
+Blue Mountain Resort,2013-2014,40.8167,-75.5098,458,1540,1082,,,,108.0,2013,Pennsylvania,United States,N,False,True,nominatim
+Blue Mountain Resort,2014-2015,40.8167,-75.5098,458,1540,1082,,,,67.0,2014,Pennsylvania,United States,N,False,True,nominatim
+Blue Mountain Resort,2015-2016,40.8167,-75.5098,458,1540,1082,,,,30.0,2015,Pennsylvania,United States,N,False,True,nominatim
+Blue Mountain Resort,2016-2017,40.8167,-75.5098,458,1540,1082,,,,44.0,2016,Pennsylvania,United States,N,False,True,nominatim
+Blue Mountain Resort,2017-2018,40.8167,-75.5098,458,1540,1082,,,,70.0,2017,Pennsylvania,United States,N,False,True,nominatim
+Blue Mountain Resort,2018-2019,40.8167,-75.5098,458,1540,1082,,,,26.0,2018,Pennsylvania,United States,N,False,True,nominatim
+Blue Mountain Resort,2019-2020,40.8167,-75.5098,458,1540,1082,,,,6.0,2019,Pennsylvania,United States,N,False,True,nominatim
+Blue Mountain Resort,2020-2021,40.8167,-75.5098,458,1540,1082,,,,37.0,2020,Pennsylvania,United States,N,False,True,nominatim
+Blue Mountain Resort,2021-2022,40.8167,-75.5098,458,1540,1082,2021-12-03,2022-03-27,114,24.0,2021,Pennsylvania,United States,N,True,True,nominatim
+Blue Mountain Resort,2022-2023,40.8167,-75.5098,458,1540,1082,2022-11-25,2023-03-26,121,46.0,2022,Pennsylvania,United States,N,True,True,nominatim
+Blue Mountain Resort,2023-2024,40.8167,-75.5098,458,1540,1082,2023-12-01,2024-03-29,119,12.0,2023,Pennsylvania,United States,N,True,True,nominatim
+Blue Mountain Resort,2024-2025,40.8167,-75.5098,458,1540,1082,,,,7.0,2024,Pennsylvania,United States,N,False,True,nominatim
+Blue Mountain Ski Resort,2012-2013,44.5008,-80.3179,750,1482,732,,,,56.0,2012,Ontario,Canada,N,False,True,nominatim
+Blue Mountain Ski Resort,2013-2014,44.5008,-80.3179,750,1482,732,,,,129.0,2013,Ontario,Canada,N,False,True,nominatim
+Blue Mountain Ski Resort,2014-2015,44.5008,-80.3179,750,1482,732,,,,100.0,2014,Ontario,Canada,N,False,True,nominatim
+Blue Mountain Ski Resort,2015-2016,44.5008,-80.3179,750,1482,732,,,,99.0,2015,Ontario,Canada,N,False,True,nominatim
+Blue Mountain Ski Resort,2016-2017,44.5008,-80.3179,750,1482,732,,,,68.0,2016,Ontario,Canada,N,False,True,nominatim
+Blue Mountain Ski Resort,2017-2018,44.5008,-80.3179,750,1482,732,,,,156.0,2017,Ontario,Canada,N,False,True,nominatim
+Blue Mountain Ski Resort,2018-2019,44.5008,-80.3179,750,1482,732,,,,106.0,2018,Ontario,Canada,N,False,True,nominatim
+Blue Mountain Ski Resort,2019-2020,44.5008,-80.3179,750,1482,732,,,,103.0,2019,Ontario,Canada,N,False,True,nominatim
+Blue Mountain Ski Resort,2020-2021,44.5008,-80.3179,750,1482,732,,,,7.0,2020,Ontario,Canada,N,False,True,nominatim
+Blue Mountain Ski Resort,2021-2022,44.5008,-80.3179,750,1482,732,2021-12-12,2022-04-17,126,100.0,2021,Ontario,Canada,N,True,True,nominatim
+Blue Mountain Ski Resort,2022-2023,44.5008,-80.3179,750,1482,732,2022-12-15,2023-04-14,120,83.0,2022,Ontario,Canada,N,True,True,nominatim
+Blue Mountain Ski Resort,2023-2024,44.5008,-80.3179,750,1482,732,2023-12-07,2024-04-14,129,68.0,2023,Ontario,Canada,N,True,True,nominatim
+Blue Mountain Ski Resort,2024-2025,44.5008,-80.3179,750,1482,732,,,,116.0,2024,Ontario,Canada,N,False,True,nominatim
+Boston Mills Ski Resort,2012-2013,41.2641,-81.5639,631,871,240,,,,9.0,2012,Ohio,United States,N,False,True,nominatim
+Boston Mills Ski Resort,2013-2014,41.2641,-81.5639,631,871,240,,,,83.0,2013,Ohio,United States,N,False,True,nominatim
+Boston Mills Ski Resort,2014-2015,41.2641,-81.5639,631,871,240,,,,54.0,2014,Ohio,United States,N,False,True,nominatim
+Boston Mills Ski Resort,2015-2016,41.2641,-81.5639,631,871,240,,,,39.0,2015,Ohio,United States,N,False,True,nominatim
+Boston Mills Ski Resort,2016-2017,41.2641,-81.5639,631,871,240,,,,25.0,2016,Ohio,United States,N,False,True,nominatim
+Boston Mills Ski Resort,2017-2018,41.2641,-81.5639,631,871,240,,,,31.0,2017,Ohio,United States,N,False,True,nominatim
+Boston Mills Ski Resort,2018-2019,41.2641,-81.5639,631,871,240,,,,25.0,2018,Ohio,United States,N,False,True,nominatim
+Boston Mills Ski Resort,2019-2020,41.2641,-81.5639,631,871,240,,,,22.0,2019,Ohio,United States,N,False,True,nominatim
+Boston Mills Ski Resort,2020-2021,41.2641,-81.5639,631,871,240,,,,7.0,2020,Ohio,United States,N,False,True,nominatim
+Boston Mills Ski Resort,2021-2022,41.2641,-81.5639,631,871,240,2022-01-08,2022-03-20,71,18.0,2021,Ohio,United States,N,True,True,nominatim
+Boston Mills Ski Resort,2022-2023,41.2641,-81.5639,631,871,240,2022-12-24,2023-03-12,78,0.0,2022,Ohio,United States,N,True,True,nominatim
+Boston Mills Ski Resort,2023-2024,41.2641,-81.5639,631,871,240,2023-12-22,2024-03-17,86,1.0,2023,Ohio,United States,N,True,True,nominatim
+Boston Mills Ski Resort,2024-2025,41.2641,-81.5639,631,871,240,,,,13.0,2024,Ohio,United States,N,False,True,nominatim
+Boyne Mountain Ski Resort,2012-2013,45.1652,-84.9392,620,1120,500,,,,122.0,2012,Michigan,United States,N,False,True,nominatim
+Boyne Mountain Ski Resort,2013-2014,45.1652,-84.9392,620,1120,500,,,,217.0,2013,Michigan,United States,N,False,True,nominatim
+Boyne Mountain Ski Resort,2014-2015,45.1652,-84.9392,620,1120,500,,,,101.0,2014,Michigan,United States,N,False,True,nominatim
+Boyne Mountain Ski Resort,2015-2016,45.1652,-84.9392,620,1120,500,,,,113.0,2015,Michigan,United States,N,False,True,nominatim
+Boyne Mountain Ski Resort,2016-2017,45.1652,-84.9392,620,1120,500,,,,138.0,2016,Michigan,United States,N,False,True,nominatim
+Boyne Mountain Ski Resort,2017-2018,45.1652,-84.9392,620,1120,500,,,,130.0,2017,Michigan,United States,N,False,True,nominatim
+Boyne Mountain Ski Resort,2018-2019,45.1652,-84.9392,620,1120,500,,,,140.0,2018,Michigan,United States,N,False,True,nominatim
+Boyne Mountain Ski Resort,2019-2020,45.1652,-84.9392,620,1120,500,,,,110.0,2019,Michigan,United States,N,False,True,nominatim
+Boyne Mountain Ski Resort,2020-2021,45.1652,-84.9392,620,1120,500,,,,42.0,2020,Michigan,United States,N,False,True,nominatim
+Boyne Mountain Ski Resort,2021-2022,45.1652,-84.9392,620,1120,500,2021-12-03,2022-04-17,135,98.0,2021,Michigan,United States,N,True,True,nominatim
+Boyne Mountain Ski Resort,2022-2023,45.1652,-84.9392,620,1120,500,2022-11-23,2023-04-09,137,82.0,2022,Michigan,United States,N,True,True,nominatim
+Boyne Mountain Ski Resort,2023-2024,45.1652,-84.9392,620,1120,500,2023-12-02,2024-04-15,135,61.0,2023,Michigan,United States,N,True,True,nominatim
+Boyne Mountain Ski Resort,2024-2025,45.1652,-84.9392,620,1120,500,,,,169.0,2024,Michigan,United States,N,False,True,nominatim
+Brandywine Ski Resort,2012-2013,41.2847,-81.5553,631,871,240,,,,12.0,2012,Ohio,United States,N,False,True,nominatim
+Brandywine Ski Resort,2013-2014,41.2847,-81.5553,631,871,240,,,,75.0,2013,Ohio,United States,N,False,True,nominatim
+Brandywine Ski Resort,2014-2015,41.2847,-81.5553,631,871,240,,,,54.0,2014,Ohio,United States,N,False,True,nominatim
+Brandywine Ski Resort,2015-2016,41.2847,-81.5553,631,871,240,,,,39.0,2015,Ohio,United States,N,False,True,nominatim
+Brandywine Ski Resort,2016-2017,41.2847,-81.5553,631,871,240,,,,25.0,2016,Ohio,United States,N,False,True,nominatim
+Brandywine Ski Resort,2017-2018,41.2847,-81.5553,631,871,240,,,,27.0,2017,Ohio,United States,N,False,True,nominatim
+Brandywine Ski Resort,2018-2019,41.2847,-81.5553,631,871,240,,,,21.0,2018,Ohio,United States,N,False,True,nominatim
+Brandywine Ski Resort,2019-2020,41.2847,-81.5553,631,871,240,,,,23.0,2019,Ohio,United States,N,False,True,nominatim
+Brandywine Ski Resort,2020-2021,41.2847,-81.5553,631,871,240,,,,3.0,2020,Ohio,United States,N,False,True,nominatim
+Brandywine Ski Resort,2021-2022,41.2847,-81.5553,631,871,240,2022-01-08,2022-03-20,71,19.0,2021,Ohio,United States,N,True,True,nominatim
+Brandywine Ski Resort,2022-2023,41.2847,-81.5553,631,871,240,2022-12-24,2023-03-12,78,0.0,2022,Ohio,United States,N,True,True,nominatim
+Brandywine Ski Resort,2023-2024,41.2847,-81.5553,631,871,240,2023-12-22,2024-03-17,86,1.0,2023,Ohio,United States,N,True,True,nominatim
+Brandywine Ski Resort,2024-2025,41.2847,-81.5553,631,871,240,,,,19.0,2024,Ohio,United States,N,False,True,nominatim
+Breckenridge Ski Resort,2012-2013,39.4749,-106.0783,9600,12998,3398,,,,275.0,2012,Colorado,United States,N,False,True,nominatim
+Breckenridge Ski Resort,2013-2014,39.4749,-106.0783,9600,12998,3398,,,,388.0,2013,Colorado,United States,N,False,True,nominatim
+Breckenridge Ski Resort,2014-2015,39.4749,-106.0783,9600,12998,3398,,,,289.0,2014,Colorado,United States,N,False,True,nominatim
+Breckenridge Ski Resort,2015-2016,39.4749,-106.0783,9600,12998,3398,,,,321.0,2015,Colorado,United States,N,False,True,nominatim
+Breckenridge Ski Resort,2016-2017,39.4749,-106.0783,9600,12998,3398,,,,279.0,2016,Colorado,United States,N,False,True,nominatim
+Breckenridge Ski Resort,2017-2018,39.4749,-106.0783,9600,12998,3398,,,,271.0,2017,Colorado,United States,N,False,True,nominatim
+Breckenridge Ski Resort,2018-2019,39.4749,-106.0783,9600,12998,3398,,,,387.0,2018,Colorado,United States,N,False,True,nominatim
+Breckenridge Ski Resort,2019-2020,39.4749,-106.0783,9600,12998,3398,,,,280.0,2019,Colorado,United States,N,False,True,nominatim
+Breckenridge Ski Resort,2020-2021,39.4749,-106.0783,9600,12998,3398,,,,284.0,2020,Colorado,United States,N,False,True,nominatim
+Breckenridge Ski Resort,2021-2022,39.4749,-106.0783,9600,12998,3398,2021-11-12,2022-05-15,184,265.0,2021,Colorado,United States,N,True,True,nominatim
+Breckenridge Ski Resort,2022-2023,39.4749,-106.0783,9600,12998,3398,2022-11-09,2023-05-21,193,287.0,2022,Colorado,United States,N,True,True,nominatim
+Breckenridge Ski Resort,2023-2024,39.4749,-106.0783,9600,12998,3398,2023-11-10,2024-05-12,184,333.0,2023,Colorado,United States,N,True,True,nominatim
+Breckenridge Ski Resort,2024-2025,39.4749,-106.0783,9600,12998,3398,,,,290.0,2024,Colorado,United States,N,False,True,nominatim
+Brighton Ski Resort,2012-2013,40.598,-111.5837,8755,10500,1745,,,,306.0,2012,Utah,United States,N,False,True,nominatim
+Brighton Ski Resort,2013-2014,40.598,-111.5837,8755,10500,1745,,,,265.0,2013,Utah,United States,N,False,True,nominatim
+Brighton Ski Resort,2014-2015,40.598,-111.5837,8755,10500,1745,,,,220.0,2014,Utah,United States,N,False,True,nominatim
+Brighton Ski Resort,2015-2016,40.598,-111.5837,8755,10500,1745,,,,386.0,2015,Utah,United States,N,False,True,nominatim
+Brighton Ski Resort,2016-2017,40.598,-111.5837,8755,10500,1745,,,,518.0,2016,Utah,United States,N,False,True,nominatim
+Brighton Ski Resort,2017-2018,40.598,-111.5837,8755,10500,1745,,,,329.0,2017,Utah,United States,N,False,True,nominatim
+Brighton Ski Resort,2018-2019,40.598,-111.5837,8755,10500,1745,,,,588.0,2018,Utah,United States,N,False,True,nominatim
+Brighton Ski Resort,2019-2020,40.598,-111.5837,8755,10500,1745,,,,388.0,2019,Utah,United States,N,False,True,nominatim
+Brighton Ski Resort,2020-2021,40.598,-111.5837,8755,10500,1745,,,,321.0,2020,Utah,United States,N,False,True,nominatim
+Brighton Ski Resort,2021-2022,40.598,-111.5837,8755,10500,1745,2021-11-24,2022-04-24,151,323.0,2021,Utah,United States,N,True,True,nominatim
+Brighton Ski Resort,2022-2023,40.598,-111.5837,8755,10500,1745,2022-11-11,2023-05-29,199,832.0,2022,Utah,United States,N,True,True,nominatim
+Brighton Ski Resort,2023-2024,40.598,-111.5837,8755,10500,1745,2023-11-25,2024-05-19,176,538.0,2023,Utah,United States,N,True,True,nominatim
+Brighton Ski Resort,2024-2025,40.598,-111.5837,8755,10500,1745,,,,492.0,2024,Utah,United States,N,False,True,nominatim
+Camelback Mountain Resort,2012-2013,41.0492,-75.3504,1250,2133,883,,,,22.0,2012,Pennsylvania,United States,N,False,True,nominatim
+Camelback Mountain Resort,2013-2014,41.0492,-75.3504,1250,2133,883,,,,59.0,2013,Pennsylvania,United States,N,False,True,nominatim
+Camelback Mountain Resort,2014-2015,41.0492,-75.3504,1250,2133,883,,,,28.0,2014,Pennsylvania,United States,N,False,True,nominatim
+Camelback Mountain Resort,2015-2016,41.0492,-75.3504,1250,2133,883,,,,24.0,2015,Pennsylvania,United States,N,False,True,nominatim
+Camelback Mountain Resort,2016-2017,41.0492,-75.3504,1250,2133,883,,,,94.0,2016,Pennsylvania,United States,N,False,True,nominatim
+Camelback Mountain Resort,2017-2018,41.0492,-75.3504,1250,2133,883,,,,104.0,2017,Pennsylvania,United States,N,False,True,nominatim
+Camelback Mountain Resort,2018-2019,41.0492,-75.3504,1250,2133,883,,,,35.0,2018,Pennsylvania,United States,N,False,True,nominatim
+Camelback Mountain Resort,2019-2020,41.0492,-75.3504,1250,2133,883,,,,29.0,2019,Pennsylvania,United States,N,False,True,nominatim
+Camelback Mountain Resort,2020-2021,41.0492,-75.3504,1250,2133,883,,,,47.0,2020,Pennsylvania,United States,N,False,True,nominatim
+Camelback Mountain Resort,2021-2022,41.0492,-75.3504,1250,2133,883,2021-12-22,2022-03-27,95,58.0,2021,Pennsylvania,United States,N,True,True,nominatim
+Camelback Mountain Resort,2022-2023,41.0492,-75.3504,1250,2133,883,2022-12-16,2023-04-02,107,23.0,2022,Pennsylvania,United States,N,True,True,nominatim
+Camelback Mountain Resort,2023-2024,41.0492,-75.3504,1250,2133,883,2023-12-15,2024-04-17,124,20.0,2023,Pennsylvania,United States,N,True,True,nominatim
+Camelback Mountain Resort,2024-2025,41.0492,-75.3504,1250,2133,883,,,,0.0,2024,Pennsylvania,United States,N,False,True,nominatim
+Copper Mountain Ski Resort,2012-2013,39.4994,-106.1563,9712,12313,2601,,,,237.0,2012,Colorado,United States,N,False,True,nominatim
+Copper Mountain Ski Resort,2013-2014,39.4994,-106.1563,9712,12313,2601,,,,352.0,2013,Colorado,United States,N,False,True,nominatim
+Copper Mountain Ski Resort,2014-2015,39.4994,-106.1563,9712,12313,2601,,,,254.0,2014,Colorado,United States,N,False,True,nominatim
+Copper Mountain Ski Resort,2015-2016,39.4994,-106.1563,9712,12313,2601,,,,247.0,2015,Colorado,United States,N,False,True,nominatim
+Copper Mountain Ski Resort,2016-2017,39.4994,-106.1563,9712,12313,2601,,,,246.0,2016,Colorado,United States,N,False,True,nominatim
+Copper Mountain Ski Resort,2017-2018,39.4994,-106.1563,9712,12313,2601,,,,202.0,2017,Colorado,United States,N,False,True,nominatim
+Copper Mountain Ski Resort,2018-2019,39.4994,-106.1563,9712,12313,2601,,,,246.0,2018,Colorado,United States,N,False,True,nominatim
+Copper Mountain Ski Resort,2019-2020,39.4994,-106.1563,9712,12313,2601,,,,201.0,2019,Colorado,United States,N,False,True,nominatim
+Copper Mountain Ski Resort,2020-2021,39.4994,-106.1563,9712,12313,2601,,,,185.0,2020,Colorado,United States,N,False,True,nominatim
+Copper Mountain Ski Resort,2021-2022,39.4994,-106.1563,9712,12313,2601,2021-11-22,2022-04-24,153,223.0,2021,Colorado,United States,N,True,True,nominatim
+Copper Mountain Ski Resort,2022-2023,39.4994,-106.1563,9712,12313,2601,2022-11-14,2023-05-07,174,263.0,2022,Colorado,United States,N,True,True,nominatim
+Copper Mountain Ski Resort,2023-2024,39.4994,-106.1563,9712,12313,2601,2023-11-13,2024-05-12,181,319.0,2023,Colorado,United States,N,True,True,nominatim
+Copper Mountain Ski Resort,2024-2025,39.4994,-106.1563,9712,12313,2601,,,,287.0,2024,Colorado,United States,N,False,True,nominatim
+Crans-Montana Ski Resort,2012-2013,46.3069,7.469,4920,9600,4680,,,,274.0,2012,Valais,Switzerland,N,False,True,nominatim
+Crans-Montana Ski Resort,2013-2014,46.3069,7.469,4920,9600,4680,,,,101.2,2013,Valais,Switzerland,N,False,True,nominatim
+Crans-Montana Ski Resort,2014-2015,46.3069,7.469,4920,9600,4680,,,,89.0,2014,Valais,Switzerland,N,False,True,nominatim
+Crans-Montana Ski Resort,2015-2016,46.3069,7.469,4920,9600,4680,,,,80.7,2015,Valais,Switzerland,N,False,True,nominatim
+Crans-Montana Ski Resort,2016-2017,46.3069,7.469,4920,9600,4680,,,,78.7,2016,Valais,Switzerland,N,False,True,nominatim
+Crans-Montana Ski Resort,2017-2018,46.3069,7.469,4920,9600,4680,,,,140.2,2017,Valais,Switzerland,N,False,True,nominatim
+Crans-Montana Ski Resort,2018-2019,46.3069,7.469,4920,9600,4680,,,,103.1,2018,Valais,Switzerland,N,False,True,nominatim
+Crans-Montana Ski Resort,2019-2020,46.3069,7.469,4920,9600,4680,,,,107.9,2019,Valais,Switzerland,N,False,True,nominatim
+Crans-Montana Ski Resort,2020-2021,46.3069,7.469,4920,9600,4680,,,,79.9,2020,Valais,Switzerland,N,False,True,nominatim
+Crans-Montana Ski Resort,2021-2022,46.3069,7.469,4920,9600,4680,2021-12-04,2022-06-05,183,40.2,2021,Valais,Switzerland,N,True,True,nominatim
+Crans-Montana Ski Resort,2022-2023,46.3069,7.469,4920,9600,4680,2022-12-17,2023-05-15,149,152.4,2022,Valais,Switzerland,N,True,True,nominatim
+Crans-Montana Ski Resort,2023-2024,46.3069,7.469,4920,9600,4680,2023-12-02,2024-04-14,134,155.5,2023,Valais,Switzerland,N,True,True,nominatim
+Crans-Montana Ski Resort,2024-2025,46.3069,7.469,4920,9600,4680,,,,174.4,2024,Valais,Switzerland,N,False,True,nominatim
+Crested Butte Ski Resort,2012-2013,38.8698,-106.984,9375,12162,2787,,,,143.0,2012,Colorado,United States,N,False,True,nominatim
+Crested Butte Ski Resort,2013-2014,38.8698,-106.984,9375,12162,2787,,,,246.0,2013,Colorado,United States,N,False,True,nominatim
+Crested Butte Ski Resort,2014-2015,38.8698,-106.984,9375,12162,2787,,,,192.0,2014,Colorado,United States,N,False,True,nominatim
+Crested Butte Ski Resort,2015-2016,38.8698,-106.984,9375,12162,2787,,,,132.0,2015,Colorado,United States,N,False,True,nominatim
+Crested Butte Ski Resort,2016-2017,38.8698,-106.984,9375,12162,2787,,,,335.0,2016,Colorado,United States,N,False,True,nominatim
+Crested Butte Ski Resort,2017-2018,38.8698,-106.984,9375,12162,2787,,,,145.0,2017,Colorado,United States,N,False,True,nominatim
+Crested Butte Ski Resort,2018-2019,38.8698,-106.984,9375,12162,2787,,,,251.0,2018,Colorado,United States,N,False,True,nominatim
+Crested Butte Ski Resort,2019-2020,38.8698,-106.984,9375,12162,2787,,,,168.0,2019,Colorado,United States,N,False,True,nominatim
+Crested Butte Ski Resort,2020-2021,38.8698,-106.984,9375,12162,2787,,,,144.0,2020,Colorado,United States,N,False,True,nominatim
+Crested Butte Ski Resort,2021-2022,38.8698,-106.984,9375,12162,2787,2021-11-24,2022-04-03,130,232.0,2021,Colorado,United States,N,True,True,nominatim
+Crested Butte Ski Resort,2022-2023,38.8698,-106.984,9375,12162,2787,2022-11-23,2023-04-02,130,314.0,2022,Colorado,United States,N,True,True,nominatim
+Crested Butte Ski Resort,2023-2024,38.8698,-106.984,9375,12162,2787,2023-11-20,2024-04-09,141,233.0,2023,Colorado,United States,N,True,True,nominatim
+Crested Butte Ski Resort,2024-2025,38.8698,-106.984,9375,12162,2787,,,,171.0,2024,Colorado,United States,N,False,True,nominatim
+Crotched Mountain Ski Resort,2012-2013,42.9983,-71.8739,1050,2066,1016,,,,106.0,2012,New Hampshire,United States,N,False,True,nominatim
+Crotched Mountain Ski Resort,2013-2014,42.9983,-71.8739,1050,2066,1016,,,,104.0,2013,New Hampshire,United States,N,False,True,nominatim
+Crotched Mountain Ski Resort,2014-2015,42.9983,-71.8739,1050,2066,1016,,,,83.0,2014,New Hampshire,United States,N,False,True,nominatim
+Crotched Mountain Ski Resort,2015-2016,42.9983,-71.8739,1050,2066,1016,,,,23.0,2015,New Hampshire,United States,N,False,True,nominatim
+Crotched Mountain Ski Resort,2016-2017,42.9983,-71.8739,1050,2066,1016,,,,98.0,2016,New Hampshire,United States,N,False,True,nominatim
+Crotched Mountain Ski Resort,2017-2018,42.9983,-71.8739,1050,2066,1016,,,,74.0,2017,New Hampshire,United States,N,False,True,nominatim
+Crotched Mountain Ski Resort,2018-2019,42.9983,-71.8739,1050,2066,1016,,,,25.0,2018,New Hampshire,United States,N,False,True,nominatim
+Crotched Mountain Ski Resort,2019-2020,42.9983,-71.8739,1050,2066,1016,,,,25.0,2019,New Hampshire,United States,N,False,True,nominatim
+Crotched Mountain Ski Resort,2020-2021,42.9983,-71.8739,1050,2066,1016,,,,32.0,2020,New Hampshire,United States,N,False,True,nominatim
+Crotched Mountain Ski Resort,2021-2022,42.9983,-71.8739,1050,2066,1016,2021-12-26,2022-03-27,91,34.0,2021,New Hampshire,United States,N,True,True,nominatim
+Crotched Mountain Ski Resort,2022-2023,42.9983,-71.8739,1050,2066,1016,2022-12-10,2023-03-26,106,133.0,2022,New Hampshire,United States,N,True,True,nominatim
+Crotched Mountain Ski Resort,2023-2024,42.9983,-71.8739,1050,2066,1016,2023-12-01,2024-03-24,114,45.0,2023,New Hampshire,United States,N,True,True,nominatim
+Crotched Mountain Ski Resort,2024-2025,42.9983,-71.8739,1050,2066,1016,,,,38.0,2024,New Hampshire,United States,N,False,True,nominatim
+Crystal Mountain Resort,2012-2013,46.9327,-121.4877,3912,7012,3100,,,,838.0,2012,Washington,United States,N,False,True,nominatim
+Crystal Mountain Resort,2013-2014,46.9327,-121.4877,3912,7012,3100,,,,429.0,2013,Washington,United States,N,False,True,nominatim
+Crystal Mountain Resort,2014-2015,46.9327,-121.4877,3912,7012,3100,,,,154.0,2014,Washington,United States,N,False,True,nominatim
+Crystal Mountain Resort,2015-2016,46.9327,-121.4877,3912,7012,3100,,,,409.0,2015,Washington,United States,N,False,True,nominatim
+Crystal Mountain Resort,2016-2017,46.9327,-121.4877,3912,7012,3100,,,,388.0,2016,Washington,United States,N,False,True,nominatim
+Crystal Mountain Resort,2017-2018,46.9327,-121.4877,3912,7012,3100,,,,403.0,2017,Washington,United States,N,False,True,nominatim
+Crystal Mountain Resort,2018-2019,46.9327,-121.4877,3912,7012,3100,,,,377.0,2018,Washington,United States,N,False,True,nominatim
+Crystal Mountain Resort,2019-2020,46.9327,-121.4877,3912,7012,3100,,,,326.0,2019,Washington,United States,N,False,True,nominatim
+Crystal Mountain Resort,2020-2021,46.9327,-121.4877,3912,7012,3100,,,,406.0,2020,Washington,United States,N,False,True,nominatim
+Crystal Mountain Resort,2021-2022,46.9327,-121.4877,3912,7012,3100,2021-11-12,2022-04-04,143,447.0,2021,Washington,United States,N,True,True,nominatim
+Crystal Mountain Resort,2022-2023,46.9327,-121.4877,3912,7012,3100,2022-11-25,2023-04-02,128,388.0,2022,Washington,United States,N,True,True,nominatim
+Crystal Mountain Resort,2023-2024,46.9327,-121.4877,3912,7012,3100,2023-12-01,2024-05-05,156,310.0,2023,Washington,United States,N,True,True,nominatim
+Crystal Mountain Resort,2024-2025,46.9327,-121.4877,3912,7012,3100,,,,324.0,2024,Washington,United States,N,False,True,nominatim
+Cypress Mountain Ski Resort,2012-2013,49.3977,-123.2011,2710,4724,2014,,,,178.0,2012,British Columbia,Canada,N,False,True,nominatim
+Cypress Mountain Ski Resort,2013-2014,49.3977,-123.2011,2710,4724,2014,,,,196.0,2013,British Columbia,Canada,N,False,True,nominatim
+Cypress Mountain Ski Resort,2014-2015,49.3977,-123.2011,2710,4724,2014,,,,35.0,2014,British Columbia,Canada,N,False,True,nominatim
+Cypress Mountain Ski Resort,2015-2016,49.3977,-123.2011,2710,4724,2014,,,,317.0,2015,British Columbia,Canada,N,False,True,nominatim
+Cypress Mountain Ski Resort,2016-2017,49.3977,-123.2011,2710,4724,2014,,,,361.0,2016,British Columbia,Canada,N,False,True,nominatim
+Cypress Mountain Ski Resort,2017-2018,49.3977,-123.2011,2710,4724,2014,,,,369.0,2017,British Columbia,Canada,N,False,True,nominatim
+Cypress Mountain Ski Resort,2018-2019,49.3977,-123.2011,2710,4724,2014,,,,179.0,2018,British Columbia,Canada,N,False,True,nominatim
+Cypress Mountain Ski Resort,2019-2020,49.3977,-123.2011,2710,4724,2014,,,,236.0,2019,British Columbia,Canada,N,False,True,nominatim
+Cypress Mountain Ski Resort,2020-2021,49.3977,-123.2011,2710,4724,2014,,,,203.0,2020,British Columbia,Canada,N,False,True,nominatim
+Cypress Mountain Ski Resort,2021-2022,49.3977,-123.2011,2710,4724,2014,2021-11-18,2022-04-10,143,337.0,2021,British Columbia,Canada,N,True,True,nominatim
+Cypress Mountain Ski Resort,2022-2023,49.3977,-123.2011,2710,4724,2014,2022-11-12,2023-04-16,155,278.0,2022,British Columbia,Canada,N,True,True,nominatim
+Cypress Mountain Ski Resort,2023-2024,49.3977,-123.2011,2710,4724,2014,2023-12-07,2024-04-14,129,235.0,2023,British Columbia,Canada,N,True,True,nominatim
+Cypress Mountain Ski Resort,2024-2025,49.3977,-123.2011,2710,4724,2014,,,,269.0,2024,British Columbia,Canada,N,False,True,nominatim
+Deer Valley Resort,2012-2013,40.6122,-111.4823,6570,9570,3000,,,,179.0,2012,Utah,United States,N,False,True,nominatim
+Deer Valley Resort,2013-2014,40.6122,-111.4823,6570,9570,3000,,,,208.0,2013,Utah,United States,N,False,True,nominatim
+Deer Valley Resort,2014-2015,40.6122,-111.4823,6570,9570,3000,,,,132.0,2014,Utah,United States,N,False,True,nominatim
+Deer Valley Resort,2015-2016,40.6122,-111.4823,6570,9570,3000,,,,233.0,2015,Utah,United States,N,False,True,nominatim
+Deer Valley Resort,2016-2017,40.6122,-111.4823,6570,9570,3000,,,,388.0,2016,Utah,United States,N,False,True,nominatim
+Deer Valley Resort,2017-2018,40.6122,-111.4823,6570,9570,3000,,,,164.0,2017,Utah,United States,N,False,True,nominatim
+Deer Valley Resort,2018-2019,40.6122,-111.4823,6570,9570,3000,,,,337.0,2018,Utah,United States,N,False,True,nominatim
+Deer Valley Resort,2019-2020,40.6122,-111.4823,6570,9570,3000,,,,165.0,2019,Utah,United States,N,False,True,nominatim
+Deer Valley Resort,2020-2021,40.6122,-111.4823,6570,9570,3000,,,,235.0,2020,Utah,United States,N,False,True,nominatim
+Deer Valley Resort,2021-2022,40.6122,-111.4823,6570,9570,3000,2021-12-04,2022-04-17,134,221.0,2021,Utah,United States,N,True,True,nominatim
+Deer Valley Resort,2022-2023,40.6122,-111.4823,6570,9570,3000,2022-11-29,2023-04-23,145,551.0,2022,Utah,United States,N,True,True,nominatim
+Deer Valley Resort,2023-2024,40.6122,-111.4823,6570,9570,3000,2023-12-02,2024-04-21,141,348.0,2023,Utah,United States,N,True,True,nominatim
+Deer Valley Resort,2024-2025,40.6122,-111.4823,6570,9570,3000,,,,213.0,2024,Utah,United States,N,False,True,nominatim
+Eldora Mountain Resort,2012-2013,39.9373,-105.584,9360,10600,1240,,,,225.0,2012,Colorado,United States,N,False,True,nominatim
+Eldora Mountain Resort,2013-2014,39.9373,-105.584,9360,10600,1240,,,,318.0,2013,Colorado,United States,N,False,True,nominatim
+Eldora Mountain Resort,2014-2015,39.9373,-105.584,9360,10600,1240,,,,181.0,2014,Colorado,United States,N,False,True,nominatim
+Eldora Mountain Resort,2015-2016,39.9373,-105.584,9360,10600,1240,,,,204.0,2015,Colorado,United States,N,False,True,nominatim
+Eldora Mountain Resort,2016-2017,39.9373,-105.584,9360,10600,1240,,,,233.0,2016,Colorado,United States,N,False,True,nominatim
+Eldora Mountain Resort,2017-2018,39.9373,-105.584,9360,10600,1240,,,,192.0,2017,Colorado,United States,N,False,True,nominatim
+Eldora Mountain Resort,2018-2019,39.9373,-105.584,9360,10600,1240,,,,205.0,2018,Colorado,United States,N,False,True,nominatim
+Eldora Mountain Resort,2019-2020,39.9373,-105.584,9360,10600,1240,,,,155.0,2019,Colorado,United States,N,False,True,nominatim
+Eldora Mountain Resort,2020-2021,39.9373,-105.584,9360,10600,1240,,,,136.0,2020,Colorado,United States,N,False,True,nominatim
+Eldora Mountain Resort,2021-2022,39.9373,-105.584,9360,10600,1240,2021-11-19,2022-04-17,149,142.0,2021,Colorado,United States,N,True,True,nominatim
+Eldora Mountain Resort,2022-2023,39.9373,-105.584,9360,10600,1240,2022-11-11,2023-04-16,156,194.0,2022,Colorado,United States,N,True,True,nominatim
+Eldora Mountain Resort,2023-2024,39.9373,-105.584,9360,10600,1240,2023-11-03,2024-04-20,169,234.0,2023,Colorado,United States,N,True,True,nominatim
+Eldora Mountain Resort,2024-2025,39.9373,-105.584,9360,10600,1240,,,,158.0,2024,Colorado,United States,N,False,True,nominatim
+Fernie Alpine Resort,2012-2013,49.4555,-115.1016,3451,7001,3550,,,,297.0,2012,British Columbia,Canada,N,False,True,nominatim
+Fernie Alpine Resort,2013-2014,49.4555,-115.1016,3451,7001,3550,,,,310.0,2013,British Columbia,Canada,N,False,True,nominatim
+Fernie Alpine Resort,2014-2015,49.4555,-115.1016,3451,7001,3550,,,,149.0,2014,British Columbia,Canada,N,False,True,nominatim
+Fernie Alpine Resort,2015-2016,49.4555,-115.1016,3451,7001,3550,,,,271.0,2015,British Columbia,Canada,N,False,True,nominatim
+Fernie Alpine Resort,2016-2017,49.4555,-115.1016,3451,7001,3550,,,,378.0,2016,British Columbia,Canada,N,False,True,nominatim
+Fernie Alpine Resort,2017-2018,49.4555,-115.1016,3451,7001,3550,,,,362.0,2017,British Columbia,Canada,N,False,True,nominatim
+Fernie Alpine Resort,2018-2019,49.4555,-115.1016,3451,7001,3550,,,,276.0,2018,British Columbia,Canada,N,False,True,nominatim
+Fernie Alpine Resort,2019-2020,49.4555,-115.1016,3451,7001,3550,,,,253.0,2019,British Columbia,Canada,N,False,True,nominatim
+Fernie Alpine Resort,2020-2021,49.4555,-115.1016,3451,7001,3550,,,,206.0,2020,British Columbia,Canada,N,False,True,nominatim
+Fernie Alpine Resort,2021-2022,49.4555,-115.1016,3451,7001,3550,2021-12-11,2022-04-17,127,238.0,2021,British Columbia,Canada,N,True,True,nominatim
+Fernie Alpine Resort,2022-2023,49.4555,-115.1016,3451,7001,3550,2022-12-03,2023-04-16,134,239.0,2022,British Columbia,Canada,N,True,True,nominatim
+Fernie Alpine Resort,2023-2024,49.4555,-115.1016,3451,7001,3550,2023-12-02,2024-04-14,134,267.0,2023,British Columbia,Canada,N,True,True,nominatim
+Fernie Alpine Resort,2024-2025,49.4555,-115.1016,3451,7001,3550,,,,224.0,2024,British Columbia,Canada,N,False,True,nominatim
+Grandvalira,2012-2013,,,5610,9258,3648,,,,47.2,2012,Andorra la Vella,Andorra,N,False,True,not_found
+Grandvalira,2013-2014,,,5610,9258,3648,,,,19.7,2013,Andorra la Vella,Andorra,N,False,True,not_found
+Grandvalira,2014-2015,,,5610,9258,3648,,,,3.9,2014,Andorra la Vella,Andorra,N,False,True,not_found
+Grandvalira,2015-2016,,,5610,9258,3648,,,,9.8,2015,Andorra la Vella,Andorra,N,False,True,not_found
+Grandvalira,2016-2017,,,5610,9258,3648,,,,63.0,2016,Andorra la Vella,Andorra,N,False,True,not_found
+Grandvalira,2017-2018,,,5610,9258,3648,,,,127.2,2017,Andorra la Vella,Andorra,N,False,True,not_found
+Grandvalira,2018-2019,,,5610,9258,3648,,,,66.5,2018,Andorra la Vella,Andorra,N,False,True,not_found
+Grandvalira,2019-2020,,,5610,9258,3648,,,,70.9,2019,Andorra la Vella,Andorra,N,False,True,not_found
+Grandvalira,2020-2021,,,5610,9258,3648,,,,9.1,2020,Andorra la Vella,Andorra,N,False,True,not_found
+Grandvalira,2021-2022,,,5610,9258,3648,2021-12-03,2022-04-18,136,37.8,2021,Andorra la Vella,Andorra,N,True,True,not_found
+Grandvalira,2022-2023,,,5610,9258,3648,2022-12-02,2023-04-16,135,70.5,2022,Andorra la Vella,Andorra,N,True,True,not_found
+Grandvalira,2023-2024,,,5610,9258,3648,2023-12-05,2024-04-20,137,81.1,2023,Andorra la Vella,Andorra,N,True,True,not_found
+Grandvalira,2024-2025,,,5610,9258,3648,,,,121.7,2024,Andorra la Vella,Andorra,N,False,True,not_found
+Heavenly Mountain Resort,2012-2013,38.9405,-119.8974,6255,10067,3812,,,,247.0,2012,California/Nevada,United States,N,False,True,nominatim
+Heavenly Mountain Resort,2013-2014,38.9405,-119.8974,6255,10067,3812,,,,189.0,2013,California/Nevada,United States,N,False,True,nominatim
+Heavenly Mountain Resort,2014-2015,38.9405,-119.8974,6255,10067,3812,,,,89.0,2014,California/Nevada,United States,N,False,True,nominatim
+Heavenly Mountain Resort,2015-2016,38.9405,-119.8974,6255,10067,3812,,,,325.0,2015,California/Nevada,United States,N,False,True,nominatim
+Heavenly Mountain Resort,2016-2017,38.9405,-119.8974,6255,10067,3812,,,,620.0,2016,California/Nevada,United States,N,False,True,nominatim
+Heavenly Mountain Resort,2017-2018,38.9405,-119.8974,6255,10067,3812,,,,271.0,2017,California/Nevada,United States,N,False,True,nominatim
+Heavenly Mountain Resort,2018-2019,38.9405,-119.8974,6255,10067,3812,,,,496.0,2018,California/Nevada,United States,N,False,True,nominatim
+Heavenly Mountain Resort,2019-2020,38.9405,-119.8974,6255,10067,3812,,,,158.0,2019,California/Nevada,United States,N,False,True,nominatim
+Heavenly Mountain Resort,2020-2021,38.9405,-119.8974,6255,10067,3812,,,,132.0,2020,California/Nevada,United States,N,False,True,nominatim
+Heavenly Mountain Resort,2021-2022,38.9405,-119.8974,6255,10067,3812,2021-12-11,2022-04-24,134,213.0,2021,California/Nevada,United States,N,True,True,nominatim
+Heavenly Mountain Resort,2022-2023,38.9405,-119.8974,6255,10067,3812,2022-11-12,2023-05-07,176,400.0,2022,California/Nevada,United States,N,True,True,nominatim
+Heavenly Mountain Resort,2023-2024,38.9405,-119.8974,6255,10067,3812,2023-11-21,2024-04-22,153,212.0,2023,California/Nevada,United States,N,True,True,nominatim
+Heavenly Mountain Resort,2024-2025,38.9405,-119.8974,6255,10067,3812,,,,183.0,2024,California/Nevada,United States,N,False,True,nominatim
+Hidden Valley Ski Resort (MO),2012-2013,38.5359,-90.6538,320,860,540,,,,5.0,2012,Missouri,United States,N,False,True,nominatim
+Hidden Valley Ski Resort (MO),2013-2014,38.5359,-90.6538,320,860,540,,,,8.0,2013,Missouri,United States,N,False,True,nominatim
+Hidden Valley Ski Resort (MO),2014-2015,38.5359,-90.6538,320,860,540,,,,0.0,2014,Missouri,United States,N,False,True,nominatim
+Hidden Valley Ski Resort (MO),2015-2016,38.5359,-90.6538,320,860,540,,,,4.0,2015,Missouri,United States,N,False,True,nominatim
+Hidden Valley Ski Resort (MO),2016-2017,38.5359,-90.6538,320,860,540,,,,4.0,2016,Missouri,United States,N,False,True,nominatim
+Hidden Valley Ski Resort (MO),2017-2018,38.5359,-90.6538,320,860,540,,,,5.0,2017,Missouri,United States,N,False,True,nominatim
+Hidden Valley Ski Resort (MO),2018-2019,38.5359,-90.6538,320,860,540,,,,23.0,2018,Missouri,United States,N,False,True,nominatim
+Hidden Valley Ski Resort (MO),2019-2020,38.5359,-90.6538,320,860,540,,,,11.0,2019,Missouri,United States,N,False,True,nominatim
+Hidden Valley Ski Resort (MO),2020-2021,38.5359,-90.6538,320,860,540,,,,6.0,2020,Missouri,United States,N,False,True,nominatim
+Hidden Valley Ski Resort (MO),2021-2022,38.5359,-90.6538,320,860,540,2021-12-19,2022-03-06,77,38.0,2021,Missouri,United States,N,True,True,nominatim
+Hidden Valley Ski Resort (MO),2022-2023,38.5359,-90.6538,320,860,540,2022-12-25,2023-03-05,70,0.0,2022,Missouri,United States,N,True,True,nominatim
+Hidden Valley Ski Resort (MO),2023-2024,38.5359,-90.6538,320,860,540,2023-12-29,2024-02-25,58,0.0,2023,Missouri,United States,N,True,True,nominatim
+Hidden Valley Ski Resort (MO),2024-2025,38.5359,-90.6538,320,860,540,,,,9.0,2024,Missouri,United States,N,False,True,nominatim
+Hidden Valley Ski Resort (PA),2012-2013,40.1068,-75.378,2405,2875,470,,,,124.0,2012,Pennsylvania,United States,N,False,True,nominatim
+Hidden Valley Ski Resort (PA),2013-2014,40.1068,-75.378,2405,2875,470,,,,150.0,2013,Pennsylvania,United States,N,False,True,nominatim
+Hidden Valley Ski Resort (PA),2014-2015,40.1068,-75.378,2405,2875,470,,,,87.0,2014,Pennsylvania,United States,N,False,True,nominatim
+Hidden Valley Ski Resort (PA),2015-2016,40.1068,-75.378,2405,2875,470,,,,112.0,2015,Pennsylvania,United States,N,False,True,nominatim
+Hidden Valley Ski Resort (PA),2016-2017,40.1068,-75.378,2405,2875,470,,,,82.0,2016,Pennsylvania,United States,N,False,True,nominatim
+Hidden Valley Ski Resort (PA),2017-2018,40.1068,-75.378,2405,2875,470,,,,119.0,2017,Pennsylvania,United States,N,False,True,nominatim
+Hidden Valley Ski Resort (PA),2018-2019,40.1068,-75.378,2405,2875,470,,,,81.0,2018,Pennsylvania,United States,N,False,True,nominatim
+Hidden Valley Ski Resort (PA),2019-2020,40.1068,-75.378,2405,2875,470,,,,35.0,2019,Pennsylvania,United States,N,False,True,nominatim
+Hidden Valley Ski Resort (PA),2020-2021,40.1068,-75.378,2405,2875,470,,,,38.0,2020,Pennsylvania,United States,N,False,True,nominatim
+Hidden Valley Ski Resort (PA),2021-2022,40.1068,-75.378,2405,2875,470,2022-01-09,2022-03-06,56,50.0,2021,Pennsylvania,United States,N,True,True,nominatim
+Hidden Valley Ski Resort (PA),2022-2023,40.1068,-75.378,2405,2875,470,2022-12-21,2023-03-05,74,14.0,2022,Pennsylvania,United States,N,True,True,nominatim
+Hidden Valley Ski Resort (PA),2023-2024,40.1068,-75.378,2405,2875,470,2023-12-22,2024-02-25,65,75.0,2023,Pennsylvania,United States,N,True,True,nominatim
+Hidden Valley Ski Resort (PA),2024-2025,40.1068,-75.378,2405,2875,470,,,,73.0,2024,Pennsylvania,United States,N,False,True,nominatim
+Hunter Mountain Ski Resort,2012-2013,42.1779,-74.2304,1600,3200,1600,,,,79.0,2012,New York,United States,N,False,True,nominatim
+Hunter Mountain Ski Resort,2013-2014,42.1779,-74.2304,1600,3200,1600,,,,77.0,2013,New York,United States,N,False,True,nominatim
+Hunter Mountain Ski Resort,2014-2015,42.1779,-74.2304,1600,3200,1600,,,,95.0,2014,New York,United States,N,False,True,nominatim
+Hunter Mountain Ski Resort,2015-2016,42.1779,-74.2304,1600,3200,1600,,,,25.0,2015,New York,United States,N,False,True,nominatim
+Hunter Mountain Ski Resort,2016-2017,42.1779,-74.2304,1600,3200,1600,,,,109.0,2016,New York,United States,N,False,True,nominatim
+Hunter Mountain Ski Resort,2017-2018,42.1779,-74.2304,1600,3200,1600,,,,119.0,2017,New York,United States,N,False,True,nominatim
+Hunter Mountain Ski Resort,2018-2019,42.1779,-74.2304,1600,3200,1600,,,,46.0,2018,New York,United States,N,False,True,nominatim
+Hunter Mountain Ski Resort,2019-2020,42.1779,-74.2304,1600,3200,1600,,,,52.0,2019,New York,United States,N,False,True,nominatim
+Hunter Mountain Ski Resort,2020-2021,42.1779,-74.2304,1600,3200,1600,,,,72.0,2020,New York,United States,N,False,True,nominatim
+Hunter Mountain Ski Resort,2021-2022,42.1779,-74.2304,1600,3200,1600,2021-11-26,2022-04-10,135,64.0,2021,New York,United States,N,True,True,nominatim
+Hunter Mountain Ski Resort,2022-2023,42.1779,-74.2304,1600,3200,1600,2022-11-19,2023-04-09,141,93.0,2022,New York,United States,N,True,True,nominatim
+Hunter Mountain Ski Resort,2023-2024,42.1779,-74.2304,1600,3200,1600,2023-11-25,2024-04-07,134,62.0,2023,New York,United States,N,True,True,nominatim
+Hunter Mountain Ski Resort,2024-2025,42.1779,-74.2304,1600,3200,1600,,,,48.0,2024,New York,United States,N,False,True,nominatim
+Jackson Hole Mountain Resort,2012-2013,43.5882,-110.8288,6311,10450,4139,,,,349.0,2012,Wyoming,United States,N,False,True,nominatim
+Jackson Hole Mountain Resort,2013-2014,43.5882,-110.8288,6311,10450,4139,,,,431.0,2013,Wyoming,United States,N,False,True,nominatim
+Jackson Hole Mountain Resort,2014-2015,43.5882,-110.8288,6311,10450,4139,,,,461.0,2014,Wyoming,United States,N,False,True,nominatim
+Jackson Hole Mountain Resort,2015-2016,43.5882,-110.8288,6311,10450,4139,,,,380.0,2015,Wyoming,United States,N,False,True,nominatim
+Jackson Hole Mountain Resort,2016-2017,43.5882,-110.8288,6311,10450,4139,,,,483.0,2016,Wyoming,United States,N,False,True,nominatim
+Jackson Hole Mountain Resort,2017-2018,43.5882,-110.8288,6311,10450,4139,,,,397.0,2017,Wyoming,United States,N,False,True,nominatim
+Jackson Hole Mountain Resort,2018-2019,43.5882,-110.8288,6311,10450,4139,,,,464.0,2018,Wyoming,United States,N,False,True,nominatim
+Jackson Hole Mountain Resort,2019-2020,43.5882,-110.8288,6311,10450,4139,,,,451.0,2019,Wyoming,United States,N,False,True,nominatim
+Jackson Hole Mountain Resort,2020-2021,43.5882,-110.8288,6311,10450,4139,,,,437.0,2020,Wyoming,United States,N,False,True,nominatim
+Jackson Hole Mountain Resort,2021-2022,43.5882,-110.8288,6311,10450,4139,2021-11-25,2022-04-10,136,304.0,2021,Wyoming,United States,N,True,True,nominatim
+Jackson Hole Mountain Resort,2022-2023,43.5882,-110.8288,6311,10450,4139,2022-11-25,2023-04-09,135,547.0,2022,Wyoming,United States,N,True,True,nominatim
+Jackson Hole Mountain Resort,2023-2024,43.5882,-110.8288,6311,10450,4139,2023-11-24,2024-04-14,142,424.0,2023,Wyoming,United States,N,True,True,nominatim
+Jackson Hole Mountain Resort,2024-2025,43.5882,-110.8288,6311,10450,4139,,,,387.0,2024,Wyoming,United States,N,False,True,nominatim
+June Mountain Ski Resort,2013-2014,37.7614,-119.084,7545,10090,2545,,,,115.0,2013,California,United States,N,False,True,nominatim
+June Mountain Ski Resort,2014-2015,37.7614,-119.084,7545,10090,2545,,,,75.0,2014,California,United States,N,False,True,nominatim
+June Mountain Ski Resort,2015-2016,37.7614,-119.084,7545,10090,2545,,,,199.0,2015,California,United States,N,False,True,nominatim
+June Mountain Ski Resort,2016-2017,37.7614,-119.084,7545,10090,2545,,,,415.0,2016,California,United States,N,False,True,nominatim
+June Mountain Ski Resort,2017-2018,37.7614,-119.084,7545,10090,2545,,,,217.0,2017,California,United States,N,False,True,nominatim
+June Mountain Ski Resort,2018-2019,37.7614,-119.084,7545,10090,2545,,,,492.0,2018,California,United States,N,False,True,nominatim
+June Mountain Ski Resort,2019-2020,37.7614,-119.084,7545,10090,2545,,,,50.0,2019,California,United States,N,False,True,nominatim
+June Mountain Ski Resort,2020-2021,37.7614,-119.084,7545,10090,2545,,,,109.0,2020,California,United States,N,False,True,nominatim
+June Mountain Ski Resort,2021-2022,37.7614,-119.084,7545,10090,2545,2021-12-18,2022-04-10,113,97.0,2021,California,United States,N,True,True,nominatim
+June Mountain Ski Resort,2022-2023,37.7614,-119.084,7545,10090,2545,2022-12-11,2023-04-09,119,622.0,2022,California,United States,N,True,True,nominatim
+June Mountain Ski Resort,2023-2024,37.7614,-119.084,7545,10090,2545,2023-12-24,2024-04-13,111,201.0,2023,California,United States,N,True,True,nominatim
+June Mountain Ski Resort,2024-2025,37.7614,-119.084,7545,10090,2545,,,,161.0,2024,California,United States,N,False,True,nominatim
+Keystone Resort,2012-2013,39.6046,-105.9538,9280,12408,3128,,,,163.0,2012,Colorado,United States,N,False,True,nominatim
+Keystone Resort,2013-2014,39.6046,-105.9538,9280,12408,3128,,,,268.0,2013,Colorado,United States,N,False,True,nominatim
+Keystone Resort,2014-2015,39.6046,-105.9538,9280,12408,3128,,,,180.0,2014,Colorado,United States,N,False,True,nominatim
+Keystone Resort,2015-2016,39.6046,-105.9538,9280,12408,3128,,,,269.0,2015,Colorado,United States,N,False,True,nominatim
+Keystone Resort,2016-2017,39.6046,-105.9538,9280,12408,3128,,,,259.0,2016,Colorado,United States,N,False,True,nominatim
+Keystone Resort,2017-2018,39.6046,-105.9538,9280,12408,3128,,,,211.0,2017,Colorado,United States,N,False,True,nominatim
+Keystone Resort,2018-2019,39.6046,-105.9538,9280,12408,3128,,,,225.0,2018,Colorado,United States,N,False,True,nominatim
+Keystone Resort,2019-2020,39.6046,-105.9538,9280,12408,3128,,,,203.0,2019,Colorado,United States,N,False,True,nominatim
+Keystone Resort,2020-2021,39.6046,-105.9538,9280,12408,3128,,,,192.0,2020,Colorado,United States,N,False,True,nominatim
+Keystone Resort,2021-2022,39.6046,-105.9538,9280,12408,3128,2021-10-22,2022-04-17,177,170.0,2021,Colorado,United States,N,True,True,nominatim
+Keystone Resort,2022-2023,39.6046,-105.9538,9280,12408,3128,2022-10-28,2023-04-17,171,215.0,2022,Colorado,United States,N,True,True,nominatim
+Keystone Resort,2023-2024,39.6046,-105.9538,9280,12408,3128,2023-11-01,2024-04-08,159,203.0,2023,Colorado,United States,N,True,True,nominatim
+Keystone Resort,2024-2025,39.6046,-105.9538,9280,12408,3128,,,,234.0,2024,Colorado,United States,N,False,True,nominatim
+Kicking Horse Mountain Resort,2012-2013,51.2982,-117.0499,3904,8219,4315,,,,148.0,2012,British Columbia,Canada,N,False,True,nominatim
+Kicking Horse Mountain Resort,2013-2014,51.2982,-117.0499,3904,8219,4315,,,,221.0,2013,British Columbia,Canada,N,False,True,nominatim
+Kicking Horse Mountain Resort,2014-2015,51.2982,-117.0499,3904,8219,4315,,,,196.0,2014,British Columbia,Canada,N,False,True,nominatim
+Kicking Horse Mountain Resort,2015-2016,51.2982,-117.0499,3904,8219,4315,,,,204.0,2015,British Columbia,Canada,N,False,True,nominatim
+Kicking Horse Mountain Resort,2016-2017,51.2982,-117.0499,3904,8219,4315,,,,224.0,2016,British Columbia,Canada,N,False,True,nominatim
+Kicking Horse Mountain Resort,2017-2018,51.2982,-117.0499,3904,8219,4315,,,,243.0,2017,British Columbia,Canada,N,False,True,nominatim
+Kicking Horse Mountain Resort,2018-2019,51.2982,-117.0499,3904,8219,4315,,,,189.0,2018,British Columbia,Canada,N,False,True,nominatim
+Kicking Horse Mountain Resort,2019-2020,51.2982,-117.0499,3904,8219,4315,,,,176.0,2019,British Columbia,Canada,N,False,True,nominatim
+Kicking Horse Mountain Resort,2020-2021,51.2982,-117.0499,3904,8219,4315,,,,151.0,2020,British Columbia,Canada,N,False,True,nominatim
+Kicking Horse Mountain Resort,2021-2022,51.2982,-117.0499,3904,8219,4315,2021-12-10,2022-04-17,128,211.0,2021,British Columbia,Canada,N,True,True,nominatim
+Kicking Horse Mountain Resort,2022-2023,51.2982,-117.0499,3904,8219,4315,2022-12-09,2023-04-16,128,205.0,2022,British Columbia,Canada,N,True,True,nominatim
+Kicking Horse Mountain Resort,2023-2024,51.2982,-117.0499,3904,8219,4315,2023-12-08,2024-04-14,128,181.0,2023,British Columbia,Canada,N,True,True,nominatim
+Kicking Horse Mountain Resort,2024-2025,51.2982,-117.0499,3904,8219,4315,,,,108.0,2024,British Columbia,Canada,N,False,True,nominatim
+Kirkwood Mountain Resort,2012-2013,38.6758,-120.0616,7800,9800,2000,,,,338.0,2012,California,United States,N,False,True,nominatim
+Kirkwood Mountain Resort,2013-2014,38.6758,-120.0616,7800,9800,2000,,,,334.0,2013,California,United States,N,False,True,nominatim
+Kirkwood Mountain Resort,2014-2015,38.6758,-120.0616,7800,9800,2000,,,,143.0,2014,California,United States,N,False,True,nominatim
+Kirkwood Mountain Resort,2015-2016,38.6758,-120.0616,7800,9800,2000,,,,391.0,2015,California,United States,N,False,True,nominatim
+Kirkwood Mountain Resort,2016-2017,38.6758,-120.0616,7800,9800,2000,,,,680.0,2016,California,United States,N,False,True,nominatim
+Kirkwood Mountain Resort,2017-2018,38.6758,-120.0616,7800,9800,2000,,,,311.0,2017,California,United States,N,False,True,nominatim
+Kirkwood Mountain Resort,2018-2019,38.6758,-120.0616,7800,9800,2000,,,,578.0,2018,California,United States,N,False,True,nominatim
+Kirkwood Mountain Resort,2019-2020,38.6758,-120.0616,7800,9800,2000,,,,173.0,2019,California,United States,N,False,True,nominatim
+Kirkwood Mountain Resort,2020-2021,38.6758,-120.0616,7800,9800,2000,,,,186.0,2020,California,United States,N,False,True,nominatim
+Kirkwood Mountain Resort,2021-2022,38.6758,-120.0616,7800,9800,2000,2021-12-11,2022-05-01,141,253.0,2021,California,United States,N,True,True,nominatim
+Kirkwood Mountain Resort,2022-2023,38.6758,-120.0616,7800,9800,2000,2022-11-12,2023-05-14,183,716.0,2022,California,United States,N,True,True,nominatim
+Kirkwood Mountain Resort,2023-2024,38.6758,-120.0616,7800,9800,2000,2023-12-01,2024-04-28,149,338.0,2023,California,United States,N,True,True,nominatim
+Kirkwood Mountain Resort,2024-2025,38.6758,-120.0616,7800,9800,2000,,,,240.0,2024,California,United States,N,False,True,nominatim
+Liberty Mountain Resort,2012-2013,39.7606,-77.3685,570,1190,620,,,,36.0,2012,Pennsylvania,United States,N,False,True,nominatim
+Liberty Mountain Resort,2013-2014,39.7606,-77.3685,570,1190,620,,,,61.0,2013,Pennsylvania,United States,N,False,True,nominatim
+Liberty Mountain Resort,2014-2015,39.7606,-77.3685,570,1190,620,,,,44.0,2014,Pennsylvania,United States,N,False,True,nominatim
+Liberty Mountain Resort,2015-2016,39.7606,-77.3685,570,1190,620,,,,35.0,2015,Pennsylvania,United States,N,False,True,nominatim
+Liberty Mountain Resort,2016-2017,39.7606,-77.3685,570,1190,620,,,,3.0,2016,Pennsylvania,United States,N,False,True,nominatim
+Liberty Mountain Resort,2017-2018,39.7606,-77.3685,570,1190,620,,,,28.0,2017,Pennsylvania,United States,N,False,True,nominatim
+Liberty Mountain Resort,2018-2019,39.7606,-77.3685,570,1190,620,,,,36.0,2018,Pennsylvania,United States,N,False,True,nominatim
+Liberty Mountain Resort,2019-2020,39.7606,-77.3685,570,1190,620,,,,4.0,2019,Pennsylvania,United States,N,False,True,nominatim
+Liberty Mountain Resort,2020-2021,39.7606,-77.3685,570,1190,620,,,,17.0,2020,Pennsylvania,United States,N,False,True,nominatim
+Liberty Mountain Resort,2021-2022,39.7606,-77.3685,570,1190,620,2021-12-29,2022-03-20,81,6.0,2021,Pennsylvania,United States,N,True,True,nominatim
+Liberty Mountain Resort,2022-2023,39.7606,-77.3685,570,1190,620,2022-12-25,2023-03-03,68,0.0,2022,Pennsylvania,United States,N,True,True,nominatim
+Liberty Mountain Resort,2023-2024,39.7606,-77.3685,570,1190,620,2024-01-07,2024-03-10,63,0.0,2023,Pennsylvania,United States,N,True,True,nominatim
+Liberty Mountain Resort,2024-2025,39.7606,-77.3685,570,1190,620,,,,1.0,2024,Pennsylvania,United States,N,False,True,nominatim
+Loon Mountain Ski Resort,2012-2013,44.0349,-71.6207,860,3050,2190,,,,156.0,2012,New Hampshire,United States,N,False,True,nominatim
+Loon Mountain Ski Resort,2013-2014,44.0349,-71.6207,860,3050,2190,,,,158.0,2013,New Hampshire,United States,N,False,True,nominatim
+Loon Mountain Ski Resort,2014-2015,44.0349,-71.6207,860,3050,2190,,,,147.0,2014,New Hampshire,United States,N,False,True,nominatim
+Loon Mountain Ski Resort,2015-2016,44.0349,-71.6207,860,3050,2190,,,,49.0,2015,New Hampshire,United States,N,False,True,nominatim
+Loon Mountain Ski Resort,2016-2017,44.0349,-71.6207,860,3050,2190,,,,187.0,2016,New Hampshire,United States,N,False,True,nominatim
+Loon Mountain Ski Resort,2017-2018,44.0349,-71.6207,860,3050,2190,,,,172.0,2017,New Hampshire,United States,N,False,True,nominatim
+Loon Mountain Ski Resort,2018-2019,44.0349,-71.6207,860,3050,2190,,,,195.0,2018,New Hampshire,United States,N,False,True,nominatim
+Loon Mountain Ski Resort,2019-2020,44.0349,-71.6207,860,3050,2190,,,,102.0,2019,New Hampshire,United States,N,False,True,nominatim
+Loon Mountain Ski Resort,2020-2021,44.0349,-71.6207,860,3050,2190,,,,105.0,2020,New Hampshire,United States,N,False,True,nominatim
+Loon Mountain Ski Resort,2021-2022,44.0349,-71.6207,860,3050,2190,2021-11-26,2022-04-17,142,86.0,2021,New Hampshire,United States,N,True,True,nominatim
+Loon Mountain Ski Resort,2022-2023,44.0349,-71.6207,860,3050,2190,2022-11-23,2023-04-16,144,139.0,2022,New Hampshire,United States,N,True,True,nominatim
+Loon Mountain Ski Resort,2023-2024,44.0349,-71.6207,860,3050,2190,2023-11-22,2024-04-14,144,133.0,2023,New Hampshire,United States,N,True,True,nominatim
+Loon Mountain Ski Resort,2024-2025,44.0349,-71.6207,860,3050,2190,,,,103.0,2024,New Hampshire,United States,N,False,True,nominatim
+Mad River Mountain,2012-2013,40.3172,-83.6753,1160,1460,300,,,,43.0,2012,Ohio,United States,N,False,True,nominatim
+Mad River Mountain,2013-2014,40.3172,-83.6753,1160,1460,300,,,,44.0,2013,Ohio,United States,N,False,True,nominatim
+Mad River Mountain,2014-2015,40.3172,-83.6753,1160,1460,300,,,,27.0,2014,Ohio,United States,N,False,True,nominatim
+Mad River Mountain,2015-2016,40.3172,-83.6753,1160,1460,300,,,,22.0,2015,Ohio,United States,N,False,True,nominatim
+Mad River Mountain,2016-2017,40.3172,-83.6753,1160,1460,300,,,,10.0,2016,Ohio,United States,N,False,True,nominatim
+Mad River Mountain,2017-2018,40.3172,-83.6753,1160,1460,300,,,,28.0,2017,Ohio,United States,N,False,True,nominatim
+Mad River Mountain,2018-2019,40.3172,-83.6753,1160,1460,300,,,,36.0,2018,Ohio,United States,N,False,True,nominatim
+Mad River Mountain,2019-2020,40.3172,-83.6753,1160,1460,300,,,,44.0,2019,Ohio,United States,N,False,True,nominatim
+Mad River Mountain,2020-2021,40.3172,-83.6753,1160,1460,300,,,,8.0,2020,Ohio,United States,N,False,True,nominatim
+Mad River Mountain,2021-2022,40.3172,-83.6753,1160,1460,300,2022-01-07,2022-03-13,65,15.0,2021,Ohio,United States,N,True,True,nominatim
+Mad River Mountain,2022-2023,40.3172,-83.6753,1160,1460,300,2022-12-21,2023-03-12,81,13.0,2022,Ohio,United States,N,True,True,nominatim
+Mad River Mountain,2023-2024,40.3172,-83.6753,1160,1460,300,2024-01-06,2024-03-10,64,15.0,2023,Ohio,United States,N,True,True,nominatim
+Mad River Mountain,2024-2025,40.3172,-83.6753,1160,1460,300,,,,12.0,2024,Ohio,United States,N,False,True,nominatim
+Mammoth Mountain Ski Resort,2012-2013,37.6502,-119.0376,7953,11059,3106,,,,315.0,2012,California,United States,N,False,True,nominatim
+Mammoth Mountain Ski Resort,2013-2014,37.6502,-119.0376,7953,11059,3106,,,,192.0,2013,California,United States,N,False,True,nominatim
+Mammoth Mountain Ski Resort,2014-2015,37.6502,-119.0376,7953,11059,3106,,,,161.0,2014,California,United States,N,False,True,nominatim
+Mammoth Mountain Ski Resort,2015-2016,37.6502,-119.0376,7953,11059,3106,,,,393.0,2015,California,United States,N,False,True,nominatim
+Mammoth Mountain Ski Resort,2016-2017,37.6502,-119.0376,7953,11059,3106,,,,608.0,2016,California,United States,N,False,True,nominatim
+Mammoth Mountain Ski Resort,2017-2018,37.6502,-119.0376,7953,11059,3106,,,,277.0,2017,California,United States,N,False,True,nominatim
+Mammoth Mountain Ski Resort,2018-2019,37.6502,-119.0376,7953,11059,3106,,,,495.0,2018,California,United States,N,False,True,nominatim
+Mammoth Mountain Ski Resort,2019-2020,37.6502,-119.0376,7953,11059,3106,,,,153.0,2019,California,United States,N,False,True,nominatim
+Mammoth Mountain Ski Resort,2020-2021,37.6502,-119.0376,7953,11059,3106,,,,225.0,2020,California,United States,N,False,True,nominatim
+Mammoth Mountain Ski Resort,2021-2022,37.6502,-119.0376,7953,11059,3106,2021-10-29,2022-05-06,189,222.0,2021,California,United States,N,True,True,nominatim
+Mammoth Mountain Ski Resort,2022-2023,37.6502,-119.0376,7953,11059,3106,2022-11-05,2023-06-08,215,718.0,2022,California,United States,N,True,True,nominatim
+Mammoth Mountain Ski Resort,2023-2024,37.6502,-119.0376,7953,11059,3106,2023-11-10,2024-05-27,199,362.0,2023,California,United States,N,True,True,nominatim
+Mammoth Mountain Ski Resort,2024-2025,37.6502,-119.0376,7953,11059,3106,,,,260.0,2024,California,United States,N,False,True,nominatim
+Mont-Sainte-Anne Ski Resort,2012-2013,47.0877,-70.9261,574,2625,2051,,,,170.0,2012,Quebec,Canada,N,False,True,nominatim
+Mont-Sainte-Anne Ski Resort,2013-2014,47.0877,-70.9261,574,2625,2051,,,,197.0,2013,Quebec,Canada,N,False,True,nominatim
+Mont-Sainte-Anne Ski Resort,2014-2015,47.0877,-70.9261,574,2625,2051,,,,167.0,2014,Quebec,Canada,N,False,True,nominatim
+Mont-Sainte-Anne Ski Resort,2015-2016,47.0877,-70.9261,574,2625,2051,,,,172.0,2015,Quebec,Canada,N,False,True,nominatim
+Mont-Sainte-Anne Ski Resort,2016-2017,47.0877,-70.9261,574,2625,2051,,,,213.0,2016,Quebec,Canada,N,False,True,nominatim
+Mont-Sainte-Anne Ski Resort,2017-2018,47.0877,-70.9261,574,2625,2051,,,,185.0,2017,Quebec,Canada,N,False,True,nominatim
+Mont-Sainte-Anne Ski Resort,2018-2019,47.0877,-70.9261,574,2625,2051,,,,197.0,2018,Quebec,Canada,N,False,True,nominatim
+Mont-Sainte-Anne Ski Resort,2019-2020,47.0877,-70.9261,574,2625,2051,,,,153.0,2019,Quebec,Canada,N,False,True,nominatim
+Mont-Sainte-Anne Ski Resort,2020-2021,47.0877,-70.9261,574,2625,2051,,,,94.0,2020,Quebec,Canada,N,False,True,nominatim
+Mont-Sainte-Anne Ski Resort,2021-2022,47.0877,-70.9261,574,2625,2051,2021-12-10,2022-04-24,135,170.0,2021,Quebec,Canada,N,True,True,nominatim
+Mont-Sainte-Anne Ski Resort,2022-2023,47.0877,-70.9261,574,2625,2051,2022-11-26,2023-04-23,148,186.0,2022,Quebec,Canada,N,True,True,nominatim
+Mont-Sainte-Anne Ski Resort,2023-2024,47.0877,-70.9261,574,2625,2051,2023-12-01,2024-04-22,143,127.0,2023,Quebec,Canada,N,True,True,nominatim
+Mont-Sainte-Anne Ski Resort,2024-2025,47.0877,-70.9261,574,2625,2051,,,,41.0,2024,Quebec,Canada,N,False,True,nominatim
+Mount Snow Ski Resort,2012-2013,42.9614,-72.9067,1900,3600,1700,,,,172.0,2012,Vermont,United States,N,False,True,nominatim
+Mount Snow Ski Resort,2013-2014,42.9614,-72.9067,1900,3600,1700,,,,185.0,2013,Vermont,United States,N,False,True,nominatim
+Mount Snow Ski Resort,2014-2015,42.9614,-72.9067,1900,3600,1700,,,,177.0,2014,Vermont,United States,N,False,True,nominatim
+Mount Snow Ski Resort,2015-2016,42.9614,-72.9067,1900,3600,1700,,,,47.0,2015,Vermont,United States,N,False,True,nominatim
+Mount Snow Ski Resort,2016-2017,42.9614,-72.9067,1900,3600,1700,,,,155.0,2016,Vermont,United States,N,False,True,nominatim
+Mount Snow Ski Resort,2017-2018,42.9614,-72.9067,1900,3600,1700,,,,189.0,2017,Vermont,United States,N,False,True,nominatim
+Mount Snow Ski Resort,2018-2019,42.9614,-72.9067,1900,3600,1700,,,,132.0,2018,Vermont,United States,N,False,True,nominatim
+Mount Snow Ski Resort,2019-2020,42.9614,-72.9067,1900,3600,1700,,,,99.0,2019,Vermont,United States,N,False,True,nominatim
+Mount Snow Ski Resort,2020-2021,42.9614,-72.9067,1900,3600,1700,,,,113.0,2020,Vermont,United States,N,False,True,nominatim
+Mount Snow Ski Resort,2021-2022,42.9614,-72.9067,1900,3600,1700,2021-11-19,2022-04-24,156,89.0,2021,Vermont,United States,N,True,True,nominatim
+Mount Snow Ski Resort,2022-2023,42.9614,-72.9067,1900,3600,1700,2022-11-20,2023-04-23,154,152.0,2022,Vermont,United States,N,True,True,nominatim
+Mount Snow Ski Resort,2023-2024,42.9614,-72.9067,1900,3600,1700,2023-11-23,2024-04-21,150,114.0,2023,Vermont,United States,N,True,True,nominatim
+Mount Snow Ski Resort,2024-2025,42.9614,-72.9067,1900,3600,1700,,,,131.0,2024,Vermont,United States,N,False,True,nominatim
+Mount Sunapee Resort,2012-2013,43.3258,-72.0753,1230,2743,1513,,,,96.0,2012,New Hampshire,United States,N,False,True,nominatim
+Mount Sunapee Resort,2013-2014,43.3258,-72.0753,1230,2743,1513,,,,132.0,2013,New Hampshire,United States,N,False,True,nominatim
+Mount Sunapee Resort,2014-2015,43.3258,-72.0753,1230,2743,1513,,,,143.0,2014,New Hampshire,United States,N,False,True,nominatim
+Mount Sunapee Resort,2015-2016,43.3258,-72.0753,1230,2743,1513,,,,32.0,2015,New Hampshire,United States,N,False,True,nominatim
+Mount Sunapee Resort,2016-2017,43.3258,-72.0753,1230,2743,1513,,,,130.0,2016,New Hampshire,United States,N,False,True,nominatim
+Mount Sunapee Resort,2017-2018,43.3258,-72.0753,1230,2743,1513,,,,170.0,2017,New Hampshire,United States,N,False,True,nominatim
+Mount Sunapee Resort,2018-2019,43.3258,-72.0753,1230,2743,1513,,,,71.0,2018,New Hampshire,United States,N,False,True,nominatim
+Mount Sunapee Resort,2019-2020,43.3258,-72.0753,1230,2743,1513,,,,42.0,2019,New Hampshire,United States,N,False,True,nominatim
+Mount Sunapee Resort,2020-2021,43.3258,-72.0753,1230,2743,1513,,,,71.0,2020,New Hampshire,United States,N,False,True,nominatim
+Mount Sunapee Resort,2021-2022,43.3258,-72.0753,1230,2743,1513,2021-11-24,2022-04-03,130,53.0,2021,New Hampshire,United States,N,True,True,nominatim
+Mount Sunapee Resort,2022-2023,43.3258,-72.0753,1230,2743,1513,2022-11-23,2023-04-09,137,111.0,2022,New Hampshire,United States,N,True,True,nominatim
+Mount Sunapee Resort,2023-2024,43.3258,-72.0753,1230,2743,1513,2023-11-23,2024-04-07,136,107.0,2023,New Hampshire,United States,N,True,True,nominatim
+Mount Sunapee Resort,2024-2025,43.3258,-72.0753,1230,2743,1513,,,,62.0,2024,New Hampshire,United States,N,False,True,nominatim
+Mt. Bachelor Ski Resort,2012-2013,43.9794,-121.6885,5700,9065,3365,,,,830.0,2012,Oregon,United States,N,False,True,nominatim
+Mt. Bachelor Ski Resort,2013-2014,43.9794,-121.6885,5700,9065,3365,,,,776.0,2013,Oregon,United States,N,False,True,nominatim
+Mt. Bachelor Ski Resort,2014-2015,43.9794,-121.6885,5700,9065,3365,,,,177.0,2014,Oregon,United States,N,False,True,nominatim
+Mt. Bachelor Ski Resort,2015-2016,43.9794,-121.6885,5700,9065,3365,,,,373.0,2015,Oregon,United States,N,False,True,nominatim
+Mt. Bachelor Ski Resort,2016-2017,43.9794,-121.6885,5700,9065,3365,,,,469.0,2016,Oregon,United States,N,False,True,nominatim
+Mt. Bachelor Ski Resort,2017-2018,43.9794,-121.6885,5700,9065,3365,,,,223.0,2017,Oregon,United States,N,False,True,nominatim
+Mt. Bachelor Ski Resort,2018-2019,43.9794,-121.6885,5700,9065,3365,,,,349.0,2018,Oregon,United States,N,False,True,nominatim
+Mt. Bachelor Ski Resort,2019-2020,43.9794,-121.6885,5700,9065,3365,,,,214.0,2019,Oregon,United States,N,False,True,nominatim
+Mt. Bachelor Ski Resort,2020-2021,43.9794,-121.6885,5700,9065,3365,,,,265.0,2020,Oregon,United States,N,False,True,nominatim
+Mt. Bachelor Ski Resort,2021-2022,43.9794,-121.6885,5700,9065,3365,2021-12-13,2022-05-29,167,325.0,2021,Oregon,United States,N,True,True,nominatim
+Mt. Bachelor Ski Resort,2022-2023,43.9794,-121.6885,5700,9065,3365,2022-11-30,2023-05-28,179,467.0,2022,Oregon,United States,N,True,True,nominatim
+Mt. Bachelor Ski Resort,2023-2024,43.9794,-121.6885,5700,9065,3365,2023-12-02,2024-05-28,178,336.0,2023,Oregon,United States,N,True,True,nominatim
+Mt. Bachelor Ski Resort,2024-2025,43.9794,-121.6885,5700,9065,3365,,,,264.0,2024,Oregon,United States,N,False,True,nominatim
+Mt. Brighton Ski Resort,2012-2013,42.539,-83.8092,1100,1330,230,,,,11.0,2012,Michigan,United States,N,False,True,nominatim
+Mt. Brighton Ski Resort,2013-2014,42.539,-83.8092,1100,1330,230,,,,62.0,2013,Michigan,United States,N,False,True,nominatim
+Mt. Brighton Ski Resort,2014-2015,42.539,-83.8092,1100,1330,230,,,,36.0,2014,Michigan,United States,N,False,True,nominatim
+Mt. Brighton Ski Resort,2015-2016,42.539,-83.8092,1100,1330,230,,,,30.0,2015,Michigan,United States,N,False,True,nominatim
+Mt. Brighton Ski Resort,2016-2017,42.539,-83.8092,1100,1330,230,,,,30.0,2016,Michigan,United States,N,False,True,nominatim
+Mt. Brighton Ski Resort,2017-2018,42.539,-83.8092,1100,1330,230,,,,77.0,2017,Michigan,United States,N,False,True,nominatim
+Mt. Brighton Ski Resort,2018-2019,42.539,-83.8092,1100,1330,230,,,,26.0,2018,Michigan,United States,N,False,True,nominatim
+Mt. Brighton Ski Resort,2019-2020,42.539,-83.8092,1100,1330,230,,,,44.0,2019,Michigan,United States,N,False,True,nominatim
+Mt. Brighton Ski Resort,2020-2021,42.539,-83.8092,1100,1330,230,,,,39.0,2020,Michigan,United States,N,False,True,nominatim
+Mt. Brighton Ski Resort,2021-2022,42.539,-83.8092,1100,1330,230,2021-12-04,2022-03-14,100,39.0,2021,Michigan,United States,N,True,True,nominatim
+Mt. Brighton Ski Resort,2022-2023,42.539,-83.8092,1100,1330,230,2022-12-08,2023-03-19,101,39.0,2022,Michigan,United States,N,True,True,nominatim
+Mt. Brighton Ski Resort,2023-2024,42.539,-83.8092,1100,1330,230,2023-12-02,2024-03-06,95,27.0,2023,Michigan,United States,N,True,True,nominatim
+Mt. Brighton Ski Resort,2024-2025,42.539,-83.8092,1100,1330,230,,,,28.0,2024,Michigan,United States,N,False,True,nominatim
+Nakiska Ski Area,2012-2013,50.9419,-115.1513,5003,7415,2412,,,,93.0,2012,Alberta,Canada,N,False,True,nominatim
+Nakiska Ski Area,2013-2014,50.9419,-115.1513,5003,7415,2412,,,,191.0,2013,Alberta,Canada,N,False,True,nominatim
+Nakiska Ski Area,2014-2015,50.9419,-115.1513,5003,7415,2412,,,,67.0,2014,Alberta,Canada,N,False,True,nominatim
+Nakiska Ski Area,2015-2016,50.9419,-115.1513,5003,7415,2412,,,,78.0,2015,Alberta,Canada,N,False,True,nominatim
+Nakiska Ski Area,2016-2017,50.9419,-115.1513,5003,7415,2412,,,,109.0,2016,Alberta,Canada,N,False,True,nominatim
+Nakiska Ski Area,2017-2018,50.9419,-115.1513,5003,7415,2412,,,,145.0,2017,Alberta,Canada,N,False,True,nominatim
+Nakiska Ski Area,2018-2019,50.9419,-115.1513,5003,7415,2412,,,,114.0,2018,Alberta,Canada,N,False,True,nominatim
+Nakiska Ski Area,2019-2020,50.9419,-115.1513,5003,7415,2412,,,,100.0,2019,Alberta,Canada,N,False,True,nominatim
+Nakiska Ski Area,2020-2021,50.9419,-115.1513,5003,7415,2412,,,,58.0,2020,Alberta,Canada,N,False,True,nominatim
+Nakiska Ski Area,2021-2022,50.9419,-115.1513,5003,7415,2412,2021-11-26,2022-04-24,149,124.0,2021,Alberta,Canada,N,True,True,nominatim
+Nakiska Ski Area,2022-2023,50.9419,-115.1513,5003,7415,2412,2022-11-25,2023-04-23,149,80.0,2022,Alberta,Canada,N,True,True,nominatim
+Nakiska Ski Area,2023-2024,50.9419,-115.1513,5003,7415,2412,2023-11-04,2024-04-21,169,93.0,2023,Alberta,Canada,N,True,True,nominatim
+Nakiska Ski Area,2024-2025,50.9419,-115.1513,5003,7415,2412,,,,59.0,2024,Alberta,Canada,N,False,True,nominatim
+Northstar California Resort,2012-2013,33.6561,-117.6695,6330,8610,2280,,,,283.0,2012,California,United States,N,False,True,nominatim
+Northstar California Resort,2013-2014,33.6561,-117.6695,6330,8610,2280,,,,177.0,2013,California,United States,N,False,True,nominatim
+Northstar California Resort,2014-2015,33.6561,-117.6695,6330,8610,2280,,,,134.0,2014,California,United States,N,False,True,nominatim
+Northstar California Resort,2015-2016,33.6561,-117.6695,6330,8610,2280,,,,433.0,2015,California,United States,N,False,True,nominatim
+Northstar California Resort,2016-2017,33.6561,-117.6695,6330,8610,2280,,,,692.0,2016,California,United States,N,False,True,nominatim
+Northstar California Resort,2017-2018,33.6561,-117.6695,6330,8610,2280,,,,269.0,2017,California,United States,N,False,True,nominatim
+Northstar California Resort,2018-2019,33.6561,-117.6695,6330,8610,2280,,,,601.0,2018,California,United States,N,False,True,nominatim
+Northstar California Resort,2019-2020,33.6561,-117.6695,6330,8610,2280,,,,202.0,2019,California,United States,N,False,True,nominatim
+Northstar California Resort,2020-2021,33.6561,-117.6695,6330,8610,2280,,,,181.0,2020,California,United States,N,False,True,nominatim
+Northstar California Resort,2021-2022,33.6561,-117.6695,6330,8610,2280,2021-12-12,2022-04-17,126,236.0,2021,California,United States,N,True,True,nominatim
+Northstar California Resort,2022-2023,33.6561,-117.6695,6330,8610,2280,2022-11-12,2023-04-30,169,649.0,2022,California,United States,N,True,True,nominatim
+Northstar California Resort,2023-2024,33.6561,-117.6695,6330,8610,2280,2023-11-23,2024-04-14,143,322.0,2023,California,United States,N,True,True,nominatim
+Northstar California Resort,2024-2025,33.6561,-117.6695,6330,8610,2280,,,,260.0,2024,California,United States,N,False,True,nominatim
+Okemo Mountain Resort,2012-2013,43.4018,-72.717,1144,3344,2200,,,,136.0,2012,Vermont,United States,N,False,True,nominatim
+Okemo Mountain Resort,2013-2014,43.4018,-72.717,1144,3344,2200,,,,158.0,2013,Vermont,United States,N,False,True,nominatim
+Okemo Mountain Resort,2014-2015,43.4018,-72.717,1144,3344,2200,,,,142.0,2014,Vermont,United States,N,False,True,nominatim
+Okemo Mountain Resort,2015-2016,43.4018,-72.717,1144,3344,2200,,,,20.0,2015,Vermont,United States,N,False,True,nominatim
+Okemo Mountain Resort,2016-2017,43.4018,-72.717,1144,3344,2200,,,,159.0,2016,Vermont,United States,N,False,True,nominatim
+Okemo Mountain Resort,2017-2018,43.4018,-72.717,1144,3344,2200,,,,171.0,2017,Vermont,United States,N,False,True,nominatim
+Okemo Mountain Resort,2018-2019,43.4018,-72.717,1144,3344,2200,,,,148.0,2018,Vermont,United States,N,False,True,nominatim
+Okemo Mountain Resort,2019-2020,43.4018,-72.717,1144,3344,2200,,,,49.0,2019,Vermont,United States,N,False,True,nominatim
+Okemo Mountain Resort,2020-2021,43.4018,-72.717,1144,3344,2200,,,,78.0,2020,Vermont,United States,N,False,True,nominatim
+Okemo Mountain Resort,2021-2022,43.4018,-72.717,1144,3344,2200,2021-11-26,2022-04-17,142,118.0,2021,Vermont,United States,N,True,True,nominatim
+Okemo Mountain Resort,2022-2023,43.4018,-72.717,1144,3344,2200,2022-11-19,2023-04-16,148,148.0,2022,Vermont,United States,N,True,True,nominatim
+Okemo Mountain Resort,2023-2024,43.4018,-72.717,1144,3344,2200,2023-11-17,2024-04-14,149,114.0,2023,Vermont,United States,N,True,True,nominatim
+Okemo Mountain Resort,2024-2025,43.4018,-72.717,1144,3344,2200,,,,126.0,2024,Vermont,United States,N,False,True,nominatim
+Palisades Tahoe Ski Resort,2012-2013,39.1926,-120.2471,6200,9050,2850,,,,289.0,2012,California,United States,N,False,True,nominatim
+Palisades Tahoe Ski Resort,2013-2014,39.1926,-120.2471,6200,9050,2850,,,,273.0,2013,California,United States,N,False,True,nominatim
+Palisades Tahoe Ski Resort,2014-2015,39.1926,-120.2471,6200,9050,2850,,,,193.0,2014,California,United States,N,False,True,nominatim
+Palisades Tahoe Ski Resort,2015-2016,39.1926,-120.2471,6200,9050,2850,,,,473.0,2015,California,United States,N,False,True,nominatim
+Palisades Tahoe Ski Resort,2016-2017,39.1926,-120.2471,6200,9050,2850,,,,701.0,2016,California,United States,N,False,True,nominatim
+Palisades Tahoe Ski Resort,2017-2018,39.1926,-120.2471,6200,9050,2850,,,,377.0,2017,California,United States,N,False,True,nominatim
+Palisades Tahoe Ski Resort,2018-2019,39.1926,-120.2471,6200,9050,2850,,,,650.0,2018,California,United States,N,False,True,nominatim
+Palisades Tahoe Ski Resort,2019-2020,39.1926,-120.2471,6200,9050,2850,,,,148.0,2019,California,United States,N,False,True,nominatim
+Palisades Tahoe Ski Resort,2020-2021,39.1926,-120.2471,6200,9050,2850,,,,275.0,2020,California,United States,N,False,True,nominatim
+Palisades Tahoe Ski Resort,2021-2022,39.1926,-120.2471,6200,9050,2850,2021-10-29,2022-05-01,184,340.0,2021,California,United States,N,True,True,nominatim
+Palisades Tahoe Ski Resort,2022-2023,39.1926,-120.2471,6200,9050,2850,2022-11-18,2023-04-07,140,739.0,2022,California,United States,N,True,True,nominatim
+Palisades Tahoe Ski Resort,2023-2024,39.1926,-120.2471,6200,9050,2850,2023-11-22,2024-05-27,187,422.0,2023,California,United States,N,True,True,nominatim
+Palisades Tahoe Ski Resort,2024-2025,39.1926,-120.2471,6200,9050,2850,,,,337.0,2024,California,United States,N,False,True,nominatim
+Panorama Mountain Resort,2012-2013,50.442,-116.2124,3773,8038,4265,,,,303.0,2012,British Columbia,Canada,N,False,True,nominatim
+Panorama Mountain Resort,2013-2014,50.442,-116.2124,3773,8038,4265,,,,400.0,2013,British Columbia,Canada,N,False,True,nominatim
+Panorama Mountain Resort,2014-2015,50.442,-116.2124,3773,8038,4265,,,,95.0,2014,British Columbia,Canada,N,False,True,nominatim
+Panorama Mountain Resort,2015-2016,50.442,-116.2124,3773,8038,4265,,,,104.0,2015,British Columbia,Canada,N,False,True,nominatim
+Panorama Mountain Resort,2016-2017,50.442,-116.2124,3773,8038,4265,,,,163.0,2016,British Columbia,Canada,N,False,True,nominatim
+Panorama Mountain Resort,2017-2018,50.442,-116.2124,3773,8038,4265,,,,137.0,2017,British Columbia,Canada,N,False,True,nominatim
+Panorama Mountain Resort,2018-2019,50.442,-116.2124,3773,8038,4265,,,,141.0,2018,British Columbia,Canada,N,False,True,nominatim
+Panorama Mountain Resort,2019-2020,50.442,-116.2124,3773,8038,4265,,,,129.0,2019,British Columbia,Canada,N,False,True,nominatim
+Panorama Mountain Resort,2020-2021,50.442,-116.2124,3773,8038,4265,,,,112.0,2020,British Columbia,Canada,N,False,True,nominatim
+Panorama Mountain Resort,2021-2022,50.442,-116.2124,3773,8038,4265,2021-12-10,2022-04-17,128,156.0,2021,British Columbia,Canada,N,True,True,nominatim
+Panorama Mountain Resort,2022-2023,50.442,-116.2124,3773,8038,4265,2022-12-09,2023-04-09,121,95.0,2022,British Columbia,Canada,N,True,True,nominatim
+Panorama Mountain Resort,2023-2024,50.442,-116.2124,3773,8038,4265,2023-12-08,2024-04-14,128,120.0,2023,British Columbia,Canada,N,True,True,nominatim
+Panorama Mountain Resort,2024-2025,50.442,-116.2124,3773,8038,4265,,,,94.0,2024,British Columbia,Canada,N,False,True,nominatim
+Paoli Peaks,2012-2013,38.5559,-86.5122,600,900,300,,,,20.0,2012,Indiana,United States,N,False,True,nominatim
+Paoli Peaks,2013-2014,38.5559,-86.5122,600,900,300,,,,17.0,2013,Indiana,United States,N,False,True,nominatim
+Paoli Peaks,2014-2015,38.5559,-86.5122,600,900,300,,,,15.0,2014,Indiana,United States,N,False,True,nominatim
+Paoli Peaks,2015-2016,38.5559,-86.5122,600,900,300,,,,55.0,2015,Indiana,United States,N,False,True,nominatim
+Paoli Peaks,2016-2017,38.5559,-86.5122,600,900,300,,,,53.0,2016,Indiana,United States,N,False,True,nominatim
+Paoli Peaks,2017-2018,38.5559,-86.5122,600,900,300,,,,32.0,2017,Indiana,United States,N,False,True,nominatim
+Paoli Peaks,2018-2019,38.5559,-86.5122,600,900,300,,,,33.0,2018,Indiana,United States,N,False,True,nominatim
+Paoli Peaks,2019-2020,38.5559,-86.5122,600,900,300,,,,24.0,2019,Indiana,United States,N,False,True,nominatim
+Paoli Peaks,2020-2021,38.5559,-86.5122,600,900,300,,,,7.0,2020,Indiana,United States,N,False,True,nominatim
+Paoli Peaks,2021-2022,38.5559,-86.5122,600,900,300,2022-01-13,2022-03-06,52,8.0,2021,Indiana,United States,N,True,True,nominatim
+Paoli Peaks,2022-2023,38.5559,-86.5122,600,900,300,2022-12-24,2023-02-22,60,7.0,2022,Indiana,United States,N,True,True,nominatim
+Paoli Peaks,2023-2024,38.5559,-86.5122,600,900,300,2024-01-17,2024-02-25,39,3.0,2023,Indiana,United States,N,True,True,nominatim
+Park City Mountain Resort,2012-2013,40.6541,-111.5624,6900,10026,3126,,,,257.0,2012,Utah,United States,N,False,True,nominatim
+Park City Mountain Resort,2013-2014,40.6541,-111.5624,6900,10026,3126,,,,242.0,2013,Utah,United States,N,False,True,nominatim
+Park City Mountain Resort,2014-2015,40.6541,-111.5624,6900,10026,3126,,,,154.0,2014,Utah,United States,N,False,True,nominatim
+Park City Mountain Resort,2015-2016,40.6541,-111.5624,6900,10026,3126,,,,288.0,2015,Utah,United States,N,False,True,nominatim
+Park City Mountain Resort,2016-2017,40.6541,-111.5624,6900,10026,3126,,,,404.0,2016,Utah,United States,N,False,True,nominatim
+Park City Mountain Resort,2017-2018,40.6541,-111.5624,6900,10026,3126,,,,167.0,2017,Utah,United States,N,False,True,nominatim
+Park City Mountain Resort,2018-2019,40.6541,-111.5624,6900,10026,3126,,,,328.0,2018,Utah,United States,N,False,True,nominatim
+Park City Mountain Resort,2019-2020,40.6541,-111.5624,6900,10026,3126,,,,200.0,2019,Utah,United States,N,False,True,nominatim
+Park City Mountain Resort,2020-2021,40.6541,-111.5624,6900,10026,3126,,,,186.0,2020,Utah,United States,N,False,True,nominatim
+Park City Mountain Resort,2021-2022,40.6541,-111.5624,6900,10026,3126,2021-11-17,2022-04-17,151,199.0,2021,Utah,United States,N,True,True,nominatim
+Park City Mountain Resort,2022-2023,40.6541,-111.5624,6900,10026,3126,2022-11-16,2023-05-01,166,612.0,2022,Utah,United States,N,True,True,nominatim
+Park City Mountain Resort,2023-2024,40.6541,-111.5624,6900,10026,3126,2023-11-16,2024-04-22,158,404.0,2023,Utah,United States,N,True,True,nominatim
+Park City Mountain Resort,2024-2025,40.6541,-111.5624,6900,10026,3126,,,,279.0,2024,Utah,United States,N,False,True,nominatim
+RED Mountain Resort,2012-2013,49.1056,-117.8463,3888,6798,2910,,,,139.0,2012,British Columbia,Canada,N,False,True,nominatim
+RED Mountain Resort,2013-2014,49.1056,-117.8463,3888,6798,2910,,,,114.0,2013,British Columbia,Canada,N,False,True,nominatim
+RED Mountain Resort,2014-2015,49.1056,-117.8463,3888,6798,2910,,,,154.0,2014,British Columbia,Canada,N,False,True,nominatim
+RED Mountain Resort,2015-2016,49.1056,-117.8463,3888,6798,2910,,,,244.0,2015,British Columbia,Canada,N,False,True,nominatim
+RED Mountain Resort,2016-2017,49.1056,-117.8463,3888,6798,2910,,,,132.0,2016,British Columbia,Canada,N,False,True,nominatim
+RED Mountain Resort,2017-2018,49.1056,-117.8463,3888,6798,2910,,,,331.0,2017,British Columbia,Canada,N,False,True,nominatim
+RED Mountain Resort,2018-2019,49.1056,-117.8463,3888,6798,2910,,,,137.0,2018,British Columbia,Canada,N,False,True,nominatim
+RED Mountain Resort,2019-2020,49.1056,-117.8463,3888,6798,2910,,,,117.0,2019,British Columbia,Canada,N,False,True,nominatim
+RED Mountain Resort,2020-2021,49.1056,-117.8463,3888,6798,2910,,,,123.0,2020,British Columbia,Canada,N,False,True,nominatim
+RED Mountain Resort,2021-2022,49.1056,-117.8463,3888,6798,2910,2021-12-23,2022-04-04,102,199.0,2021,British Columbia,Canada,N,True,True,nominatim
+RED Mountain Resort,2022-2023,49.1056,-117.8463,3888,6798,2910,2022-12-10,2023-04-02,113,206.0,2022,British Columbia,Canada,N,True,True,nominatim
+RED Mountain Resort,2023-2024,49.1056,-117.8463,3888,6798,2910,2023-12-28,2024-04-07,101,151.0,2023,British Columbia,Canada,N,True,True,nominatim
+RED Mountain Resort,2024-2025,49.1056,-117.8463,3888,6798,2910,,,,133.0,2024,British Columbia,Canada,N,False,True,nominatim
+Revelstoke Mountain Resort,2012-2013,50.9693,-118.1092,1680,7300,5620,,,,191.0,2012,British Columbia,Canada,N,False,True,nominatim
+Revelstoke Mountain Resort,2013-2014,50.9693,-118.1092,1680,7300,5620,,,,221.0,2013,British Columbia,Canada,N,False,True,nominatim
+Revelstoke Mountain Resort,2014-2015,50.9693,-118.1092,1680,7300,5620,,,,216.0,2014,British Columbia,Canada,N,False,True,nominatim
+Revelstoke Mountain Resort,2015-2016,50.9693,-118.1092,1680,7300,5620,,,,285.0,2015,British Columbia,Canada,N,False,True,nominatim
+Revelstoke Mountain Resort,2016-2017,50.9693,-118.1092,1680,7300,5620,,,,251.0,2016,British Columbia,Canada,N,False,True,nominatim
+Revelstoke Mountain Resort,2017-2018,50.9693,-118.1092,1680,7300,5620,,,,242.0,2017,British Columbia,Canada,N,False,True,nominatim
+Revelstoke Mountain Resort,2018-2019,50.9693,-118.1092,1680,7300,5620,,,,185.0,2018,British Columbia,Canada,N,False,True,nominatim
+Revelstoke Mountain Resort,2019-2020,50.9693,-118.1092,1680,7300,5620,,,,209.0,2019,British Columbia,Canada,N,False,True,nominatim
+Revelstoke Mountain Resort,2020-2021,50.9693,-118.1092,1680,7300,5620,,,,217.0,2020,British Columbia,Canada,N,False,True,nominatim
+Revelstoke Mountain Resort,2021-2022,50.9693,-118.1092,1680,7300,5620,2021-12-27,2022-04-19,113,329.0,2021,British Columbia,Canada,N,True,True,nominatim
+Revelstoke Mountain Resort,2022-2023,50.9693,-118.1092,1680,7300,5620,2022-12-03,2023-04-16,134,293.0,2022,British Columbia,Canada,N,True,True,nominatim
+Revelstoke Mountain Resort,2023-2024,50.9693,-118.1092,1680,7300,5620,2023-12-09,2024-04-14,127,315.0,2023,British Columbia,Canada,N,True,True,nominatim
+Revelstoke Mountain Resort,2024-2025,50.9693,-118.1092,1680,7300,5620,,,,294.0,2024,British Columbia,Canada,N,False,True,nominatim
+Roundtop Mountain Resort,2012-2013,40.1084,-76.9287,740,1340,600,,,,18.0,2012,Pennsylvania,United States,N,False,True,nominatim
+Roundtop Mountain Resort,2013-2014,40.1084,-76.9287,740,1340,600,,,,66.0,2013,Pennsylvania,United States,N,False,True,nominatim
+Roundtop Mountain Resort,2014-2015,40.1084,-76.9287,740,1340,600,,,,48.0,2014,Pennsylvania,United States,N,False,True,nominatim
+Roundtop Mountain Resort,2015-2016,40.1084,-76.9287,740,1340,600,,,,37.0,2015,Pennsylvania,United States,N,False,True,nominatim
+Roundtop Mountain Resort,2016-2017,40.1084,-76.9287,740,1340,600,,,,31.0,2016,Pennsylvania,United States,N,False,True,nominatim
+Roundtop Mountain Resort,2017-2018,40.1084,-76.9287,740,1340,600,,,,24.0,2017,Pennsylvania,United States,N,False,True,nominatim
+Roundtop Mountain Resort,2018-2019,40.1084,-76.9287,740,1340,600,,,,35.0,2018,Pennsylvania,United States,N,False,True,nominatim
+Roundtop Mountain Resort,2019-2020,40.1084,-76.9287,740,1340,600,,,,7.0,2019,Pennsylvania,United States,N,False,True,nominatim
+Roundtop Mountain Resort,2020-2021,40.1084,-76.9287,740,1340,600,,,,6.0,2020,Pennsylvania,United States,N,False,True,nominatim
+Roundtop Mountain Resort,2021-2022,40.1084,-76.9287,740,1340,600,2021-12-27,2022-03-20,83,15.0,2021,Pennsylvania,United States,N,True,True,nominatim
+Roundtop Mountain Resort,2022-2023,40.1084,-76.9287,740,1340,600,2022-12-24,2023-03-12,78,0.0,2022,Pennsylvania,United States,N,True,True,nominatim
+Roundtop Mountain Resort,2023-2024,40.1084,-76.9287,740,1340,600,2023-12-22,2024-03-10,79,24.0,2023,Pennsylvania,United States,N,True,True,nominatim
+Roundtop Mountain Resort,2024-2025,40.1084,-76.9287,740,1340,600,,,,20.0,2024,Pennsylvania,United States,N,False,True,nominatim
+Schweitzer Mountain Resort,2012-2013,48.3787,-116.6131,4000,6400,2400,,,,252.0,2012,Idaho,United States,N,False,True,nominatim
+Schweitzer Mountain Resort,2013-2014,48.3787,-116.6131,4000,6400,2400,,,,191.0,2013,Idaho,United States,N,False,True,nominatim
+Schweitzer Mountain Resort,2014-2015,48.3787,-116.6131,4000,6400,2400,,,,113.0,2014,Idaho,United States,N,False,True,nominatim
+Schweitzer Mountain Resort,2015-2016,48.3787,-116.6131,4000,6400,2400,,,,233.0,2015,Idaho,United States,N,False,True,nominatim
+Schweitzer Mountain Resort,2016-2017,48.3787,-116.6131,4000,6400,2400,,,,294.0,2016,Idaho,United States,N,False,True,nominatim
+Schweitzer Mountain Resort,2017-2018,48.3787,-116.6131,4000,6400,2400,,,,382.0,2017,Idaho,United States,N,False,True,nominatim
+Schweitzer Mountain Resort,2018-2019,48.3787,-116.6131,4000,6400,2400,,,,231.0,2018,Idaho,United States,N,False,True,nominatim
+Schweitzer Mountain Resort,2019-2020,48.3787,-116.6131,4000,6400,2400,,,,204.0,2019,Idaho,United States,N,False,True,nominatim
+Schweitzer Mountain Resort,2020-2021,48.3787,-116.6131,4000,6400,2400,,,,226.0,2020,Idaho,United States,N,False,True,nominatim
+Schweitzer Mountain Resort,2021-2022,48.3787,-116.6131,4000,6400,2400,2021-11-26,2022-04-10,135,237.0,2021,Idaho,United States,N,True,True,nominatim
+Schweitzer Mountain Resort,2022-2023,48.3787,-116.6131,4000,6400,2400,2022-12-09,2023-04-09,121,218.0,2022,Idaho,United States,N,True,True,nominatim
+Schweitzer Mountain Resort,2023-2024,48.3787,-116.6131,4000,6400,2400,2023-11-25,2024-04-13,140,219.0,2023,Idaho,United States,N,True,True,nominatim
+Schweitzer Mountain Resort,2024-2025,48.3787,-116.6131,4000,6400,2400,,,,237.0,2024,Idaho,United States,N,False,True,nominatim
+Seven Springs Mountain Resort,2012-2013,40.0235,-79.2982,2240,2994,754,,,,152.0,2012,Pennsylvania,United States,N,False,True,nominatim
+Seven Springs Mountain Resort,2013-2014,40.0235,-79.2982,2240,2994,754,,,,144.0,2013,Pennsylvania,United States,N,False,True,nominatim
+Seven Springs Mountain Resort,2014-2015,40.0235,-79.2982,2240,2994,754,,,,94.0,2014,Pennsylvania,United States,N,False,True,nominatim
+Seven Springs Mountain Resort,2015-2016,40.0235,-79.2982,2240,2994,754,,,,80.0,2015,Pennsylvania,United States,N,False,True,nominatim
+Seven Springs Mountain Resort,2016-2017,40.0235,-79.2982,2240,2994,754,,,,88.0,2016,Pennsylvania,United States,N,False,True,nominatim
+Seven Springs Mountain Resort,2017-2018,40.0235,-79.2982,2240,2994,754,,,,118.0,2017,Pennsylvania,United States,N,False,True,nominatim
+Seven Springs Mountain Resort,2018-2019,40.0235,-79.2982,2240,2994,754,,,,84.0,2018,Pennsylvania,United States,N,False,True,nominatim
+Seven Springs Mountain Resort,2019-2020,40.0235,-79.2982,2240,2994,754,,,,54.0,2019,Pennsylvania,United States,N,False,True,nominatim
+Seven Springs Mountain Resort,2020-2021,40.0235,-79.2982,2240,2994,754,,,,35.0,2020,Pennsylvania,United States,N,False,True,nominatim
+Seven Springs Mountain Resort,2021-2022,40.0235,-79.2982,2240,2994,754,2021-12-04,2022-03-27,113,76.0,2021,Pennsylvania,United States,N,True,True,nominatim
+Seven Springs Mountain Resort,2022-2023,40.0235,-79.2982,2240,2994,754,2022-11-25,2023-05-02,158,25.0,2022,Pennsylvania,United States,N,True,True,nominatim
+Seven Springs Mountain Resort,2023-2024,40.0235,-79.2982,2240,2994,754,2023-12-15,2024-03-17,93,86.0,2023,Pennsylvania,United States,N,True,True,nominatim
+Seven Springs Mountain Resort,2024-2025,40.0235,-79.2982,2240,2994,754,,,,80.0,2024,Pennsylvania,United States,N,False,True,nominatim
+Sierra-at-Tahoe Ski Resort,2012-2013,38.7961,-120.0769,6640,8852,2212,,,,342.0,2012,California,United States,N,False,True,nominatim
+Sierra-at-Tahoe Ski Resort,2013-2014,38.7961,-120.0769,6640,8852,2212,,,,211.0,2013,California,United States,N,False,True,nominatim
+Sierra-at-Tahoe Ski Resort,2014-2015,38.7961,-120.0769,6640,8852,2212,,,,88.0,2014,California,United States,N,False,True,nominatim
+Sierra-at-Tahoe Ski Resort,2015-2016,38.7961,-120.0769,6640,8852,2212,,,,401.0,2015,California,United States,N,False,True,nominatim
+Sierra-at-Tahoe Ski Resort,2016-2017,38.7961,-120.0769,6640,8852,2212,,,,591.0,2016,California,United States,N,False,True,nominatim
+Sierra-at-Tahoe Ski Resort,2017-2018,38.7961,-120.0769,6640,8852,2212,,,,241.0,2017,California,United States,N,False,True,nominatim
+Sierra-at-Tahoe Ski Resort,2018-2019,38.7961,-120.0769,6640,8852,2212,,,,502.0,2018,California,United States,N,False,True,nominatim
+Sierra-at-Tahoe Ski Resort,2019-2020,38.7961,-120.0769,6640,8852,2212,,,,144.0,2019,California,United States,N,False,True,nominatim
+Sierra-at-Tahoe Ski Resort,2020-2021,38.7961,-120.0769,6640,8852,2212,,,,196.0,2020,California,United States,N,False,True,nominatim
+Sierra-at-Tahoe Ski Resort,2021-2022,38.7961,-120.0769,6640,8852,2212,,,,,2021,California,United States,N,False,False,nominatim
+Sierra-at-Tahoe Ski Resort,2022-2023,38.7961,-120.0769,6640,8852,2212,2022-12-03,2023-04-23,141,691.0,2022,California,United States,N,True,True,nominatim
+Sierra-at-Tahoe Ski Resort,2023-2024,38.7961,-120.0769,6640,8852,2212,2023-12-09,2024-04-21,134,298.0,2023,California,United States,N,True,True,nominatim
+Sierra-at-Tahoe Ski Resort,2024-2025,38.7961,-120.0769,6640,8852,2212,,,,126.0,2024,California,United States,N,False,True,nominatim
+Snow Creek Ski Resort,2012-2013,39.4656,-94.9688,800,1099,299,,,,33.0,2012,Missouri,United States,N,False,True,nominatim
+Snow Creek Ski Resort,2013-2014,39.4656,-94.9688,800,1099,299,,,,33.0,2013,Missouri,United States,N,False,True,nominatim
+Snow Creek Ski Resort,2014-2015,39.4656,-94.9688,800,1099,299,,,,23.0,2014,Missouri,United States,N,False,True,nominatim
+Snow Creek Ski Resort,2015-2016,39.4656,-94.9688,800,1099,299,,,,1.0,2015,Missouri,United States,N,False,True,nominatim
+Snow Creek Ski Resort,2016-2017,39.4656,-94.9688,800,1099,299,,,,75.0,2016,Missouri,United States,N,False,True,nominatim
+Snow Creek Ski Resort,2017-2018,39.4656,-94.9688,800,1099,299,,,,7.0,2017,Missouri,United States,N,False,True,nominatim
+Snow Creek Ski Resort,2018-2019,39.4656,-94.9688,800,1099,299,,,,23.0,2018,Missouri,United States,N,False,True,nominatim
+Snow Creek Ski Resort,2019-2020,39.4656,-94.9688,800,1099,299,,,,18.0,2019,Missouri,United States,N,False,True,nominatim
+Snow Creek Ski Resort,2020-2021,39.4656,-94.9688,800,1099,299,,,,5.0,2020,Missouri,United States,N,False,True,nominatim
+Snow Creek Ski Resort,2021-2022,39.4656,-94.9688,800,1099,299,2022-01-07,2022-03-06,58,0.0,2021,Missouri,United States,N,True,True,nominatim
+Snow Creek Ski Resort,2022-2023,39.4656,-94.9688,800,1099,299,2022-12-25,2023-03-05,70,0.0,2022,Missouri,United States,N,True,True,nominatim
+Snow Creek Ski Resort,2023-2024,39.4656,-94.9688,800,1099,299,2024-01-14,2024-02-23,40,0.0,2023,Missouri,United States,N,True,True,nominatim
+Snow Valley Ski Resort,2012-2013,34.2131,-117.0363,6800,7841,1041,,,,96.0,2012,California,United States,N,False,True,nominatim
+Snow Valley Ski Resort,2013-2014,34.2131,-117.0363,6800,7841,1041,,,,20.0,2013,California,United States,N,False,True,nominatim
+Snow Valley Ski Resort,2014-2015,34.2131,-117.0363,6800,7841,1041,,,,29.0,2014,California,United States,N,False,True,nominatim
+Snow Valley Ski Resort,2015-2016,34.2131,-117.0363,6800,7841,1041,,,,87.0,2015,California,United States,N,False,True,nominatim
+Snow Valley Ski Resort,2016-2017,34.2131,-117.0363,6800,7841,1041,,,,96.0,2016,California,United States,N,False,True,nominatim
+Snow Valley Ski Resort,2017-2018,34.2131,-117.0363,6800,7841,1041,,,,43.0,2017,California,United States,N,False,True,nominatim
+Snow Valley Ski Resort,2018-2019,34.2131,-117.0363,6800,7841,1041,,,,95.0,2018,California,United States,N,False,True,nominatim
+Snow Valley Ski Resort,2019-2020,34.2131,-117.0363,6800,7841,1041,,,,111.0,2019,California,United States,N,False,True,nominatim
+Snow Valley Ski Resort,2020-2021,34.2131,-117.0363,6800,7841,1041,,,,98.0,2020,California,United States,N,False,True,nominatim
+Snow Valley Ski Resort,2021-2022,34.2131,-117.0363,6800,7841,1041,2021-12-16,2022-04-11,116,77.0,2021,California,United States,N,True,True,nominatim
+Snow Valley Ski Resort,2022-2023,34.2131,-117.0363,6800,7841,1041,2022-11-23,2023-04-16,144,219.0,2022,California,United States,N,True,True,nominatim
+Snow Valley Ski Resort,2023-2024,34.2131,-117.0363,6800,7841,1041,2023-12-09,2024-04-14,127,160.0,2023,California,United States,N,True,True,nominatim
+Snow Valley Ski Resort,2024-2025,34.2131,-117.0363,6800,7841,1041,,,,75.0,2024,California,United States,N,False,True,nominatim
+Snowbasin Resort,2012-2013,41.2004,-111.8653,6391,9350,2959,,,,197.0,2012,Utah,United States,N,False,True,nominatim
+Snowbasin Resort,2013-2014,41.2004,-111.8653,6391,9350,2959,,,,227.0,2013,Utah,United States,N,False,True,nominatim
+Snowbasin Resort,2014-2015,41.2004,-111.8653,6391,9350,2959,,,,117.0,2014,Utah,United States,N,False,True,nominatim
+Snowbasin Resort,2015-2016,41.2004,-111.8653,6391,9350,2959,,,,253.0,2015,Utah,United States,N,False,True,nominatim
+Snowbasin Resort,2016-2017,41.2004,-111.8653,6391,9350,2959,,,,421.0,2016,Utah,United States,N,False,True,nominatim
+Snowbasin Resort,2017-2018,41.2004,-111.8653,6391,9350,2959,,,,205.0,2017,Utah,United States,N,False,True,nominatim
+Snowbasin Resort,2018-2019,41.2004,-111.8653,6391,9350,2959,,,,432.0,2018,Utah,United States,N,False,True,nominatim
+Snowbasin Resort,2019-2020,41.2004,-111.8653,6391,9350,2959,,,,220.0,2019,Utah,United States,N,False,True,nominatim
+Snowbasin Resort,2020-2021,41.2004,-111.8653,6391,9350,2959,,,,295.0,2020,Utah,United States,N,False,True,nominatim
+Snowbasin Resort,2021-2022,41.2004,-111.8653,6391,9350,2959,2021-11-18,2022-04-10,143,215.0,2021,Utah,United States,N,True,True,nominatim
+Snowbasin Resort,2022-2023,41.2004,-111.8653,6391,9350,2959,2022-11-18,2023-04-23,156,600.0,2022,Utah,United States,N,True,True,nominatim
+Snowbasin Resort,2023-2024,41.2004,-111.8653,6391,9350,2959,2023-11-30,2024-04-28,150,313.0,2023,Utah,United States,N,True,True,nominatim
+Snowbasin Resort,2024-2025,41.2004,-111.8653,6391,9350,2959,,,,154.0,2024,Utah,United States,N,False,True,nominatim
+Snowbird Ski Resort,2012-2013,40.6331,-111.8038,7760,11000,3240,,,,393.0,2012,Utah,United States,N,False,True,nominatim
+Snowbird Ski Resort,2013-2014,40.6331,-111.8038,7760,11000,3240,,,,387.0,2013,Utah,United States,N,False,True,nominatim
+Snowbird Ski Resort,2014-2015,40.6331,-111.8038,7760,11000,3240,,,,327.0,2014,Utah,United States,N,False,True,nominatim
+Snowbird Ski Resort,2015-2016,40.6331,-111.8038,7760,11000,3240,,,,454.0,2015,Utah,United States,N,False,True,nominatim
+Snowbird Ski Resort,2016-2017,40.6331,-111.8038,7760,11000,3240,,,,589.0,2016,Utah,United States,N,False,True,nominatim
+Snowbird Ski Resort,2017-2018,40.6331,-111.8038,7760,11000,3240,,,,390.0,2017,Utah,United States,N,False,True,nominatim
+Snowbird Ski Resort,2018-2019,40.6331,-111.8038,7760,11000,3240,,,,690.0,2018,Utah,United States,N,False,True,nominatim
+Snowbird Ski Resort,2019-2020,40.6331,-111.8038,7760,11000,3240,,,,351.0,2019,Utah,United States,N,False,True,nominatim
+Snowbird Ski Resort,2020-2021,40.6331,-111.8038,7760,11000,3240,,,,350.0,2020,Utah,United States,N,False,True,nominatim
+Snowbird Ski Resort,2021-2022,40.6331,-111.8038,7760,11000,3240,2021-12-01,2022-05-01,151,295.0,2021,Utah,United States,N,True,True,nominatim
+Snowbird Ski Resort,2022-2023,40.6331,-111.8038,7760,11000,3240,2022-11-18,2023-05-29,192,629.0,2022,Utah,United States,N,True,True,nominatim
+Snowbird Ski Resort,2023-2024,40.6331,-111.8038,7760,11000,3240,2023-11-30,2024-05-27,179,490.0,2023,Utah,United States,N,True,True,nominatim
+Snowbird Ski Resort,2024-2025,40.6331,-111.8038,7760,11000,3240,,,,201.0,2024,Utah,United States,N,False,True,nominatim
+Snowshoe Mountain Ski Resort,2012-2013,38.4109,-79.9908,3348,4848,1500,,,,156.0,2012,West Virginia,United States,N,False,True,nominatim
+Snowshoe Mountain Ski Resort,2013-2014,38.4109,-79.9908,3348,4848,1500,,,,132.0,2013,West Virginia,United States,N,False,True,nominatim
+Snowshoe Mountain Ski Resort,2014-2015,38.4109,-79.9908,3348,4848,1500,,,,139.0,2014,West Virginia,United States,N,False,True,nominatim
+Snowshoe Mountain Ski Resort,2015-2016,38.4109,-79.9908,3348,4848,1500,,,,120.0,2015,West Virginia,United States,N,False,True,nominatim
+Snowshoe Mountain Ski Resort,2016-2017,38.4109,-79.9908,3348,4848,1500,,,,95.0,2016,West Virginia,United States,N,False,True,nominatim
+Snowshoe Mountain Ski Resort,2017-2018,38.4109,-79.9908,3348,4848,1500,,,,171.0,2017,West Virginia,United States,N,False,True,nominatim
+Snowshoe Mountain Ski Resort,2018-2019,38.4109,-79.9908,3348,4848,1500,,,,95.0,2018,West Virginia,United States,N,False,True,nominatim
+Snowshoe Mountain Ski Resort,2019-2020,38.4109,-79.9908,3348,4848,1500,,,,78.0,2019,West Virginia,United States,N,False,True,nominatim
+Snowshoe Mountain Ski Resort,2020-2021,38.4109,-79.9908,3348,4848,1500,,,,70.0,2020,West Virginia,United States,N,False,True,nominatim
+Snowshoe Mountain Ski Resort,2021-2022,38.4109,-79.9908,3348,4848,1500,2021-11-25,2022-03-27,122,82.0,2021,West Virginia,United States,N,True,True,nominatim
+Snowshoe Mountain Ski Resort,2022-2023,38.4109,-79.9908,3348,4848,1500,2022-11-23,2023-04-02,130,55.0,2022,West Virginia,United States,N,True,True,nominatim
+Snowshoe Mountain Ski Resort,2023-2024,38.4109,-79.9908,3348,4848,1500,2023-12-02,2024-03-31,120,86.0,2023,West Virginia,United States,N,True,True,nominatim
+Snowshoe Mountain Ski Resort,2024-2025,38.4109,-79.9908,3348,4848,1500,,,,165.0,2024,West Virginia,United States,N,False,True,nominatim
+Solitude Mountain Resort,2012-2013,40.6231,-111.5976,7900,10488,2588,,,,249.0,2012,Utah,United States,N,False,True,nominatim
+Solitude Mountain Resort,2013-2014,40.6231,-111.5976,7900,10488,2588,,,,500.0,2013,Utah,United States,N,False,True,nominatim
+Solitude Mountain Resort,2014-2015,40.6231,-111.5976,7900,10488,2588,,,,202.0,2014,Utah,United States,N,False,True,nominatim
+Solitude Mountain Resort,2015-2016,40.6231,-111.5976,7900,10488,2588,,,,310.0,2015,Utah,United States,N,False,True,nominatim
+Solitude Mountain Resort,2016-2017,40.6231,-111.5976,7900,10488,2588,,,,438.0,2016,Utah,United States,N,False,True,nominatim
+Solitude Mountain Resort,2017-2018,40.6231,-111.5976,7900,10488,2588,,,,260.0,2017,Utah,United States,N,False,True,nominatim
+Solitude Mountain Resort,2018-2019,40.6231,-111.5976,7900,10488,2588,,,,437.0,2018,Utah,United States,N,False,True,nominatim
+Solitude Mountain Resort,2019-2020,40.6231,-111.5976,7900,10488,2588,,,,313.0,2019,Utah,United States,N,False,True,nominatim
+Solitude Mountain Resort,2020-2021,40.6231,-111.5976,7900,10488,2588,,,,278.0,2020,Utah,United States,N,False,True,nominatim
+Solitude Mountain Resort,2021-2022,40.6231,-111.5976,7900,10488,2588,2021-11-23,2022-04-25,153,313.0,2021,Utah,United States,N,True,True,nominatim
+Solitude Mountain Resort,2022-2023,40.6231,-111.5976,7900,10488,2588,2022-10-11,2023-05-21,222,768.0,2022,Utah,United States,N,True,True,nominatim
+Solitude Mountain Resort,2023-2024,40.6231,-111.5976,7900,10488,2588,2023-10-11,2024-05-12,214,565.0,2023,Utah,United States,N,True,True,nominatim
+Solitude Mountain Resort,2024-2025,40.6231,-111.5976,7900,10488,2588,,,,392.0,2024,Utah,United States,N,False,True,nominatim
+St. Moritz Ski Resort,2012-2013,46.4979,9.8392,5740,9753,4013,,,,163.8,2012,Grisons,Switzerland,N,False,True,nominatim
+St. Moritz Ski Resort,2013-2014,46.4979,9.8392,5740,9753,4013,,,,176.0,2013,Grisons,Switzerland,N,False,True,nominatim
+St. Moritz Ski Resort,2014-2015,46.4979,9.8392,5740,9753,4013,,,,73.2,2014,Grisons,Switzerland,N,False,True,nominatim
+St. Moritz Ski Resort,2015-2016,46.4979,9.8392,5740,9753,4013,,,,83.5,2015,Grisons,Switzerland,N,False,True,nominatim
+St. Moritz Ski Resort,2016-2017,46.4979,9.8392,5740,9753,4013,,,,48.0,2016,Grisons,Switzerland,N,False,True,nominatim
+St. Moritz Ski Resort,2017-2018,46.4979,9.8392,5740,9753,4013,,,,178.3,2017,Grisons,Switzerland,N,False,True,nominatim
+St. Moritz Ski Resort,2018-2019,46.4979,9.8392,5740,9753,4013,,,,166.9,2018,Grisons,Switzerland,N,False,True,nominatim
+St. Moritz Ski Resort,2019-2020,46.4979,9.8392,5740,9753,4013,,,,126.0,2019,Grisons,Switzerland,N,False,True,nominatim
+St. Moritz Ski Resort,2020-2021,46.4979,9.8392,5740,9753,4013,,,,157.9,2020,Grisons,Switzerland,N,False,True,nominatim
+St. Moritz Ski Resort,2021-2022,46.4979,9.8392,5740,9753,4013,2021-11-27,2022-04-03,127,86.6,2021,Grisons,Switzerland,N,True,True,nominatim
+St. Moritz Ski Resort,2022-2023,46.4979,9.8392,5740,9753,4013,2022-11-26,2023-04-23,148,75.6,2022,Grisons,Switzerland,N,True,True,nominatim
+St. Moritz Ski Resort,2023-2024,46.4979,9.8392,5740,9753,4013,2023-11-26,2024-05-08,164,128.7,2023,Grisons,Switzerland,N,True,True,nominatim
+St. Moritz Ski Resort,2024-2025,46.4979,9.8392,5740,9753,4013,,,,16.1,2024,Grisons,Switzerland,N,False,True,nominatim
+Steamboat Ski Resort,2012-2013,40.4561,-106.7663,6900,10568,3668,,,,380.0,2012,Colorado,United States,N,False,True,nominatim
+Steamboat Ski Resort,2013-2014,40.4561,-106.7663,6900,10568,3668,,,,263.0,2013,Colorado,United States,N,False,True,nominatim
+Steamboat Ski Resort,2014-2015,40.4561,-106.7663,6900,10568,3668,,,,174.0,2014,Colorado,United States,N,False,True,nominatim
+Steamboat Ski Resort,2015-2016,40.4561,-106.7663,6900,10568,3668,,,,331.0,2015,Colorado,United States,N,False,True,nominatim
+Steamboat Ski Resort,2016-2017,40.4561,-106.7663,6900,10568,3668,,,,291.0,2016,Colorado,United States,N,False,True,nominatim
+Steamboat Ski Resort,2017-2018,40.4561,-106.7663,6900,10568,3668,,,,238.0,2017,Colorado,United States,N,False,True,nominatim
+Steamboat Ski Resort,2018-2019,40.4561,-106.7663,6900,10568,3668,,,,320.0,2018,Colorado,United States,N,False,True,nominatim
+Steamboat Ski Resort,2019-2020,40.4561,-106.7663,6900,10568,3668,,,,268.0,2019,Colorado,United States,N,False,True,nominatim
+Steamboat Ski Resort,2020-2021,40.4561,-106.7663,6900,10568,3668,,,,219.0,2020,Colorado,United States,N,False,True,nominatim
+Steamboat Ski Resort,2021-2022,40.4561,-106.7663,6900,10568,3668,2021-11-27,2022-04-10,134,229.0,2021,Colorado,United States,N,True,True,nominatim
+Steamboat Ski Resort,2022-2023,40.4561,-106.7663,6900,10568,3668,2022-11-23,2023-04-16,144,428.0,2022,Colorado,United States,N,True,True,nominatim
+Steamboat Ski Resort,2023-2024,40.4561,-106.7663,6900,10568,3668,2023-11-22,2024-04-21,151,369.0,2023,Colorado,United States,N,True,True,nominatim
+Steamboat Ski Resort,2024-2025,40.4561,-106.7663,6900,10568,3668,,,,285.0,2024,Colorado,United States,N,False,True,nominatim
+Stevens Pass Ski Resort,2012-2013,47.7456,-121.0892,4061,5845,1784,,,,436.0,2012,Washington,United States,N,False,True,nominatim
+Stevens Pass Ski Resort,2013-2014,47.7456,-121.0892,4061,5845,1784,,,,373.0,2013,Washington,United States,N,False,True,nominatim
+Stevens Pass Ski Resort,2014-2015,47.7456,-121.0892,4061,5845,1784,,,,126.0,2014,Washington,United States,N,False,True,nominatim
+Stevens Pass Ski Resort,2015-2016,47.7456,-121.0892,4061,5845,1784,,,,393.0,2015,Washington,United States,N,False,True,nominatim
+Stevens Pass Ski Resort,2016-2017,47.7456,-121.0892,4061,5845,1784,,,,350.0,2016,Washington,United States,N,False,True,nominatim
+Stevens Pass Ski Resort,2017-2018,47.7456,-121.0892,4061,5845,1784,,,,282.0,2017,Washington,United States,N,False,True,nominatim
+Stevens Pass Ski Resort,2018-2019,47.7456,-121.0892,4061,5845,1784,,,,267.0,2018,Washington,United States,N,False,True,nominatim
+Stevens Pass Ski Resort,2019-2020,47.7456,-121.0892,4061,5845,1784,,,,422.0,2019,Washington,United States,N,False,True,nominatim
+Stevens Pass Ski Resort,2020-2021,47.7456,-121.0892,4061,5845,1784,,,,414.0,2020,Washington,United States,N,False,True,nominatim
+Stevens Pass Ski Resort,2021-2022,47.7456,-121.0892,4061,5845,1784,2021-12-16,2022-05-01,136,397.0,2021,Washington,United States,N,True,True,nominatim
+Stevens Pass Ski Resort,2022-2023,47.7456,-121.0892,4061,5845,1784,2022-12-02,2023-04-16,135,315.0,2022,Washington,United States,N,True,True,nominatim
+Stevens Pass Ski Resort,2023-2024,47.7456,-121.0892,4061,5845,1784,2023-12-16,2024-04-14,120,282.0,2023,Washington,United States,N,True,True,nominatim
+Stevens Pass Ski Resort,2024-2025,47.7456,-121.0892,4061,5845,1784,,,,325.0,2024,Washington,United States,N,False,True,nominatim
+Stoneham Ski Resort,2012-2013,46.9996,-71.3695,814,1946,1132,,,,134.0,2012,Quebec,Canada,N,False,True,nominatim
+Stoneham Ski Resort,2013-2014,46.9996,-71.3695,814,1946,1132,,,,125.0,2013,Quebec,Canada,N,False,True,nominatim
+Stoneham Ski Resort,2014-2015,46.9996,-71.3695,814,1946,1132,,,,151.0,2014,Quebec,Canada,N,False,True,nominatim
+Stoneham Ski Resort,2015-2016,46.9996,-71.3695,814,1946,1132,,,,147.0,2015,Quebec,Canada,N,False,True,nominatim
+Stoneham Ski Resort,2016-2017,46.9996,-71.3695,814,1946,1132,,,,177.0,2016,Quebec,Canada,N,False,True,nominatim
+Stoneham Ski Resort,2017-2018,46.9996,-71.3695,814,1946,1132,,,,148.0,2017,Quebec,Canada,N,False,True,nominatim
+Stoneham Ski Resort,2018-2019,46.9996,-71.3695,814,1946,1132,,,,166.0,2018,Quebec,Canada,N,False,True,nominatim
+Stoneham Ski Resort,2019-2020,46.9996,-71.3695,814,1946,1132,,,,115.0,2019,Quebec,Canada,N,False,True,nominatim
+Stoneham Ski Resort,2020-2021,46.9996,-71.3695,814,1946,1132,,,,87.0,2020,Quebec,Canada,N,False,True,nominatim
+Stoneham Ski Resort,2021-2022,46.9996,-71.3695,814,1946,1132,2021-12-03,2022-04-11,129,139.0,2021,Quebec,Canada,N,True,True,nominatim
+Stoneham Ski Resort,2022-2023,46.9996,-71.3695,814,1946,1132,2022-11-26,2023-04-10,135,132.0,2022,Quebec,Canada,N,True,True,nominatim
+Stoneham Ski Resort,2023-2024,46.9996,-71.3695,814,1946,1132,2023-12-01,2024-04-12,133,96.0,2023,Quebec,Canada,N,True,True,nominatim
+Stoneham Ski Resort,2024-2025,46.9996,-71.3695,814,1946,1132,,,,100.0,2024,Quebec,Canada,N,False,True,nominatim
+Stowe Mountain Resort,2012-2013,44.5298,-72.7937,1559,3719,2160,,,,218.0,2012,Vermont,United States,N,False,True,nominatim
+Stowe Mountain Resort,2013-2014,44.5298,-72.7937,1559,3719,2160,,,,231.0,2013,Vermont,United States,N,False,True,nominatim
+Stowe Mountain Resort,2014-2015,44.5298,-72.7937,1559,3719,2160,,,,249.0,2014,Vermont,United States,N,False,True,nominatim
+Stowe Mountain Resort,2015-2016,44.5298,-72.7937,1559,3719,2160,,,,146.0,2015,Vermont,United States,N,False,True,nominatim
+Stowe Mountain Resort,2016-2017,44.5298,-72.7937,1559,3719,2160,,,,330.0,2016,Vermont,United States,N,False,True,nominatim
+Stowe Mountain Resort,2017-2018,44.5298,-72.7937,1559,3719,2160,,,,258.0,2017,Vermont,United States,N,False,True,nominatim
+Stowe Mountain Resort,2018-2019,44.5298,-72.7937,1559,3719,2160,,,,242.0,2018,Vermont,United States,N,False,True,nominatim
+Stowe Mountain Resort,2019-2020,44.5298,-72.7937,1559,3719,2160,,,,182.0,2019,Vermont,United States,N,False,True,nominatim
+Stowe Mountain Resort,2020-2021,44.5298,-72.7937,1559,3719,2160,,,,184.0,2020,Vermont,United States,N,False,True,nominatim
+Stowe Mountain Resort,2021-2022,44.5298,-72.7937,1559,3719,2160,2021-11-27,2022-04-17,141,194.0,2021,Vermont,United States,N,True,True,nominatim
+Stowe Mountain Resort,2022-2023,44.5298,-72.7937,1559,3719,2160,2022-11-19,2023-04-16,148,204.0,2022,Vermont,United States,N,True,True,nominatim
+Stowe Mountain Resort,2023-2024,44.5298,-72.7937,1559,3719,2160,2023-11-17,2024-04-21,156,246.0,2023,Vermont,United States,N,True,True,nominatim
+Stowe Mountain Resort,2024-2025,44.5298,-72.7937,1559,3719,2160,,,,254.0,2024,Vermont,United States,N,False,True,nominatim
+Stratton Mountain Resort,2012-2013,43.1027,-72.9048,1872,3875,2003,,,,144.0,2012,Vermont,United States,N,False,True,nominatim
+Stratton Mountain Resort,2013-2014,43.1027,-72.9048,1872,3875,2003,,,,192.0,2013,Vermont,United States,N,False,True,nominatim
+Stratton Mountain Resort,2014-2015,43.1027,-72.9048,1872,3875,2003,,,,159.0,2014,Vermont,United States,N,False,True,nominatim
+Stratton Mountain Resort,2015-2016,43.1027,-72.9048,1872,3875,2003,,,,80.0,2015,Vermont,United States,N,False,True,nominatim
+Stratton Mountain Resort,2016-2017,43.1027,-72.9048,1872,3875,2003,,,,138.0,2016,Vermont,United States,N,False,True,nominatim
+Stratton Mountain Resort,2017-2018,43.1027,-72.9048,1872,3875,2003,,,,164.0,2017,Vermont,United States,N,False,True,nominatim
+Stratton Mountain Resort,2018-2019,43.1027,-72.9048,1872,3875,2003,,,,111.0,2018,Vermont,United States,N,False,True,nominatim
+Stratton Mountain Resort,2019-2020,43.1027,-72.9048,1872,3875,2003,,,,88.0,2019,Vermont,United States,N,False,True,nominatim
+Stratton Mountain Resort,2020-2021,43.1027,-72.9048,1872,3875,2003,,,,113.0,2020,Vermont,United States,N,False,True,nominatim
+Stratton Mountain Resort,2021-2022,43.1027,-72.9048,1872,3875,2003,2021-11-24,2022-04-17,144,21.0,2021,Vermont,United States,N,True,True,nominatim
+Stratton Mountain Resort,2022-2023,43.1027,-72.9048,1872,3875,2003,2022-11-25,2023-04-16,142,96.0,2022,Vermont,United States,N,True,True,nominatim
+Stratton Mountain Resort,2023-2024,43.1027,-72.9048,1872,3875,2003,2023-11-23,2024-04-14,143,180.0,2023,Vermont,United States,N,True,True,nominatim
+Stratton Mountain Resort,2024-2025,43.1027,-72.9048,1872,3875,2003,,,,83.0,2024,Vermont,United States,N,False,True,nominatim
+Sugarbush Resort,2012-2013,44.1515,-72.9085,1483,4083,2600,,,,326.0,2012,Vermont,United States,N,False,True,nominatim
+Sugarbush Resort,2013-2014,44.1515,-72.9085,1483,4083,2600,,,,240.0,2013,Vermont,United States,N,False,True,nominatim
+Sugarbush Resort,2014-2015,44.1515,-72.9085,1483,4083,2600,,,,257.0,2014,Vermont,United States,N,False,True,nominatim
+Sugarbush Resort,2015-2016,44.1515,-72.9085,1483,4083,2600,,,,154.0,2015,Vermont,United States,N,False,True,nominatim
+Sugarbush Resort,2016-2017,44.1515,-72.9085,1483,4083,2600,,,,412.0,2016,Vermont,United States,N,False,True,nominatim
+Sugarbush Resort,2017-2018,44.1515,-72.9085,1483,4083,2600,,,,186.0,2017,Vermont,United States,N,False,True,nominatim
+Sugarbush Resort,2018-2019,44.1515,-72.9085,1483,4083,2600,,,,173.0,2018,Vermont,United States,N,False,True,nominatim
+Sugarbush Resort,2019-2020,44.1515,-72.9085,1483,4083,2600,,,,102.0,2019,Vermont,United States,N,False,True,nominatim
+Sugarbush Resort,2020-2021,44.1515,-72.9085,1483,4083,2600,,,,133.0,2020,Vermont,United States,N,False,True,nominatim
+Sugarbush Resort,2021-2022,44.1515,-72.9085,1483,4083,2600,2021-11-25,2022-05-01,157,188.0,2021,Vermont,United States,N,True,True,nominatim
+Sugarbush Resort,2022-2023,44.1515,-72.9085,1483,4083,2600,2022-11-19,2023-05-07,169,126.0,2022,Vermont,United States,N,True,True,nominatim
+Sugarbush Resort,2023-2024,44.1515,-72.9085,1483,4083,2600,2023-11-17,2024-05-05,170,250.0,2023,Vermont,United States,N,True,True,nominatim
+Sugarbush Resort,2024-2025,44.1515,-72.9085,1483,4083,2600,,,,217.0,2024,Vermont,United States,N,False,True,nominatim
+Sugarloaf Ski Resort,2012-2013,45.0495,-70.315,1417,4237,2820,,,,135.0,2012,Maine,United States,N,False,True,nominatim
+Sugarloaf Ski Resort,2013-2014,45.0495,-70.315,1417,4237,2820,,,,131.0,2013,Maine,United States,N,False,True,nominatim
+Sugarloaf Ski Resort,2014-2015,45.0495,-70.315,1417,4237,2820,,,,149.0,2014,Maine,United States,N,False,True,nominatim
+Sugarloaf Ski Resort,2015-2016,45.0495,-70.315,1417,4237,2820,,,,86.0,2015,Maine,United States,N,False,True,nominatim
+Sugarloaf Ski Resort,2016-2017,45.0495,-70.315,1417,4237,2820,,,,220.0,2016,Maine,United States,N,False,True,nominatim
+Sugarloaf Ski Resort,2017-2018,45.0495,-70.315,1417,4237,2820,,,,165.0,2017,Maine,United States,N,False,True,nominatim
+Sugarloaf Ski Resort,2018-2019,45.0495,-70.315,1417,4237,2820,,,,215.0,2018,Maine,United States,N,False,True,nominatim
+Sugarloaf Ski Resort,2019-2020,45.0495,-70.315,1417,4237,2820,,,,99.0,2019,Maine,United States,N,False,True,nominatim
+Sugarloaf Ski Resort,2020-2021,45.0495,-70.315,1417,4237,2820,,,,108.0,2020,Maine,United States,N,False,True,nominatim
+Sugarloaf Ski Resort,2021-2022,45.0495,-70.315,1417,4237,2820,2021-11-23,2022-05-02,160,116.0,2021,Maine,United States,N,True,True,nominatim
+Sugarloaf Ski Resort,2022-2023,45.0495,-70.315,1417,4237,2820,2022-11-18,2023-04-30,163,158.0,2022,Maine,United States,N,True,True,nominatim
+Sugarloaf Ski Resort,2023-2024,45.0495,-70.315,1417,4237,2820,2023-11-17,2024-05-04,169,142.0,2023,Maine,United States,N,True,True,nominatim
+Sugarloaf Ski Resort,2024-2025,45.0495,-70.315,1417,4237,2820,,,,117.0,2024,Maine,United States,N,False,True,nominatim
+Sun Peaks Resort,2012-2013,50.8781,-119.8798,3930,7060,3130,,,,163.0,2012,British Columbia,Canada,N,False,True,nominatim
+Sun Peaks Resort,2013-2014,50.8781,-119.8798,3930,7060,3130,,,,172.0,2013,British Columbia,Canada,N,False,True,nominatim
+Sun Peaks Resort,2014-2015,50.8781,-119.8798,3930,7060,3130,,,,152.0,2014,British Columbia,Canada,N,False,True,nominatim
+Sun Peaks Resort,2015-2016,50.8781,-119.8798,3930,7060,3130,,,,216.0,2015,British Columbia,Canada,N,False,True,nominatim
+Sun Peaks Resort,2016-2017,50.8781,-119.8798,3930,7060,3130,,,,367.0,2016,British Columbia,Canada,N,False,True,nominatim
+Sun Peaks Resort,2017-2018,50.8781,-119.8798,3930,7060,3130,,,,184.0,2017,British Columbia,Canada,N,False,True,nominatim
+Sun Peaks Resort,2018-2019,50.8781,-119.8798,3930,7060,3130,,,,109.0,2018,British Columbia,Canada,N,False,True,nominatim
+Sun Peaks Resort,2019-2020,50.8781,-119.8798,3930,7060,3130,,,,163.0,2019,British Columbia,Canada,N,False,True,nominatim
+Sun Peaks Resort,2020-2021,50.8781,-119.8798,3930,7060,3130,,,,70.0,2020,British Columbia,Canada,N,False,True,nominatim
+Sun Peaks Resort,2021-2022,50.8781,-119.8798,3930,7060,3130,2021-11-20,2022-04-10,141,89.0,2021,British Columbia,Canada,N,True,True,nominatim
+Sun Peaks Resort,2022-2023,50.8781,-119.8798,3930,7060,3130,2022-11-19,2023-04-10,142,109.0,2022,British Columbia,Canada,N,True,True,nominatim
+Sun Peaks Resort,2023-2024,50.8781,-119.8798,3930,7060,3130,2023-11-18,2024-04-07,141,113.0,2023,British Columbia,Canada,N,True,True,nominatim
+Sun Peaks Resort,2024-2025,50.8781,-119.8798,3930,7060,3130,,,,109.0,2024,British Columbia,Canada,N,False,True,nominatim
+Sun Valley Resort,2012-2013,43.6962,-114.3531,5750,9150,3400,,,,165.0,2012,Idaho,United States,N,False,True,nominatim
+Sun Valley Resort,2013-2014,43.6962,-114.3531,5750,9150,3400,,,,161.0,2013,Idaho,United States,N,False,True,nominatim
+Sun Valley Resort,2014-2015,43.6962,-114.3531,5750,9150,3400,,,,143.0,2014,Idaho,United States,N,False,True,nominatim
+Sun Valley Resort,2015-2016,43.6962,-114.3531,5750,9150,3400,,,,243.0,2015,Idaho,United States,N,False,True,nominatim
+Sun Valley Resort,2016-2017,43.6962,-114.3531,5750,9150,3400,,,,359.0,2016,Idaho,United States,N,False,True,nominatim
+Sun Valley Resort,2017-2018,43.6962,-114.3531,5750,9150,3400,,,,120.0,2017,Idaho,United States,N,False,True,nominatim
+Sun Valley Resort,2018-2019,43.6962,-114.3531,5750,9150,3400,,,,193.0,2018,Idaho,United States,N,False,True,nominatim
+Sun Valley Resort,2019-2020,43.6962,-114.3531,5750,9150,3400,,,,68.0,2019,Idaho,United States,N,False,True,nominatim
+Sun Valley Resort,2020-2021,43.6962,-114.3531,5750,9150,3400,,,,125.0,2020,Idaho,United States,N,False,True,nominatim
+Sun Valley Resort,2021-2022,43.6962,-114.3531,5750,9150,3400,2021-11-25,2022-04-17,143,125.0,2021,Idaho,United States,N,True,True,nominatim
+Sun Valley Resort,2022-2023,43.6962,-114.3531,5750,9150,3400,2022-11-24,2023-04-16,143,262.0,2022,Idaho,United States,N,True,True,nominatim
+Sun Valley Resort,2023-2024,43.6962,-114.3531,5750,9150,3400,2023-11-23,2024-04-21,150,134.0,2023,Idaho,United States,N,True,True,nominatim
+Sun Valley Resort,2024-2025,43.6962,-114.3531,5750,9150,3400,,,,134.0,2024,Idaho,United States,N,False,True,nominatim
+Sunday River Ski Resort,2012-2013,44.4718,-70.8673,800,3140,2340,,,,108.0,2012,Maine,United States,N,False,True,nominatim
+Sunday River Ski Resort,2013-2014,44.4718,-70.8673,800,3140,2340,,,,111.0,2013,Maine,United States,N,False,True,nominatim
+Sunday River Ski Resort,2014-2015,44.4718,-70.8673,800,3140,2340,,,,153.0,2014,Maine,United States,N,False,True,nominatim
+Sunday River Ski Resort,2015-2016,44.4718,-70.8673,800,3140,2340,,,,57.0,2015,Maine,United States,N,False,True,nominatim
+Sunday River Ski Resort,2016-2017,44.4718,-70.8673,800,3140,2340,,,,196.0,2016,Maine,United States,N,False,True,nominatim
+Sunday River Ski Resort,2017-2018,44.4718,-70.8673,800,3140,2340,,,,125.0,2017,Maine,United States,N,False,True,nominatim
+Sunday River Ski Resort,2018-2019,44.4718,-70.8673,800,3140,2340,,,,154.0,2018,Maine,United States,N,False,True,nominatim
+Sunday River Ski Resort,2019-2020,44.4718,-70.8673,800,3140,2340,,,,102.0,2019,Maine,United States,N,False,True,nominatim
+Sunday River Ski Resort,2020-2021,44.4718,-70.8673,800,3140,2340,,,,80.0,2020,Maine,United States,N,False,True,nominatim
+Sunday River Ski Resort,2021-2022,44.4718,-70.8673,800,3140,2340,2021-11-19,2022-04-24,156,99.0,2021,Maine,United States,N,True,True,nominatim
+Sunday River Ski Resort,2022-2023,44.4718,-70.8673,800,3140,2340,2022-11-17,2023-04-16,150,117.0,2022,Maine,United States,N,True,True,nominatim
+Sunday River Ski Resort,2023-2024,44.4718,-70.8673,800,3140,2340,2023-11-14,2024-04-23,161,136.0,2023,Maine,United States,N,True,True,nominatim
+Sunday River Ski Resort,2024-2025,44.4718,-70.8673,800,3140,2340,,,,93.0,2024,Maine,United States,N,False,True,nominatim
+Taos Ski Valley,2012-2013,36.596,-105.4545,9200,12481,3281,,,,204.0,2012,New Mexico,United States,N,False,True,nominatim
+Taos Ski Valley,2013-2014,36.596,-105.4545,9200,12481,3281,,,,191.0,2013,New Mexico,United States,N,False,True,nominatim
+Taos Ski Valley,2014-2015,36.596,-105.4545,9200,12481,3281,,,,179.0,2014,New Mexico,United States,N,False,True,nominatim
+Taos Ski Valley,2015-2016,36.596,-105.4545,9200,12481,3281,,,,169.0,2015,New Mexico,United States,N,False,True,nominatim
+Taos Ski Valley,2016-2017,36.596,-105.4545,9200,12481,3281,,,,192.0,2016,New Mexico,United States,N,False,True,nominatim
+Taos Ski Valley,2017-2018,36.596,-105.4545,9200,12481,3281,,,,78.0,2017,New Mexico,United States,N,False,True,nominatim
+Taos Ski Valley,2018-2019,36.596,-105.4545,9200,12481,3281,,,,219.0,2018,New Mexico,United States,N,False,True,nominatim
+Taos Ski Valley,2019-2020,36.596,-105.4545,9200,12481,3281,,,,166.0,2019,New Mexico,United States,N,False,True,nominatim
+Taos Ski Valley,2020-2021,36.596,-105.4545,9200,12481,3281,,,,165.0,2020,New Mexico,United States,N,False,True,nominatim
+Taos Ski Valley,2021-2022,36.596,-105.4545,9200,12481,3281,2021-11-25,2022-04-11,137,197.0,2021,New Mexico,United States,N,True,True,nominatim
+Taos Ski Valley,2022-2023,36.596,-105.4545,9200,12481,3281,2022-11-24,2023-04-09,136,222.0,2022,New Mexico,United States,N,True,True,nominatim
+Taos Ski Valley,2023-2024,36.596,-105.4545,9200,12481,3281,2023-11-23,2024-04-07,136,229.0,2023,New Mexico,United States,N,True,True,nominatim
+Taos Ski Valley,2024-2025,36.596,-105.4545,9200,12481,3281,,,,91.0,2024,New Mexico,United States,N,False,True,nominatim
+Telluride Ski Resort,2012-2013,37.9362,-107.8451,8725,13150,4425,,,,196.0,2012,Colorado,United States,N,False,True,nominatim
+Telluride Ski Resort,2013-2014,37.9362,-107.8451,8725,13150,4425,,,,179.0,2013,Colorado,United States,N,False,True,nominatim
+Telluride Ski Resort,2014-2015,37.9362,-107.8451,8725,13150,4425,,,,204.0,2014,Colorado,United States,N,False,True,nominatim
+Telluride Ski Resort,2015-2016,37.9362,-107.8451,8725,13150,4425,,,,241.0,2015,Colorado,United States,N,False,True,nominatim
+Telluride Ski Resort,2016-2017,37.9362,-107.8451,8725,13150,4425,,,,294.0,2016,Colorado,United States,N,False,True,nominatim
+Telluride Ski Resort,2017-2018,37.9362,-107.8451,8725,13150,4425,,,,159.0,2017,Colorado,United States,N,False,True,nominatim
+Telluride Ski Resort,2018-2019,37.9362,-107.8451,8725,13150,4425,,,,323.0,2018,Colorado,United States,N,False,True,nominatim
+Telluride Ski Resort,2019-2020,37.9362,-107.8451,8725,13150,4425,,,,205.0,2019,Colorado,United States,N,False,True,nominatim
+Telluride Ski Resort,2020-2021,37.9362,-107.8451,8725,13150,4425,,,,206.0,2020,Colorado,United States,N,False,True,nominatim
+Telluride Ski Resort,2021-2022,37.9362,-107.8451,8725,13150,4425,2021-12-03,2022-04-03,121,195.0,2021,Colorado,United States,N,True,True,nominatim
+Telluride Ski Resort,2022-2023,37.9362,-107.8451,8725,13150,4425,2022-11-26,2023-04-02,127,184.0,2022,Colorado,United States,N,True,True,nominatim
+Telluride Ski Resort,2023-2024,37.9362,-107.8451,8725,13150,4425,2023-12-02,2024-04-07,127,237.0,2023,Colorado,United States,N,True,True,nominatim
+Telluride Ski Resort,2024-2025,37.9362,-107.8451,8725,13150,4425,,,,148.0,2024,Colorado,United States,N,False,True,nominatim
+The Highlands Ski Resort,2012-2013,42.9912,-85.7325,773,1325,552,,,,128.0,2012,Michigan,United States,N,False,True,nominatim
+The Highlands Ski Resort,2013-2014,42.9912,-85.7325,773,1325,552,,,,238.0,2013,Michigan,United States,N,False,True,nominatim
+The Highlands Ski Resort,2014-2015,42.9912,-85.7325,773,1325,552,,,,98.0,2014,Michigan,United States,N,False,True,nominatim
+The Highlands Ski Resort,2015-2016,42.9912,-85.7325,773,1325,552,,,,108.0,2015,Michigan,United States,N,False,True,nominatim
+The Highlands Ski Resort,2016-2017,42.9912,-85.7325,773,1325,552,,,,106.0,2016,Michigan,United States,N,False,True,nominatim
+The Highlands Ski Resort,2017-2018,42.9912,-85.7325,773,1325,552,,,,111.0,2017,Michigan,United States,N,False,True,nominatim
+The Highlands Ski Resort,2018-2019,42.9912,-85.7325,773,1325,552,,,,145.0,2018,Michigan,United States,N,False,True,nominatim
+The Highlands Ski Resort,2019-2020,42.9912,-85.7325,773,1325,552,,,,125.0,2019,Michigan,United States,N,False,True,nominatim
+The Highlands Ski Resort,2020-2021,42.9912,-85.7325,773,1325,552,,,,63.0,2020,Michigan,United States,N,False,True,nominatim
+The Highlands Ski Resort,2021-2022,42.9912,-85.7325,773,1325,552,2021-12-03,2022-03-27,114,77.0,2021,Michigan,United States,N,True,True,nominatim
+The Highlands Ski Resort,2022-2023,42.9912,-85.7325,773,1325,552,2022-11-23,2023-03-19,116,146.0,2022,Michigan,United States,N,True,True,nominatim
+The Highlands Ski Resort,2023-2024,42.9912,-85.7325,773,1325,552,2023-11-23,2024-03-08,106,108.0,2023,Michigan,United States,N,True,True,nominatim
+The Highlands Ski Resort,2024-2025,42.9912,-85.7325,773,1325,552,,,,171.0,2024,Michigan,United States,N,False,True,nominatim
+The Summit at Snoqualmie,2012-2013,,,2610,5420,2810,,,,467.0,2012,Washington,United States,N,False,True,not_found
+The Summit at Snoqualmie,2013-2014,,,2610,5420,2810,,,,205.0,2013,Washington,United States,N,False,True,not_found
+The Summit at Snoqualmie,2014-2015,,,2610,5420,2810,,,,37.0,2014,Washington,United States,N,False,True,not_found
+The Summit at Snoqualmie,2015-2016,,,2610,5420,2810,,,,314.0,2015,Washington,United States,N,False,True,not_found
+The Summit at Snoqualmie,2016-2017,,,2610,5420,2810,,,,280.0,2016,Washington,United States,N,False,True,not_found
+The Summit at Snoqualmie,2017-2018,,,2610,5420,2810,,,,302.0,2017,Washington,United States,N,False,True,not_found
+The Summit at Snoqualmie,2018-2019,,,2610,5420,2810,,,,201.0,2018,Washington,United States,N,False,True,not_found
+The Summit at Snoqualmie,2019-2020,,,2610,5420,2810,,,,213.0,2019,Washington,United States,N,False,True,not_found
+The Summit at Snoqualmie,2020-2021,,,2610,5420,2810,,,,216.0,2020,Washington,United States,N,False,True,not_found
+The Summit at Snoqualmie,2021-2022,,,2610,5420,2810,2021-12-14,2022-04-24,131,272.0,2021,Washington,United States,N,True,True,not_found
+The Summit at Snoqualmie,2022-2023,,,2610,5420,2810,2022-12-02,2023-04-16,135,233.0,2022,Washington,United States,N,True,True,not_found
+The Summit at Snoqualmie,2023-2024,,,2610,5420,2810,2023-12-09,2024-04-20,133,191.0,2023,Washington,United States,N,True,True,not_found
+The Summit at Snoqualmie,2024-2025,,,2610,5420,2810,,,,171.0,2024,Washington,United States,N,False,True,not_found
+Vail Ski Resort,2012-2013,39.5995,-106.3395,8120,11570,3450,,,,285.0,2012,Colorado,United States,N,False,True,nominatim
+Vail Ski Resort,2013-2014,39.5995,-106.3395,8120,11570,3450,,,,263.0,2013,Colorado,United States,N,False,True,nominatim
+Vail Ski Resort,2014-2015,39.5995,-106.3395,8120,11570,3450,,,,236.0,2014,Colorado,United States,N,False,True,nominatim
+Vail Ski Resort,2015-2016,39.5995,-106.3395,8120,11570,3450,,,,313.0,2015,Colorado,United States,N,False,True,nominatim
+Vail Ski Resort,2016-2017,39.5995,-106.3395,8120,11570,3450,,,,215.0,2016,Colorado,United States,N,False,True,nominatim
+Vail Ski Resort,2017-2018,39.5995,-106.3395,8120,11570,3450,,,,171.0,2017,Colorado,United States,N,False,True,nominatim
+Vail Ski Resort,2018-2019,39.5995,-106.3395,8120,11570,3450,,,,281.0,2018,Colorado,United States,N,False,True,nominatim
+Vail Ski Resort,2019-2020,39.5995,-106.3395,8120,11570,3450,,,,229.0,2019,Colorado,United States,N,False,True,nominatim
+Vail Ski Resort,2020-2021,39.5995,-106.3395,8120,11570,3450,,,,218.0,2020,Colorado,United States,N,False,True,nominatim
+Vail Ski Resort,2021-2022,39.5995,-106.3395,8120,11570,3450,2021-11-12,2022-05-01,170,231.0,2021,Colorado,United States,N,True,True,nominatim
+Vail Ski Resort,2022-2023,39.5995,-106.3395,8120,11570,3450,2022-11-11,2023-04-23,163,329.0,2022,Colorado,United States,N,True,True,nominatim
+Vail Ski Resort,2023-2024,39.5995,-106.3395,8120,11570,3450,2023-11-10,2024-04-22,164,279.0,2023,Colorado,United States,N,True,True,nominatim
+Vail Ski Resort,2024-2025,39.5995,-106.3395,8120,11570,3450,,,,285.0,2024,Colorado,United States,N,False,True,nominatim
+Whistler Blackcomb Ski Resort,2012-2013,50.0814,-122.9635,2214,7347,5133,,,,280.0,2012,British Columbia,Canada,N,False,True,nominatim
+Whistler Blackcomb Ski Resort,2013-2014,50.0814,-122.9635,2214,7347,5133,,,,274.0,2013,British Columbia,Canada,N,False,True,nominatim
+Whistler Blackcomb Ski Resort,2014-2015,50.0814,-122.9635,2214,7347,5133,,,,219.0,2014,British Columbia,Canada,N,False,True,nominatim
+Whistler Blackcomb Ski Resort,2015-2016,50.0814,-122.9635,2214,7347,5133,,,,435.0,2015,British Columbia,Canada,N,False,True,nominatim
+Whistler Blackcomb Ski Resort,2016-2017,50.0814,-122.9635,2214,7347,5133,,,,505.0,2016,British Columbia,Canada,N,False,True,nominatim
+Whistler Blackcomb Ski Resort,2017-2018,50.0814,-122.9635,2214,7347,5133,,,,316.0,2017,British Columbia,Canada,N,False,True,nominatim
+Whistler Blackcomb Ski Resort,2018-2019,50.0814,-122.9635,2214,7347,5133,,,,374.0,2018,British Columbia,Canada,N,False,True,nominatim
+Whistler Blackcomb Ski Resort,2019-2020,50.0814,-122.9635,2214,7347,5133,,,,295.0,2019,British Columbia,Canada,N,False,True,nominatim
+Whistler Blackcomb Ski Resort,2020-2021,50.0814,-122.9635,2214,7347,5133,,,,281.0,2020,British Columbia,Canada,N,False,True,nominatim
+Whistler Blackcomb Ski Resort,2021-2022,50.0814,-122.9635,2214,7347,5133,2021-11-25,2022-05-23,179,418.0,2021,British Columbia,Canada,N,True,True,nominatim
+Whistler Blackcomb Ski Resort,2022-2023,50.0814,-122.9635,2214,7347,5133,2022-11-24,2023-05-20,177,296.0,2022,British Columbia,Canada,N,True,True,nominatim
+Whistler Blackcomb Ski Resort,2023-2024,50.0814,-122.9635,2214,7347,5133,2023-11-23,2024-05-21,180,317.0,2023,British Columbia,Canada,N,True,True,nominatim
+Whistler Blackcomb Ski Resort,2024-2025,50.0814,-122.9635,2214,7347,5133,,,,188.0,2024,British Columbia,Canada,N,False,True,nominatim
+Whitetail Resort,2012-2013,39.7432,-77.9375,865,1800,935,,,,18.0,2012,Pennsylvania,United States,N,False,True,nominatim
+Whitetail Resort,2013-2014,39.7432,-77.9375,865,1800,935,,,,77.0,2013,Pennsylvania,United States,N,False,True,nominatim
+Whitetail Resort,2014-2015,39.7432,-77.9375,865,1800,935,,,,29.0,2014,Pennsylvania,United States,N,False,True,nominatim
+Whitetail Resort,2015-2016,39.7432,-77.9375,865,1800,935,,,,39.0,2015,Pennsylvania,United States,N,False,True,nominatim
+Whitetail Resort,2016-2017,39.7432,-77.9375,865,1800,935,,,,25.0,2016,Pennsylvania,United States,N,False,True,nominatim
+Whitetail Resort,2017-2018,39.7432,-77.9375,865,1800,935,,,,41.0,2017,Pennsylvania,United States,N,False,True,nominatim
+Whitetail Resort,2018-2019,39.7432,-77.9375,865,1800,935,,,,39.0,2018,Pennsylvania,United States,N,False,True,nominatim
+Whitetail Resort,2019-2020,39.7432,-77.9375,865,1800,935,,,,5.0,2019,Pennsylvania,United States,N,False,True,nominatim
+Whitetail Resort,2020-2021,39.7432,-77.9375,865,1800,935,,,,14.0,2020,Pennsylvania,United States,N,False,True,nominatim
+Whitetail Resort,2021-2022,39.7432,-77.9375,865,1800,935,2021-12-27,2022-03-20,83,10.0,2021,Pennsylvania,United States,N,True,True,nominatim
+Whitetail Resort,2022-2023,39.7432,-77.9375,865,1800,935,2022-12-24,2023-02-27,65,0.0,2022,Pennsylvania,United States,N,True,True,nominatim
+Whitetail Resort,2023-2024,39.7432,-77.9375,865,1800,935,2023-12-23,2024-03-10,78,15.0,2023,Pennsylvania,United States,N,True,True,nominatim
+Whitetail Resort,2024-2025,39.7432,-77.9375,865,1800,935,,,,22.0,2024,Pennsylvania,United States,N,False,True,nominatim
+Wildcat Mountain Ski Resort,2012-2013,44.2569,-71.2325,1950,4062,2112,,,,173.0,2012,New Hampshire,United States,N,False,True,nominatim
+Wildcat Mountain Ski Resort,2013-2014,44.2569,-71.2325,1950,4062,2112,,,,166.0,2013,New Hampshire,United States,N,False,True,nominatim
+Wildcat Mountain Ski Resort,2014-2015,44.2569,-71.2325,1950,4062,2112,,,,178.0,2014,New Hampshire,United States,N,False,True,nominatim
+Wildcat Mountain Ski Resort,2015-2016,44.2569,-71.2325,1950,4062,2112,,,,84.0,2015,New Hampshire,United States,N,False,True,nominatim
+Wildcat Mountain Ski Resort,2016-2017,44.2569,-71.2325,1950,4062,2112,,,,218.0,2016,New Hampshire,United States,N,False,True,nominatim
+Wildcat Mountain Ski Resort,2017-2018,44.2569,-71.2325,1950,4062,2112,,,,176.0,2017,New Hampshire,United States,N,False,True,nominatim
+Wildcat Mountain Ski Resort,2018-2019,44.2569,-71.2325,1950,4062,2112,,,,179.0,2018,New Hampshire,United States,N,False,True,nominatim
+Wildcat Mountain Ski Resort,2019-2020,44.2569,-71.2325,1950,4062,2112,,,,113.0,2019,New Hampshire,United States,N,False,True,nominatim
+Wildcat Mountain Ski Resort,2020-2021,44.2569,-71.2325,1950,4062,2112,,,,66.0,2020,New Hampshire,United States,N,False,True,nominatim
+Wildcat Mountain Ski Resort,2021-2022,44.2569,-71.2325,1950,4062,2112,2021-12-03,2022-04-10,128,100.0,2021,New Hampshire,United States,N,True,True,nominatim
+Wildcat Mountain Ski Resort,2022-2023,44.2569,-71.2325,1950,4062,2112,2022-11-24,2023-04-16,143,213.0,2022,New Hampshire,United States,N,True,True,nominatim
+Wildcat Mountain Ski Resort,2023-2024,44.2569,-71.2325,1950,4062,2112,2023-11-22,2024-04-14,144,163.0,2023,New Hampshire,United States,N,True,True,nominatim
+Wildcat Mountain Ski Resort,2024-2025,44.2569,-71.2325,1950,4062,2112,,,,79.0,2024,New Hampshire,United States,N,False,True,nominatim
+Wilmot Mountain,2012-2013,42.4998,-88.1904,770,960,190,,,,44.0,2012,Wisconsin,United States,N,False,True,nominatim
+Wilmot Mountain,2013-2014,42.4998,-88.1904,770,960,190,,,,58.0,2013,Wisconsin,United States,N,False,True,nominatim
+Wilmot Mountain,2014-2015,42.4998,-88.1904,770,960,190,,,,15.0,2014,Wisconsin,United States,N,False,True,nominatim
+Wilmot Mountain,2015-2016,42.4998,-88.1904,770,960,190,,,,12.0,2015,Wisconsin,United States,N,False,True,nominatim
+Wilmot Mountain,2016-2017,42.4998,-88.1904,770,960,190,,,,17.0,2016,Wisconsin,United States,N,False,True,nominatim
+Wilmot Mountain,2017-2018,42.4998,-88.1904,770,960,190,,,,37.0,2017,Wisconsin,United States,N,False,True,nominatim
+Wilmot Mountain,2018-2019,42.4998,-88.1904,770,960,190,,,,35.0,2018,Wisconsin,United States,N,False,True,nominatim
+Wilmot Mountain,2019-2020,42.4998,-88.1904,770,960,190,,,,6.0,2019,Wisconsin,United States,N,False,True,nominatim
+Wilmot Mountain,2020-2021,42.4998,-88.1904,770,960,190,,,,22.0,2020,Wisconsin,United States,N,False,True,nominatim
+Wilmot Mountain,2021-2022,42.4998,-88.1904,770,960,190,2021-12-03,2022-03-13,100,10.0,2021,Wisconsin,United States,N,True,True,nominatim
+Wilmot Mountain,2022-2023,42.4998,-88.1904,770,960,190,2022-11-27,2023-03-12,105,23.0,2022,Wisconsin,United States,N,True,True,nominatim
+Wilmot Mountain,2023-2024,42.4998,-88.1904,770,960,190,2023-12-01,2024-03-03,93,10.0,2023,Wisconsin,United States,N,True,True,nominatim
+Wilmot Mountain,2024-2025,42.4998,-88.1904,770,960,190,,,,20.0,2024,Wisconsin,United States,N,False,True,nominatim
+Windham Mountain Resort,2012-2013,42.3012,-74.2559,1500,3100,1600,,,,107.0,2012,New York,United States,N,False,True,nominatim
+Windham Mountain Resort,2013-2014,42.3012,-74.2559,1500,3100,1600,,,,129.0,2013,New York,United States,N,False,True,nominatim
+Windham Mountain Resort,2014-2015,42.3012,-74.2559,1500,3100,1600,,,,171.0,2014,New York,United States,N,False,True,nominatim
+Windham Mountain Resort,2015-2016,42.3012,-74.2559,1500,3100,1600,,,,12.0,2015,New York,United States,N,False,True,nominatim
+Windham Mountain Resort,2016-2017,42.3012,-74.2559,1500,3100,1600,,,,112.0,2016,New York,United States,N,False,True,nominatim
+Windham Mountain Resort,2017-2018,42.3012,-74.2559,1500,3100,1600,,,,99.0,2017,New York,United States,N,False,True,nominatim
+Windham Mountain Resort,2018-2019,42.3012,-74.2559,1500,3100,1600,,,,84.0,2018,New York,United States,N,False,True,nominatim
+Windham Mountain Resort,2019-2020,42.3012,-74.2559,1500,3100,1600,,,,38.0,2019,New York,United States,N,False,True,nominatim
+Windham Mountain Resort,2020-2021,42.3012,-74.2559,1500,3100,1600,,,,90.0,2020,New York,United States,N,False,True,nominatim
+Windham Mountain Resort,2021-2022,42.3012,-74.2559,1500,3100,1600,2021-11-26,2022-04-03,128,52.0,2021,New York,United States,N,True,True,nominatim
+Windham Mountain Resort,2022-2023,42.3012,-74.2559,1500,3100,1600,2022-11-21,2023-04-02,132,49.0,2022,New York,United States,N,True,True,nominatim
+Windham Mountain Resort,2023-2024,42.3012,-74.2559,1500,3100,1600,2023-11-24,2024-03-31,128,37.0,2023,New York,United States,N,True,True,nominatim
+Windham Mountain Resort,2024-2025,42.3012,-74.2559,1500,3100,1600,,,,34.0,2024,New York,United States,N,False,True,nominatim
+Winter Park Resort,2012-2013,39.8716,-105.7827,9000,12060,3060,,,,300.0,2012,Colorado,United States,N,False,True,nominatim
+Winter Park Resort,2013-2014,39.8716,-105.7827,9000,12060,3060,,,,356.0,2013,Colorado,United States,N,False,True,nominatim
+Winter Park Resort,2014-2015,39.8716,-105.7827,9000,12060,3060,,,,288.0,2014,Colorado,United States,N,False,True,nominatim
+Winter Park Resort,2015-2016,39.8716,-105.7827,9000,12060,3060,,,,385.0,2015,Colorado,United States,N,False,True,nominatim
+Winter Park Resort,2016-2017,39.8716,-105.7827,9000,12060,3060,,,,401.0,2016,Colorado,United States,N,False,True,nominatim
+Winter Park Resort,2017-2018,39.8716,-105.7827,9000,12060,3060,,,,302.0,2017,Colorado,United States,N,False,True,nominatim
+Winter Park Resort,2018-2019,39.8716,-105.7827,9000,12060,3060,,,,328.0,2018,Colorado,United States,N,False,True,nominatim
+Winter Park Resort,2019-2020,39.8716,-105.7827,9000,12060,3060,,,,253.0,2019,Colorado,United States,N,False,True,nominatim
+Winter Park Resort,2020-2021,39.8716,-105.7827,9000,12060,3060,,,,216.0,2020,Colorado,United States,N,False,True,nominatim
+Winter Park Resort,2021-2022,39.8716,-105.7827,9000,12060,3060,2021-12-18,2022-05-21,154,267.0,2021,Colorado,United States,N,True,True,nominatim
+Winter Park Resort,2022-2023,39.8716,-105.7827,9000,12060,3060,2022-10-31,2023-05-29,210,405.0,2022,Colorado,United States,N,True,True,nominatim
+Winter Park Resort,2023-2024,39.8716,-105.7827,9000,12060,3060,2023-11-03,2024-05-27,206,443.0,2023,Colorado,United States,N,True,True,nominatim
+Winter Park Resort,2024-2025,39.8716,-105.7827,9000,12060,3060,,,,331.0,2024,Colorado,United States,N,False,True,nominatim
